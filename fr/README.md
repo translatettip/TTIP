@@ -13,3 +13,6 @@ Pour traduire un fichier, merci de suivre la procédure suivante :
 6. Laissez un commentaire pour expliquer votre modification (traduction/correction/...)
 7. Confirmez en cliquant sur "Create pull request
 8. Faites la modification suivante :)
+
+
+Une fois le fichier entièrement traduit, un pdf en français sera généré et disponible pour tous !
