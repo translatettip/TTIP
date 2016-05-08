@@ -6,9 +6,10 @@ Avant toute chose, n'hésitez pas à sauvegarder vos modifications aussi souvent
 Pour traduire un fichier, merci de suivre la procédure suivante :
 
 1. Cliquez sur le nom du fichier
-2. Remplacez la phrase en anglais par une phrase en français
-3. En bas de page, cliquez sur "Propose file change"
-4. Cliquez sur "Create pull request"
-5. Laissez un commentaire pour expliquer votre modification (traduction/correction/...)
-6. Confirmez en cliquant sur "Create pull request
-7. Faites la modification suivante :)
+2. Cliquez sur le petit crayon pour éditer
+3. Remplacez la phrase en anglais par une phrase en français
+4. En bas de page, cliquez sur "Propose file change"
+5. Cliquez sur "Create pull request"
+6. Laissez un commentaire pour expliquer votre modification (traduction/correction/...)
+7. Confirmez en cliquant sur "Create pull request
+8. Faites la modification suivante :)
