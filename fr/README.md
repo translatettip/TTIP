@@ -1,4 +1,5 @@
 Avant toute chose, n'hésitez pas à sauvegarder vos modifications aussi souvent que nécessaire, ça permet de :
+
 1. Ne pas perdre vos modifications
 2. Éviter de traduire la même phrase que quelqu'un d'autre
 
