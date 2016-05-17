@@ -1,18 +1,19 @@
 Merci de respecter la synthaxe ! ![alt text](http://findicons.com/files/icons/1008/quiet/128/attention2.png "ATTENTION")
 =============================
 
-EUROPEAN COMMISSION
+EUROPEAN COMMISSION  
 Directorate-General for Trade
 
-Directorate F – WTO, Legal Affairs and Trade in Goods
+Directorate F – WTO, Legal Affairs and Trade in Goods  
 Tariff and Non-Tariff Negotiations, Rules of Origin
 
-Brussels, 20 Novembre 2015
+Brussels, 20 Novembre 2015  
 TRADE/CH
 
 Subject: EU – US revised tariff offers, October 2015.
-Background
 
+Background
+----------
 The EU and the US exchanged revised1 tariff offers on 15 October, 2015, in which both parties
 increased the number of tariff lines offered for duty elimination to 97%. Within the 97%, a new
 staging category called “T” was introduced for 2% of tariff lines with staging modalities to be
@@ -35,6 +36,7 @@ numeric balance between the US and EU offers in the entry into force, T and OT/U
 will facilitate subsequent tariff negotiations.
 
 1. Summary
+-----------
 The two tariff offers are now globally balanced in terms of tariff line coverage, with an ambitious
 entry into force and overall high duty elimination coverage. The situation is thus more stable and
 equally ambitious from several perspectives. Total trade value coverage is however still unbalanced
@@ -60,6 +62,7 @@ leverage.
 [1] Initial tariff offers were exchanged on 10 February, 2014.
 
 2. Global comparison
+----------------
   1. Comparison of tariff line coverage
 
 Both offers are now comparable in terms of ambition on tariff line coverage, with 97% of tariff lines
@@ -128,6 +131,7 @@ Not fully liberalized 0.7% 2.0% -1.3 pp
 OT/U 0.7% 2.0% -1.3 pp
 
 3. Composition of Other Treatment (OT), Undefined, “T” and the 7 category
+----------------
   1. OT and Undefined
 The EU offer uses all OT lines (3% or 281 TLs) for agricultural goods. The bulk (128 TLs) is meat
 products (bovine, swine and poultry) in Chapter 02, dairy lines, fertilized chicken eggs, vegetables
@@ -178,6 +182,7 @@ chemicals, 5 leather articles, 4 glass, 4 ceramics, 10 footwear, and 2 aluminum 
 economically largest groups.
 
 4. Conditionalities
+---------------
 Both sides maintained their respective initial conditionalities linked to the tariff offers. The EU
 added two new conditionalities. One is for car tariff lines, for which it only committed to discuss
 these when the US is ready to offer duty elimination on its car tariff lines. The second new
@@ -187,6 +192,7 @@ procurement offer by the US in February 2016 is also added. The full set of cond
 annexed (Annex 1) in a comparative table.
 
 5. Comparison of main sectors
+-----------------
 The EU defines its three main sectors as follows: Agricultural (basic and processed), Fishery, and
 Industrial. The US defines its negotiation clusters, except for agricultural goods, somewhat
 differently. The US industrial sector definition includes fishery but excludes textiles, which has a
