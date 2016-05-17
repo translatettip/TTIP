@@ -1,18 +1,18 @@
 Merci de respecter la synthaxe ! ![alt text](http://findicons.com/files/icons/1008/quiet/128/attention2.png "ATTENTION")
 =============================
 
-EUROPEAN COMMISSION  
+COMMISSION EUROPÉENNE  
 Directorate-General for Trade
 
 Directorate F – WTO, Legal Affairs and Trade in Goods  
 Tariff and Non-Tariff Negotiations, Rules of Origin
 
-Brussels, 20 Novembre 2015  
+Bruxelles, 20 Novembre 2015  
 TRADE/CH
 
-Subject: EU – US revised tariff offers, October 2015.
+Subject: EU – US revised tariff offers, Octobre 2015.
 
-Background
+Historique
 ----------
 The EU and the US exchanged revised1 tariff offers on 15 October, 2015, in which both parties
 increased the number of tariff lines offered for duty elimination to 97%. Within the 97%, a new
@@ -191,7 +191,7 @@ than chicken). A more general language on EU expectations of an “economically 
 procurement offer by the US in February 2016 is also added. The full set of conditionalities is
 annexed (Annex 1) in a comparative table.
 
-5. Comparison of main sectors
+5. Comparaison des secteurs principaux
 -----------------
 The EU defines its three main sectors as follows: Agricultural (basic and processed), Fishery, and
 Industrial. The US defines its negotiation clusters, except for agricultural goods, somewhat
