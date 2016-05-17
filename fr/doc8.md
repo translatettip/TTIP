@@ -59,21 +59,20 @@ basket (EIF). The EU offer at year 3 is at 3.7% some 1.7 percentage points highe
 Consequently, the EU offer in the 7-year category is 1.7 percentage points lower than the US.
 
             Table 1. Comparison of tariff line coverage
-|-------------------------------------------------------------------------|
-| All sectors               |               Tariff lines                  |
-|-------------------------------------------------------------------------|
-| Modality                  |     EU     |      US   |    Difference      |
-|-------------------------------------------------------------------------|
-| Liberalized               |   97.0%    |    97.0%  |          0.0 pp    |  
-| EIF                       |   87.5%    |    87.5%  |          0.0 pp    |
-|- of which MFN zero        |   25.0%    |    36.1%  |        -11.2 pp    |
-|- of which additional EIF  |   62.6%    |    51.3%  |         11.2 pp    |
-| Y3                        |    3.7%    |     2.0%  |          1.7 pp    |
-| Y7                        |    3.8%    |     5.5%  |        - 1.7 pp    |
-| T basket                  |    2.0%    |     2.0%  |          0.0 pp    |
-| Not fully liberalized     |    3.0%    |     3.0%  |          0.0 pp    |
-| OT/U                      |    3.0%    |     3.0%  |          0.0 pp    |
-|-------------------------------------------------------------------------|
+
+| **Tous les secteurs**         |           | Tariff lines |                |
+|-------------------------------|----------:|:------------:|---------------:|
+| Modality                      |    **EU** |    **US**    | **Différence** |
+| **Libéralisé**                | **97.0%** |    **97.0%** |     **0.0 pp** |
+| **EIF**                       |     87.5% |        87.5% |         0.0 pp |
+|   - *of which MFN zero*       |     25.0% |        36.1% |       -11.2 pp |
+|   - *of which additional EIF* |     62.6% |        51.3% |        11.2 pp |
+| Y3                            |      3.7% |         2.0% |         1.7 pp |
+| Y7                            |      3.8% |         5.5% |        -1.7 pp |
+| T basket                      |      2.0% |         2.0% |         0.0 pp |
+| **Not fully liberalized**     |  **3.0%** |     **3.0%** |     **0.0 pp** |
+| OT/U                          |      3.0% |         3.0% |         0.0 pp |
+
 
 RESTREINT EU/EU RESTRICTED
 2.2. Comparison of trade value coverage
