@@ -1,7 +1,6 @@
 ![alt text](http://findicons.com/files/icons/1008/quiet/128/attention2.png "ATTENTION")
 Merci de respecter la synthaxe !
-================================
-![alt text](http://findicons.com/files/icons/1008/quiet/128/attention2.png "ATTENTION")
+=============================
 
 
 Chapter [ ]
