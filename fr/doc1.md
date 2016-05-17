@@ -1,23 +1,32 @@
+Chapter [ ]
+===========
+National Treatment and Market Access for Goods
+==================
 X.1 [EU: Objectifs
+----------
 
 The Parties progressively and reciprocally liberalize trade in goods over a transitional period starting from the entry into force of this Agreement in accordance with the provisions of this
 Agreement and in conformity with Article XXIV of the GATT 1994.]
 
 X.2 Portée [US: et Couverture]
+------------
 
 [US: Sauf si prévu autrement par cet Accord, ce] [EU: ce] Chapitre s'applique au commerce de biens [US: d'une partie] [EU: entre les Parties].
 
 X.3. National Treatment
+-------------
 
 1. Each Party shall accord national treatment to the goods of [US: another] [EU: the other] Party in accordance with Article III of GATT 1994, including its Notes and Supplementary Provisions. To this end, Article III of GATT 1994, including its Notes and Supplementary Provisions, is incorporated into and made part of this Agreement, mutatis mutandis.
 2. [US: The treatment to be accorded by a Party under paragraph 1 means, with respect to a regional level of government, treatment no less favorable than the most favorable treatment that a regional level of government accords to any like, directly competitive, or substitutable goods, as the case may be, of the Party of which it forms a part.
 3. Paragraphs 1 and 2 shall not apply to measures set out in Annex X-A.]
 
-X.4. [EU: Classification of 
+X.4. [EU: Classification of
+-------------
 
 The classification of goods in trade between Parties shall be governed by each Party's respective tariff nomenclature in conformity with the Harmonized Commodity Description and Coding System 2012 (“HS 2012”) and its amendments.]
 
 X.5. [EU: Reduction and] Elimination of Customs Duties [EU: on Imports]
+-------------
 
 1. [EU: Upon the entry into force of the] Except as otherwise provided in this Agreement, [EU: neither Party may] [US: no Party shall] increase any existing customs duty, or [US: adopt] [EU: introduce] any new customs duty [US: , ] on [EU: the importation of a good originating in the other Party] [US: an originating good].
 [EU: This shall not preclude either Party from raising] [US: For greater certainty, a Party may:
@@ -29,11 +38,13 @@ X.5. [EU: Reduction and] Elimination of Customs Duties [EU: on Imports]
 4. [EU: If at any moment a Party reduces its applied most favored nation customs duty rates on imports after the date on entry into force of this Agreement, that duty rate shall apply if and for as long as it is lower than the customs duty rate on imports calculated in accordance with that Party's Schedule.] [US: For greater certainty, no Party shall prohibit an importer from claiming for an originating good the rate of customs duty applied under the WTO Agreement.]
 
 X.6. [US: Waiver of Customs Duties
+-------------
 
 1. No Party shall adopt any new waiver of customs duties, or expand with respect to existing recipients or extend to any new recipient the application of an existing waiver of customs duties, where the waiver is conditioned, explicitly or implicitly, on the fulfillment of a performance requirement.
 2. No Party shall, explicitly or implicitly, condition on the fulfillment of a performance requirement the continuation of any existing waiver of customs duties.]
 
 X.7. [US: Temporary Admission of Goods
+-------------
 
 1. Each Party shall grant duty-free temporary admission for the following goods, regardless of their origin:
 	(a) professional equipment, including equipment for the press or television, software, and broadcasting and cinematographic equipment, necessary for carrying out the business activity, trade, or profession of a person who qualifies for temporary entry pursuant to the laws of the importing Party;
@@ -61,6 +72,7 @@ X.7. [US: Temporary Admission of Goods
 	d) no Party shall require that the carrier bringing a container from the territory of another Party into its territory be the same carrier that takes the container out of the Party's territory.]
 
 X.8. Goods Re-entered After Repair [US: or Alteration]
+-------------
 
 1. [EU: For the purposes of this Article, repair means any processing operation undertaken on goods to remedy operating defects or material damage and entailing the re-establishment of goods to their original function or to ensure their compliance with technical requirements for their use, without which the goods could no longer be used in the normal way for the purposes for which it was intended. Repair of goods includes restoring and maintenance.]
 [US: For purposes of this Article, repair or alteration does] [EU: It shall] not include an operation or process that [EU: either]:
@@ -72,12 +84,14 @@ X.8. Goods Re-entered After Repair [US: or Alteration]
 4. [US: No Party shall] [EU: A Party shall not] apply [US: a] customs duty to [US: a] good [EU: s], regardless of [US: its] [EU: their] origin, [US: admitted] [EU: imported] temporarily from the territory of [US: another] [EU: the other] Party for repair [US: or alteration].
 
 X.9. [US: Duty-Free Entry of Commercial Samples of Negligible Value and Printed Advertising Materials
+-------------
 
 Each Party shall grant duty-free entry to commercial samples of negligible value, and to printed advertising materials, imported from the territory of another Party, regardless of their origin, but may require that:
 	(a) the samples be imported solely for the solicitation of orders for goods or services provided from the territory of another Party or of a non-Party; or
 	(b) the advertising materials be imported in packets that each contain no more than one copy of each such material and that neither the materials nor the packets form part of a larger consignment.]
 
 X.10. Import and Export Restrictions
+-------------
 
 1. [EU: Article XI of the GATT 1994 and its Notes and Supplementary Provisions are incorporated into and made a part of this Agreement, mutatis mutandis.
 2. Before taking any measures provided for in Articles XI.2 (a) and (c) of the GATT 1994, the Party intending to take measures shall supply the other Party with all relevant information, with a view to seeking a solution acceptable to the Parties. The Parties may agree on any means needed to put an end to the difficulties. If no agreement is reached within 30 days, the exporting Party may apply measures under this Article on the exportation of the product concerned, without prejudice to the dispute settlement provisions of this Agreement. Where exceptional and critical circumstances requiring immediate action make prior information or examination impossible, the Party intending to take the measures may apply forthwith the precautionary measures necessary to deal with the situation and shall inform the other Party immediately thereof.]
@@ -96,6 +110,7 @@ X.10. Import and Export Restrictions
 10. For greater certainty, paragraph 9 does not prevent a Party from requiring that a person referred to in that paragraph designate a point of contact for the purpose of facilitating communications between its regulatory authorities and that person.]
 
 X.11. [US: Re-manufactured Goods
+-------------
 
 1. For greater certainty, paragraph 3 of Article X.10 (Import and Export Restrictions) applies prohibitions and restrictions on re-manufactured goods.
 2. If a Party adopts or maintains prohibitions or restrictions on used goods, it shall not apply those measures to re-manufactured goods.(voir notes en bas de page)]
@@ -105,6 +120,7 @@ X.11. [US: Re-manufactured Goods
 	(b) meet all applicable technical requirements that apply to equivalent goods in new condition.]
 
 X.12. Import [EU: and Export] Licensing
+-------------
 
 1. [EU: The Parties affirm their existing rights and obligations under the WTO Agreement on Import Licensing Procedures.
 2. The Parties shall ensure that all import and export licensing procedures are neutral in application, and administered in a fair, equitable, non-discriminatory and transparent manner.
@@ -123,6 +139,7 @@ X.12. Import [EU: and Export] Licensing
 11. No Party shall apply an import licensing procedure to a good of another Party unless the Party has complied with the requirements of paragraphs 8 and 10 with respect to that procedure.]
 
 X.13. [US: Transparency in Export Licensing Procedures
+-------------
 
 1. Within 30 days after the date of entry into force of this Agreement, each Party shall notify the other Party in writing of the publications in which its export licensing procedures, if any, are set out, including addresses of relevant government Internet websites. Thereafter, each Party shall publish any new export licensing procedure, or any modification of an export licensing procedure, it adopts no later than 30 days after the new procedure or modification takes effect.
 2. Each Party shall ensure that it includes in the publications it has notified under paragraph 1:
@@ -144,6 +161,7 @@ X.13. [US: Transparency in Export Licensing Procedures
 5. For the purposes of this Article: export licensing procedure means a requirement that a Party adopts or maintains under which an exporter must, as a condition for exporting a good from the Party's territory, submit an application or other documentation to an administrative body or bodies, but does not include customs documentation required in the normal course of trade or any requirement that must be fulfilled prior to introduction of the good into commerce within the Party's territory.]
 
 X.14. [US: Administrative] Fees Formalities [EU: Connected with Importation and Exportation]
+-------------
 
 1. [EU: Each Party shall ensure, in accordance with Article VIII of the GATT 1994, that all fees and charges of whatever character other than customs duties imposed on or in connection with importation or exportation shall be limited in amount to the approximate cost of services rendered, which shall not be calculated on an ad valorem basis, and shall not represent an indirect protection to domestic goods or taxation of imports or exports for fiscal purposes. To this end Article VIII of the GATT 1994, including its Notes and Supplementary Provisions, is made part of this Agreement.]
 2. No Party shall require consular transaction [EU: 4(voir notes en bas de page)], including related fees and charges, in connection with the importation of any good of a [EU: nother] Party.
@@ -156,6 +174,7 @@ X.15. [US: Export] [EU: Elimination of Customs] Duties [US: ,] [EU: and] Taxes [
 [US: No] [EU: Neither] Party shall [US: adopt or] maintain [EU: or institute] any [EU: customs] duty, [EU: or] tax [US: or other charge] on [EU: or in connection with] the export [EU: ation or sale for export of goods] [US: of any good to territory of another Party] [EU: to the other Party, or any internal taxes on goods exported to the other Party that are in excess of those imposed on like goods destined for internal sale] [US: unless the duty, tax, or charge is also applied to the good when destined for domestic consumption].
 
 X.16. [US: Committee on Trade in Goods] [EU: Institutional Provisions]
+-------------
 
 1. [US: The Parties hereby establish a Committee on Trade in Goods, comprising representatives of each Party.
 2. The Committee shall meet on the request of a Party or the Joint Committee to consider any matter arising under this Chapter, Chapter X (Roles of Origin and Origin Procedures), or Chapter Y (Customs Administration and Trade Facilitation).
@@ -170,6 +189,7 @@ X.16. [US: Committee on Trade in Goods] [EU: Institutional Provisions]
 The Committee may convene a subcommittee on customs matters to assist the Committee in its work under this paragraph.]
 
 X.17. Définitions
+-------------
 
 [EU: Unless otherwise specified in this Chapter, terms shall have the meanings attributed to them in the GATT and the WTO multilateral agreements on trade in goods.]
 For the purposes of this Chapter [EU: , the following definitions shall apply]:
