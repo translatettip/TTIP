@@ -15,31 +15,30 @@ X.2 Portée [US: et Couverture]
 
 X.3. National Treatment
 -------------
-
-1. Each Party shall accord national treatment to the goods of [US: another] [EU: the other] Party in accordance with Article III of GATT 1994, including its Notes and Supplementary Provisions. To this end, Article III of GATT 1994, including its Notes and Supplementary Provisions, is incorporated into and made part of this Agreement, mutatis mutandis.
-2. [US: The treatment to be accorded by a Party under paragraph 1 means, with respect to a regional level of government, treatment no less favorable than the most favorable treatment that a regional level of government accords to any like, directly competitive, or substitutable goods, as the case may be, of the Party of which it forms a part.
-3. Paragraphs 1 and 2 shall not apply to measures set out in Annex X-A.]
+1. Chaque Partie appliquera le traitement national aux biens [US: d'une autre] [EU: de l'autre] Partie conformément à l'Article III du GATT 1994, en ce compris ses Notes et Dispositions Supplémentaires. A cette fin, l'Article III du GATT 1994, en ce compris ses Notes et Dispositions Supplémentaires, est intégré dans, et fait partie de, cet Accord, mutatis mutandis (NdT: en changeant ce qui doit être changé)
+2. [US: Le traitement à accorder par une Partie en vertu du premier paragraphe signifie, en ce qui concerne un niveau régional de gouvernement, un traitement non moins favorable que le traitement le plus favorable qu'un niveau régional de gouvernment accorde à des biens similaires, directement concurrents, ou substituables, le cas échéant, de la Partie de laquelle il forme une partie. 
+3. Les paragraphes 1 et 2 ne sont pas applicables aux mesures énumérées dans l'Annexe X-A.]
 
 X.4. [EU: Classification of
 -------------
 
-The classification of goods in trade between Parties shall be governed by each Party's respective tariff nomenclature in conformity with the Harmonized Commodity Description and Coding System 2012 (“HS 2012”) and its amendments.]
+La classification des biens commercialisés entre les Parties est gouvernée par la nomenclature des tarifs respective de chaque Partie conformément au Système harmonisé de désignation et de codification des marchandises de 2012 (SH 2012) et ses amendements.]
 
-X.5. [EU: Reduction and] Elimination of Customs Duties [EU: on Imports]
+X.5. [EU: Reduction et] Elimination des Droits de Douane [EU: sur les Importations]
 -------------
 
-1. [EU: Upon the entry into force of the] Except as otherwise provided in this Agreement, [EU: neither Party may] [US: no Party shall] increase any existing customs duty, or [US: adopt] [EU: introduce] any new customs duty [US: , ] on [EU: the importation of a good originating in the other Party] [US: an originating good].
-[EU: This shall not preclude either Party from raising] [US: For greater certainty, a Party may:
-  1. raise] a customs duty to the level established in its Schedule [US: to Annex X-B] following a unilateral reduction [EU: ,] [US: ; or
-  1. maintain or increase a customs duty as authorized under Article 22 of the WTO Understanding on Rules and Procedures Governing the Settlement of Disputes by the Dispute Settlement Body of the WTO].
-2. [US: Except as otherwise provided in this Agreement, each Party shall progressively] [EU: Each party shall reduce and] eliminate its customs duties [EU: ] on [US: originating] [EU: imported] goods [EU: originating in the other Party] in accordance with [US: its Schedule to Annex X-B] [EU: the schedules set out in the Annexes […] and […] (hereinafter referred to as “the Schedules”)].
-3.
-  1. [US: Upon the request of a Party,] [EU: Three years after the entry into force of this Agreement, at the request of either Party,] the Parties shall consult to consider accelerating [EU: and broadening the scope of the reduction and] [US: the] elimination of customs duties [US: set out in their Schedules to Annex X-B] [EU: on imports].
-  1. [US: An agreement] [EU: A decision] by the Parties [EU: (within the … Committee) on such acceleration and broadening] [US: to accelerate the elimination of a customs duty on a good] shall supersede any duty rate or staging category determined pursuant to their Schedules [US: to Annex X-B] for that good [US: when approved by each Party in accordance with its applicable legal procedures].
-4. [EU: If at any moment a Party reduces its applied most favored nation customs duty rates on imports after the date on entry into force of this Agreement, that duty rate shall apply if and for as long as it is lower than the customs duty rate on imports calculated in accordance with that Party's Schedule.] [US: For greater certainty, no Party shall prohibit an importer from claiming for an originating good the rate of customs duty applied under the WTO Agreement.]
+1. [EU: Au moment de l'entrée en vigueur du (sic.)] Sauf disposition contraire dans cet Accord, [EU: aucune des deux parties ne pourra] [US: aucune partie n'augmentera] augmenter des droits de douane existant, ou [US: adopter][EU: introduire] de nouveaux droits de douane [US: , ] sur [EU: l'importation d'un bien ayant son origine dans l'autre Partie] [US: un bien originaire].
+[EU: Ceci ne peut empêcher aucune des parties de lever] [US: Pour une plus grande certitude, une Partie peut:
+  1. lever] un droit de douane au niveau établi dans son Calendrier [US: de l'Annexe X-B] suivant une réduction unilatérale[EU: ,] [US: ; ou
+  2. maintenir ou augmenter un droit de douane comme autorisé par l'Article 22 du Mémorandum d'accord de l'OMC sur les règles et procédures régissant le règlement des différends par l'Organe de règlement des différends de l'OMC].
+2. [US: Sauf en cas de disposition contraire dans cet Accord, chaque Partie élimine progressivement] [EU: Chaque partie réduit et] élimine ses droits de douane [EU: 1] sur les biens [US: originaires] [EU: importés][EU: trouvant leur origine 2 dans l'autre Partie] conformément à [US: Son Calendrier de l'Annexe X-B] [EU: les calendriers déterminés dans les Annexes […] et […] (ci-après : “les Calendriers”)].
+3. 
+  1. [US: Sur requête d'une des Parties,] [EU: Trois ans après l'entrée en vigueur de cet Accord, à la requête de l'une ou l'autre des Parties,] les Parties se consulteront en vue de considérer l'accélaration  [EU: et l'élargissement de l'étendue de la réduction et] [US: l'] élimination des droits de Douane [US: déterminés dans leurs Calendriers à l'Annexe X-B] [EU: sur les importations].
+  2. [US: Un Accord] [EU: Une décision] par les Parties [EU: (au sein du … Commité) sur une telle accélaration et élargissement] [US: pour accélérer l'élimination des droits de douane sur un bien] prévaut sur tout taux de douane ou catégorie d'échelonnement déterminé selon leurs calendriers [US: à l' Annexe X-B] Pour ce bien [US: quand approuvé par chaque Partie conformément à ses procédures légales applicables].
+4. [EU: Si à quelque moment que ce soit une Partie réduit ses taux de droits de douane appliqués à la nation la plus favorisée sur les importions après l'entrée en vigueur de cet accord, ce taux de douane sera appliqué si et aussi longtemps qu'il sera plus faible que les taux de droit de douane sur les importations calculés conformément au Calendrier de cette Partie] [US: Pour une plus grande certitude, aucune Partie n'interdit à un importateur de réclamer pour un bien originaire le taux de douane appliqué sous l'Accord OMC]
 
-[1]: [See Definitions]
-[2]: [See Definitions]
+[1]: [Voir Définitions]
+[2]: [Voir Définitions]
 
 X.6. [US: Waiver of Customs Duties
 -------------
