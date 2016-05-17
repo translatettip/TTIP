@@ -5,12 +5,12 @@ COMMISSION EUROPÉENNE
 Directorate-General for Trade
 
 Directorate F – WTO, Legal Affairs and Trade in Goods  
-Tariff and Non-Tariff Negotiations, Rules of Origin
+**Tariff and Non-Tariff Negotiations, Rules of Origin**
 
 Bruxelles, 20 Novembre 2015  
 TRADE/CH
 
-Subject: EU – US revised tariff offers, Octobre 2015.
+**Objet: EU – US revised tariff offers, Octobre 2015.**
 
 Historique
 ----------
