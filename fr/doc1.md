@@ -32,11 +32,14 @@ X.5. [EU: Reduction and] Elimination of Customs Duties [EU: on Imports]
 [EU: This shall not preclude either Party from raising] [US: For greater certainty, a Party may:
   1. raise] a customs duty to the level established in its Schedule [US: to Annex X-B] following a unilateral reduction [EU: ,] [US: ; or
   1. maintain or increase a customs duty as authorized under Article 22 of the WTO Understanding on Rules and Procedures Governing the Settlement of Disputes by the Dispute Settlement Body of the WTO].
-2. [US: Except as otherwise provided in this Agreement, each Party shall progressively] [EU: Each party shall reduce and] eliminate its customs duties [EU: 1] on [US: originating] [EU: imported] goods [EU: originating2 in the other Party] in accordance with [US: its Schedule to Annex X-B] [EU: the schedules set out in the Annexes […] and […] (hereinafter referred to as “the Schedules”)].
+2. [US: Except as otherwise provided in this Agreement, each Party shall progressively] [EU: Each party shall reduce and] eliminate its customs duties [EU: [1]] on [US: originating[2]] [EU: imported] goods [EU: originating2 in the other Party] in accordance with [US: its Schedule to Annex X-B] [EU: the schedules set out in the Annexes […] and […] (hereinafter referred to as “the Schedules”)].
 3.
   1. [US: Upon the request of a Party,] [EU: Three years after the entry into force of this Agreement, at the request of either Party,] the Parties shall consult to consider accelerating [EU: and broadening the scope of the reduction and] [US: the] elimination of customs duties [US: set out in their Schedules to Annex X-B] [EU: on imports].
   1. [US: An agreement] [EU: A decision] by the Parties [EU: (within the … Committee) on such acceleration and broadening] [US: to accelerate the elimination of a customs duty on a good] shall supersede any duty rate or staging category determined pursuant to their Schedules [US: to Annex X-B] for that good [US: when approved by each Party in accordance with its applicable legal procedures].
 4. [EU: If at any moment a Party reduces its applied most favored nation customs duty rates on imports after the date on entry into force of this Agreement, that duty rate shall apply if and for as long as it is lower than the customs duty rate on imports calculated in accordance with that Party's Schedule.] [US: For greater certainty, no Party shall prohibit an importer from claiming for an originating good the rate of customs duty applied under the WTO Agreement.]
+
+[1]: [See Definitions]
+[2]: [See Definitions]
 
 X.6. [US: Waiver of Customs Duties
 -------------
