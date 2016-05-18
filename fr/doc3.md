@@ -1,9 +1,7 @@
-RESTREINT EU/EU RESTRICTED
-Transatlantic Trade and Investment Partnership
-Cross-Border Trade in Services Text Consolidation
-November 30, 2015
-1
-RESTREINT EU/EU RESTRICTED
+Transatlantic Trade and Investment Partnership  
+Cross-Border Trade in Services Text Consolidation  
+30 Novembre 2015
+
 Disclaimer: The Parties reserve the right to make subsequent modifications to this text and to
 complement its proposal at a later stage, by modifying, supplementing or withdrawing all, or any
 part, at any time.
