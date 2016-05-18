@@ -1,8 +1,6 @@
-RESTREINT EU/EU RESTRICTED
 Government Procurement Chapter
 Additional Information About US-proposed Chapter on Anti-Corruption
-1
-RESTREINT EU/EU RESTRICTED
+
 During the ninth round of the TTIP negotiations, the US proposed that the Parties include the article
 “Ensuring Integrity in Procurement Practices” in the chapter on government procurement. The
 article as proposed indicated that it was “{f}urther to [Article X.2 of the chapter on Anti-Corruption
