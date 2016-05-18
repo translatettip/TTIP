@@ -1,15 +1,20 @@
-CHAPTER [ ]
-SANITARY AND PHYTOSANITARY MEASURES
-CONSOLIDATED PROPOSALS
-CHAPTER X
-SANITARY AND PHYTOSANITARY MEASURES
-[Note: Consistent with the recommendations of the US-EU High Level Working Group Report on
+##CHAPTER [ ]  
+## SANITARY AND PHYTOSANITARY MEASURES  
+## CONSOLIDATED PROPOSALS  
+
+## CHAPTER X  
+## SANITARY AND PHYTOSANITARY MEASURES
+
+*[Note: Consistent with the recommendations of the US-EU High Level Working Group Report on
 Jobs and Growth, the Parties seek to establish an “SPS-plus” chapter that builds upon the key
 principles of the World Trade Organization (WTO) SPS Agreement, including with respect to
 science, while preserving each Party's ability to achieving its appropriate level of protection as it
-relates to human, animal or plant life or health.]
-[EU: Objectives
-The objectives of this chapter are to:
+relates to human, animal or plant life or health.]*
+
+### [EU: Objectives
+
+### The objectives of this chapter are to:
+
 1. Facilitate trade between the Parties to the greatest extent possible while preserving each Party's
 right to protect human, animal or plant life and health in its territory and respecting each Party's
 regulatory systems, risk assessment, risk management and policy development processes;
@@ -23,59 +28,63 @@ Chapter;
 Parties;
 6. Improve consistency, predictability and transparency of each Party's SPS measures;
 7. Provide a framework for dialogue and cooperation with a view to enhancing the protection and
-welfare of animals and reaching a common understanding concerning animal welfare standards.]
-Article X.1: Scope [and Coverage]
+welfare of animals and reaching a common understanding concerning animal welfare standards
+
+### Article X.1: Scope [and Coverage]
+
 This Chapter [US: , unless otherwise specified,] applies to all SPS measures that may, directly or
 indirectly, affect trade between Parties.
 [EU: This Chapter shall also apply to collaboration on animal welfare matters.]
-Article X.2 [EU: Rights and Obligations / ] Affirmation of the SPS Agreement
+
+### Article X.2 [EU: Rights and Obligations / ] Affirmation of the SPS Agreement
+
 The Parties affirm their rights and obligations [US: with respect to each other] under the [WTO]
 SPS Agreement.
-2
-RESTREINT EU/EU RESTRICTED
+
 [EU: Nothing in this Chapter shall limit the rights or obligations of the Parties under the Agreement
 established by the World Trade Organization and its Annexes.
+
 The Parties shall avail themselves of the necessary resources to effectively implement this Chapter.]
-Article X.3: Competent Authorities [US: and Contact Points]
+
+### Article X.3: Competent Authorities [US: and Contact Points]
+
 [EU: For the purpose of this Chapter, the competent authorities of each Party are those listed in
 {Annex 2}. The Parties shall inform each other of any change of these competent authorities.]
 [US: Upon entry into force of this Agreement, each Party shall provide the other Party with the
 following information in writing:
-(a) with respect to each of the Parties' competent authorities that have responsibility for
+1. with respect to each of the Parties' competent authorities that have responsibility for
 developing, implementing, and enforcing SPS measures that may affect trade between the
 Parties;
-(i) a description of each authority, including the authority's specific responsibilities,
+  1. a description of each authority, including the authority's specific responsibilities,
 and
-(ii) a point of contact within each authority; and
-(b) the name and contact information for a representative of the Party with authority to
+  2. a point of contact within each authority; and
+2. the name and contact information for a representative of the Party with authority to
 accept correspondence or inquiries from the other Party regarding matters arising under this
 Chapter.
+
 Each Party shall promptly transmit to the other Party any material changes to this information.]
-Article X.4: Equivalence
+
+### Article X.4: Equivalence
 [EU: 1. The importing Party shall accept sanitary and phytosanitary measures of the exporting Party
 as equivalent to its own if the exporting Party objectively demonstrates to the importing Party that
 its measures achieve the importing Party's appropriate level of protection.]
+
 [EU: 2. Equivalence may be recognized in relation to an individual measure and/or groups of
 measures and/or systems applicable to a sector or part of a sector. For the determination, recognition
 and maintenance of equivalence the Parties shall follow the principles set out in the available
 guidance of international standard-setting bodies1 recognized by the WTO SPS Agreement, as well
 as in the provisions of {Annex IV}, where applicable.]
+
 [US: 1. Each Party recognizes that determining that SPS measures of the other Party achieve an
 equivalent level of sanitary or phytosanitary protection as its own SPS measures can facilitate trade
-1 [EU: Internationally agreed guidelines include, but are not limited to Guidelines of Codex Alimentarius on the
-Judgment of Equivalence of Sanitary Measures associated with Food Inspection and Certification Systems CAC/GL
-53-2003; International Standard for Phytosanitary Measures ISPM 24 Guidelines for the determination and
-recognition of equivalence of phytosanitary measures.]
-3
-RESTREINT EU/EU RESTRICTED
 between the Parties. Each Party shall permit such determinations of equivalence to be made with
 respect to a specific measure, on the basis of a product or category of products or on a system-wide
 basis.
 2. Each Party, in determining whether an SPS measure of the other Party achieves the Party's
 appropriate level of protection, shall take into account the following, where relevant:
-(a) decisions of the WTO SPS Committee;
-(b) the work of the relevant international organizations; and
-(c) knowledge acquired through experience with the other Party's relevant competent
+  1. decisions of the WTO SPS Committee;
+  2. the work of the relevant international organizations; and
+  3. knowledge acquired through experience with the other Party's relevant competent
 authorities.
 3. Each Party shall follow the process set forth in Annex X-A with respect to determinations of
 equivalence.]
@@ -89,28 +98,38 @@ undue delay and normally within six months.
 combination with the exporting Party's measures, will achieve the importing Party's appropriate
 level of protection.
 6. {Annex V} sets out:
-(a) The areas for which the importing Party recognizes that the measures of the exporting
+  1. The areas for which the importing Party recognizes that the measures of the exporting
 Party are equivalent to its own, and
-(b) The areas for which the importing Party recognizes that the fulfillment of the specified
+  2. The areas for which the importing Party recognizes that the fulfillment of the specified
 special conditions, combined with the exporting Party's measures, achieve the importing
 Party's appropriate level of protection.
 7. The Parties may agree on simplified sanitary or phytosanitary certificates for products for which
 equivalence has been recognized.]
-4
-RESTREINT EU/EU RESTRICTED
-[US: Article X.5: Science and Risk2
+
+[1] [EU: Internationally agreed guidelines include, but are not limited to Guidelines of Codex Alimentarius on the
+Judgment of Equivalence of Sanitary Measures associated with Food Inspection and Certification Systems CAC/GL
+53-2003; International Standard for Phytosanitary Measures ISPM 24 Guidelines for the determination and
+recognition of equivalence of phytosanitary measures.]
+
+### US: Article X.5: Science and Risk2
+
+*Note: additional provisions aimed at improving the use of science in SPS decision-making to be
+considered.*
+
 1. In undertaking a risk assessment appropriate to the circumstances, each Party shall ensure that it
 takes into account:
-(a) relevant available scientific evidence, including quantitative or qualitative data and
+  1. relevant available scientific evidence, including quantitative or qualitative data and
 information; and
-(b) relevant guidance from the WTO SOS Committee and international standards,
+  2. relevant guidance from the WTO SOS Committee and international standards,
 guidelines, and recommendations concerning the risk at issue.
+
 2. Prior to adopting an SPS regulation, each Party shall evaluate – in light of the results of any risk
 assessment that it undertook or relied upon in developing the SPS regulation – any alternatives to
 achieve the appropriate level of protection being considered by the Party or identified through
 timely submitted public comments, including where raised, the alternative of not adopting any
 regulation. Each Party shall conduct such evaluation with a view to ensuring compliance with the
 Party's obligation under 5.6 of the SPS Agreement.
+
 3. Each Party shall ensure that any risk assessment that it undertakes related to developing or
 reviewing an SPS regulation is under normal circumstances3 made available on the Internet for
 public review and comment. Each Party shall ensure that any of its competent authorities
@@ -121,76 +140,84 @@ competent authorities that are responsible for undertaking the risk assessment o
 connection with developing or reviewing an SPS regulation, shall, upon request, discuss with the
 other Party in a timely manner any matters the other Party raises in its comments related to the risk
 assessment, including possible alternatives to achieve the Party's appropriate level of protection.
+
 4. At the time a Party makes a risk assessment available for public comment, it shall include the
 following explanations:
-(a) how the assessment is appropriate to the circumstances of the particular risk at issue and
+  1. how the assessment is appropriate to the circumstances of the particular risk at issue and
 takes into account relevant scientific evidence, including quantitative or qualitative data and
 information;
-(b) how, if at all, the assessment takes into account the relevant international standards,
+  2. how, if at all, the assessment takes into account the relevant international standards,
 guidelines, and recommendations concerning the risks at issue; and
-2 [US: This Article shall not apply with respect to any SPS measure that conforms to international standards,
-guidelines, or recommendations.]
-3 [US: {Note: Specific exceptional circumstances to be discussed}]
-5
-Note: additional provisions aimed at improving the use of science in SPS decision-making to be
-considered.
-RESTREINT EU/EU RESTRICTED
-(c) how the assessment takes into account any risk assessment techniques developed by the
+  3. how the assessment takes into account any risk assessment techniques developed by the
 relevant international organizations.
 5. When issuing or submitting any final administrative decision for an SPS regulation, the Party
 shall make publicly available on the Internet an explanation of:
-(a) the relationship between the regulation and the scientific evidence and technical
+  1. the relationship between the regulation and the scientific evidence and technical
 information, including any risk assessment and any other analyses or information the
 regulatory authority considered in preparing the regulation, as well as how the specific
 requirements set out in the regulation address the risks the regulation seeks to address;
-(b) any alternative identified through public comments, including by a Party, as significantly
+  2. any alternative identified through public comments, including by a Party, as significantly
 less restrictive to trade; and
-(i) whether any of those alternatives are significantly less restrictive to trade;
-(ii) whether such alternatives were able to achieve the Party's appropriate level of
+    1. whether any of those alternatives are significantly less restrictive to trade;
+    2. whether such alternatives were able to achieve the Party's appropriate level of
 protection or were technically or economically feasible; and
-(iii) its reasons for selecting the measure set out in the final administrative decision.
+    3. its reasons for selecting the measure set out in the final administrative decision.
+
 6. Where a regulatory authority of a Party submits a proposal for an SPS measure for approval by a
 committee comprising national representatives and:
-(a) the committee rejects or modifies the proposal; or
-(b) the regulatory authority of a Party modifies the proposal in response to feedback,
+  1. the committee rejects or modifies the proposal; or
+  2. the regulatory authority of a Party modifies the proposal in response to feedback,
 including any rejection, from the committee
+
 each member of the committee or the regulatory authority of the Party, as the case might be, shall
 make publicly available an explanation of the basis for rejecting or modifying the proposal,
 including the extent to which it is supported by relevant scientific evidence and technical
 information and analysis, including any risk assessment.
+
 7. Each Party that provisionally adopts an SPS measure pursuant to Article 5.7 of the SPS
 Agreement that affects trade between Parties shall, upon request, explain:
-(a) to the extent possible, any alternatives significantly less restrictive to trade it considered
+  1. to the extent possible, any alternatives significantly less restrictive to trade it considered
 and why it considered that any such alternatives do not achieve the Party's appropriate level
 of protection or are not technically or economically feasible;
-(b) its view on any comments and information submitted by the other Party;
-(c) the additional information it believes [US: This Article shall not apply with respect to
+  2. its view on any comments and information submitted by the other Party;
+  3. the additional information it believes [US: This Article shall not apply with respect to
 any SPS measure that conforms to international standards, guidelines, or recommendations
-necessary for a more objective assessment of risk and plans for obtaining such information;
-and
-6
-RESTREINT EU/EU RESTRICTED
-(d) under what circumstances, and if possible when, it will review whether to maintain or
+necessary for a more objective assessment of risk and plans for obtaining such information; and
+  4. under what circumstances, and if possible when, it will review whether to maintain or
 modify the measure.]
-Article X.6: Adaption to Regional [US: Pest or Disease] Conditions
+
+[2] [US: This Article shall not apply with respect to any SPS measure that conforms to international standards,
+guidelines, or recommendations.]
+[3] [US: {Note: Specific exceptional circumstances to be discussed}]
+
+### Article X.6: Adaption to Regional [US: Pest or Disease] Conditions
+
 [EU: Animals, animal products and animal by-products]
+
 [EU: 1. The Parties recognize the principle of zoning which they agree to apply in their trade.]
+
 [EU: 6. The Parties also recognize the concept of compartmentalization and agree to cooperate on
 this matter.]
+
 [US: 1. Each Party recognizes that adaption of SPS measures to regional pest or disease conditions
 can facilitate trade. Each Party shall provide that such adaption may be made on the basis of an area
 or zone, place of production, or subpopulation. {not limited to animal products}]
+
 [EU: 2. The importing Party shall recognize the health status of zones as determined by the
 exporting Party, with respect to the animal and aquaculture diseases specified in {Annex II}.
+
 3. Without prejudice to Article X.18 {Emergency measures}, the importing Party shall recognize
 zoning decisions taken by the exporting Party in accordance with the criteria set out in Annex III
 where an area is affected by one or more of the diseases listed in {Annex II}.]
+
 [US: 2. The competent authorities of each Party shall work together to establish the risk
 management measures that would apply to trade between the Parties in the event either Party has
 made any change with respect to disease or pest status of a demarcation in its territory. {not limited
 to animal products}
+
 3. Each Party shall normally recognize the demarcations of the other Party located in the other
 Party's territory. {not limited to animal products}]
+
 [EU: 4. The exporting Party shall, if requested by the importing Party, provide full explanation and
 supporting data for the determinations and decisions covered by this Article and may request
 technical consultations in accordance with Article 15 {Technical Consultation}. The importing
@@ -198,93 +225,98 @@ Party shall assess the information within 15 working days following receipt. Any
 importing Party may request shall be carried out in accordance with Article [ ] {Audit and
 verification} and within 25 working days of receipt of the request for verification. The Parties shall
 endeavor to avoid unnecessary disruption to trade.
+
 5. Where a Party considers that a specific region has a special status with respect to a specific
 disease other than those in {Annex II} and which fulfills the criteria laid down in the OIE
 Terrestrial Code Chapter 1.2, it may request recognition of this status. The importing Party may also
 request additional guarantees in respect to imports of live animals and animal products appropriate
 to the agreed status. The guarantees for specific diseases are specified in {Annex IV}.]
+
 [US: 4. Each Party, in determining the pest or disease status respect to a particular demarcation
-7
-RESTREINT EU/EU RESTRICTED
 located in the other Party, shall take into account the following where applicable:
-(a) decisions of the WTO SPS Committee;
-(b) the work of the relevant international organizations; and
-(c) knowledge acquired through experience with the exporting Party's relevant sanitary or
+  1. decisions of the WTO SPS Committee;
+  2. the work of the relevant international organizations; and
+  3.  knowledge acquired through experience with the exporting Party's relevant sanitary or
 phytosanitary authorities.
+
 5. Each Party shall follow the procedures set forth in Annex X-B with respect to a request from the
 other Party to determine that a particular demarcation is free of a particular pest or disease.]
+
+*[US: Note: Annex X-B will be tabled at a later date.]*
+
 [EU: Plants and plant products
+
 7. Without prejudice to Article X.18 {Emergency measures} each Party shall recognize the
 phytosanitary status of the exporting Party as determined by the exporting Party in accordance with
 the following provisions:
-(a) The Parties recognize the concepts of Pest Free Areas, Pest Free Places of Production and
+  1. The Parties recognize the concepts of Pest Free Areas, Pest Free Places of Production and
 Pest Free Production Sites, as well as areas of low pest prevalence as specified in relevant
 FAO/IPPC International Standards for Phytosanitary Measures (ISPM), and of Protocol
 Zones according to Council Directive 2000/29/EC, which they agree to apply in their trade.
-(b) When establishing or maintaining phytosanitary measures, the importing Party shall take
+  2. When establishing or maintaining phytosanitary measures, the importing Party shall take
 into account pest free areas, pest free places of production, pest free production sites, areas
 of low pest prevalence, as well as protected zones established by the exporting Party.
-(c) The exporting Party shall identify Pest Free Areas, Pest Free Places of Production, Pest
+  3. The exporting Party shall identify Pest Free Areas, Pest Free Places of Production, Pest
 Free Production Sites, Protected Zones or areas of low pest prevalence to the other Party
 and, upon request, provide a full explanation and supporting data as provided for in the
 relevant ISPMs or otherwise deemed appropriate. Unless the importing Party raises an
 objection and requests consultations within 90 days, the regionalization decision so notified
 shall be understood as accepted.
-(d) Consultations referred to in subparagraph (c) shall take place in accordance with Article
+  4. Consultations referred to in subparagraph (c) shall take place in accordance with Article
 15 {Technical consultations}. The importing Party shall assess additional information
 requested within 90 days after receipt. Any verification the importing Party may request
 shall be carried out in accordance with {Article [ ] Audit and verification} and within 12
 months following receipt of the request for verification, taking into account the biology of
 the pest and the crop concerned.]
-8
-[US: Note: Annex X-B will be tabled at a later date.]
-RESTREINT EU/EU RESTRICTED
-Article X.7: Transparency [US: of Sanitary and Phytosanitary Regulations]
+
+### Article X.7: Transparency [US: of Sanitary and Phytosanitary Regulations]
+
 [EU: Notification:
+
 1. Each Party shall notify the other Party without undue delay of:
-(a) significant changes in pest/disease status, such as the presence and evolution of diseases
+  1. significant changes in pest/disease status, such as the presence and evolution of diseases
 in {Annex II Process of Recognition of Regional Conditions};
-(b) changes in their respective sanitary or phytosanitary measures;
-(c) findings of epidemiological importance with respect to animal diseases which are not in
+  2. changes in their respective sanitary or phytosanitary measures;
+  3. findings of epidemiological importance with respect to animal diseases which are not in
 Annex II, or which are new diseases;
-(d) significant food safety issues relating to products traded between the Parties; and
+  4. significant food safety issues relating to products traded between the Parties; and
 (any significant changes to the structure and organization of their competent authorities.
-Information exchange:
+
+**Information exchange:**
 2. The Parties will endeavor to exchange information on other relevant issues including:
-(a) on request, the results of a Party's official controls and a report concerning the results of
+  1. on request, the results of a Party's official controls and a report concerning the results of
 the controls carried out;
-(b) the results of import checks provided for in Article 13 {Import Checks and Fees} in case
+  2. the results of import checks provided for in Article 13 {Import Checks and Fees} in case
 of rejected or non-compliant consignments of products;
-(c) on request, risk analyses and scientific opinions relevant to this Chapter and produced
+  3. on request, risk analyses and scientific opinions relevant to this Chapter and produced
 under responsibility of a Party.
+
 3. Unless otherwise decided by the Committee referred to in Article 18 {Joint Management
 Committee}, when the information referred to in paragraph 1 or 2 has been made available via
 notification to the WTO or another relevant international standard-setting body in accordance with
 the relevant rules, the requirements in paragraph 1 and 2 as they apply to that information are
 fulfilled.]
+
 [US: 1. During the time period described in paragraph 2, when a regulatory authority of a Party is
 developing an SPS regulation, it shall, under normal circumstances,4 make publicly available on the
 Internet:
-(a) the text of the regulation it is developing;
-(b) any risk assessment, as well as the scientific evidence and technical information and any
+  1. the text of the regulation it is developing;
+  2. any risk assessment, as well as the scientific evidence and technical information and any
 other analyses and information the regulatory authority relied upon in support of the
-regulation and an explanation of how such evidence, information and analyses support the
-4 [US: Note: Specific exceptional circumstances to be discussed]
-9
-RESTREINT EU/EU RESTRICTED
-regulation;
-(c) an explanation of how the regulation, including its objectives, achieves those objectives,
+regulation and an explanation of how such evidence, information and analyses support the regulation;
+  3. an explanation of how the regulation, including its objectives, achieves those objectives,
 the rationale for the material features of the regulation, and any major alternatives being
 considered; and
-(d) the name and contact information of an official who may be contacted for questions
+  4. the name and contact information of an official who may be contacted for questions
 regarding the regulation.
 2. Each Party shall make publicly available the information described in paragraph 1:
-(a) after the relevant authority of the Party has developed a text for the regulation that
+  1. after the relevant authority of the Party has developed a text for the regulation that
 contains sufficient detail so as to allow persons to evaluate how the regulation, if adopted,
 would affect their interests; and
-(b) before the relevant authority of the Party that is developing the measure issues or submits
+  2. before the relevant authority of the Party that is developing the measure issues or submits
 any final administrative decision with respect to the regulation so that this authority may
 take into account timely received comments and, as appropriate, revise the regulation.
+
 3. Where a regulatory authority of a Party is developing an SPS regulation and makes publicly
 available the information described in paragraph 1, the Party shall ensure that any person, regardless
 of domicile, has an opportunity, on no less favorable terms than any person of the Party, to submit
@@ -294,72 +326,96 @@ make publicly available any comments it receives on the regulation, except to th
 to protect confidential information or withhold personal identifying information or inappropriate
 content, in which case the Party shall ensure it makes publicly available a version that redacts such
 information or a summary of the comment that does not contain such information.
+
 4. In determining the time period during which interested persons may submit comments on the
 regulation, each Party shall take into account the relevant decisions of the WTO SPS Committee.
+
 5. Where a regulatory authority of a Party issues any final administrative decision for an SPS
 regulation, each Party shall also make publicly available:
-(a) the text of the regulation;
-(b) an explanation of the regulation, including its objectives, and how the regulation
+  1. the text of the regulation;
+  2. an explanation of the regulation, including its objectives, and how the regulation
 achieves those objectives, and the rationale for the material features of the regulation (to the
 extent different from the explanation provided in accordance with paragraph 1 (c));
-(c) the regulatory authority's views on substantive issues raised in the comments; and
-(d) an explanation of the nature and the reason for any significant revisions to the regulation
+  3. the regulatory authority's views on substantive issues raised in the comments; and
+  4. an explanation of the nature and the reason for any significant revisions to the regulation
 since the Party made it available for public comment.
+
 6. Each Party shall publish, in print or electronically, all final SPS regulations in a single official
 journal or website. Each Party shall publish in this single official journal or website the text of any
-10
-RESTREINT EU/EU RESTRICTED
 SPS regulation it is developing and that it makes publicly available in accordance with paragraphs 1
 and 2.]
-[EU: Article X.8: Elimination of Redundant Control Measures
+
+[4] [US: Note: Specific exceptional circumstances to be discussed]
+
+### [EU: Article X.8: Elimination of Redundant Control Measures
+
 1. The Parties recognize each other's competent authorities as responsible to ensure that
 establishment, facilities and products eligible for exports meet the applicable sanitary or
 phytosanitary requirements of the importing Party.
 2. The importing Party shall accept establishments or facilities that were authorized and listed by
 the exporting Party without re-inspection, third party certification or any other additional
 guarantees.]
-Article X.9 [EU: Audits and Verification] [US: Audit and Inspections]
+
+### Article X.9 [EU: Audits and Verification] [US: Audit and Inspections]
+
 [EU: 1. In order to maintain confidence in the effective implementation of the provisions of this
 Chapter, each Party has the right to carry out an audit or verification, or both, of all or part of the
 other Party's control system. Audits shall follow a systems based approach which relies on the
 examination of a sample of system procedures, documents or records and, where required, a
 selection of sites.
+
 2. The nature and frequency of audits and verifications shall be determined by the importing Party
 taking into account the inherent risks of the product the track record of past import checks and other
 available information, such as audits and inspections undertaken by the competent authority of the
 exporting party.
+
 3. For the purpose of paragraph 1, the importing Party shall endeavor to rely on audits and
 verifications undertaken by the competent authority of the exporting Party.
+
 4. Audits and verifications shall be conducted in accordance with {Annex VII} and in line with
-internationally agreed guidelines5.
+internationally agreed guidelines[5].
+
 5. Verification procedures may include, but are not limited to:
-(a) an assessment of all or part of the exporting Party's total control program, including,
+  1. an assessment of all or part of the exporting Party's total control program, including,
 where appropriate, reviews of the exporting Party's inspection and audit programs, and
-(b) on-site checks and inspections of a selection of sites within the scope of the audit.
+  2. on-site checks and inspections of a selection of sites within the scope of the audit.
+
 6. For the European Union, the European Commission will carry out the verification procedures
 provided for in paragraph 1. The US agencies identified in {Annex I} shall facilitate the
 performance of these verification procedures by the Commission.
-5 [EU: Internationally agreed guidelines include, but are not limited to Codex Guidance document for the design,
-operation, assessment and accreditation of food import and export inspection and certification systems (CAC/GL
-26-1997); International Standards for Phytosanitary Measure ISPM 20: Guidelines for a phytosanitary import
-regulatory system.]
-11
-RESTREINT EU/EU RESTRICTED
+
 7. The US agencies identified in Annex I will carry out the verification procedures provided for in
 paragraph 1 for the US. The European Union shall facilitate the performance of these verification
 procedures by those agencies.
+
 8. Any measures taken as a consequence of audits and verifications shall be proportionate to risks
 identified. If so requested, technical consultations regarding the situation shall be held in
 accordance with Article X.17 {Technical Consultation}. The Parties shall consider any information
 provided through such consultations.
+
 9. Either Party may publish the results and conclusions of its verification procedures.
+
 10. Each Party shall bear its own costs associated with the audit or verification.]
+
 [US: 1. Each Party shall conduct any audits of the other Party's competent authorities in accordance
 with Annex X-C.
+
+*Note: Annex X-C will be tabled at a later date.*
+
 2. Each Party recognizes that, in order to verify compliance with applicable SPS measures and any
 applicable requirements agreed upon by the Parties, a Party may inspect premises, laboratories, and
 other relevant facilities in the other Party's territory.]
-Article X.10: [EU: Export Certificates] [US: Certification]
+
+*[US: Note: provisions to prevent the release of personal privacy and business confidential
+information, to be considered.]*
+
+[5] [EU: Internationally agreed guidelines include, but are not limited to Codex Guidance document for the design,
+operation, assessment and accreditation of food import and export inspection and certification systems (CAC/GL
+26-1997); International Standards for Phytosanitary Measure ISPM 20: Guidelines for a phytosanitary import
+regulatory system.]
+
+### Article X.10: [EU: Export Certificates] [US: Certification]
+
 [EU: 1. When a party requires an export certificate for the importation of a product, this shall be
 based on the principles laid down in the international standards of the Codex Alimentarius, the IPPC
 and the OIE.
@@ -375,11 +431,6 @@ attestations for other products if they so jointly decide in accordance with Art
 Management Committee}.
 4. Original certificates or other original documents may either be transmitted by mail or by secure
 methods of electronic data transmission that offer equivalent certification guarantees. The Parties
-12
-Note: Annex X-C will be tabled at a later date.
-[US: Note: provisions to prevent the release of personal privacy and business confidential
-information, to be considered.]
-RESTREINT EU/EU RESTRICTED
 shall cooperate in the implementation of electronic certification procedures in accordance with the
 provisions described in {Annex VIII}.]
 [US: 1. Each Party shall endeavor to use means other than certification to demonstrate that imports
@@ -400,7 +451,9 @@ certificates.
 establish model certificates that take into account the circumstances of trade between the Parties. To
 the extent feasible, each Party shall base its certification requirements for imports from the other
 Party on these model certificates.]
-[EU: Article X.11: Trade Facilitation/Conditions
+
+### [EU: Article X.11: Trade Facilitation/Conditions
+
 Sanitary and phytosanitary import procedures
 1. Sanitary and phytosanitary procedures shall be established with the objective of minimizing
 negative trade effects and simplifying and expediting the approval and clearance process while
@@ -415,8 +468,6 @@ about the mandatory administrative steps, expected timelines, and authorities in
 6 [US: For greater certainty, each Party recognizes that the other Party is entitled to designate the competent
 authorities that may make the requested certifications and that those authorities may, as appropriate, delegate their
 authority to other government entities.]
-13
-RESTREINT EU/EU RESTRICTED
 import applications and of processing them.
 4. In accordance with applicable standards agreed under the International Plant Protection
 Convention (IPPC) the Parties undertake to maintain adequate information on their pest status
@@ -451,8 +502,6 @@ promptly as possible and normally within one year of a request being made.
 appropriate level of protection of the importing Party, the Parties shall, upon request of the
 exporting Party, establish a technical dialogue with a view to selecting the most practicable and
 least trade-restrictive solution.
-14
-RESTREINT EU/EU RESTRICTED
 Trade facilitation
 11. Where it is necessary for the import of a product that an establishment or facility be included on
 a list by the importing Party, the importing Party shall approve such establishments or facilities
@@ -477,7 +526,9 @@ protection of the importing Party. The responsibility for the implementation of 
 measures and inspections lies with the exporting Party. The importing Party may require that the
 relevant competent authority of the exporting Party objectively demonstrate, to the satisfaction of
 the importing Party, that the import requirements are fulfilled.]
-[US: Article X.12: Regulatory Approvals for Products of Modern Agricultural Technology
+
+### [US: Article X.12: Regulatory Approvals for Products of Modern Agricultural Technology
+
 1. Where a Party requires a product of modern agricultural technology to be approved or authorized
 prior to its importation, use or sale in its territory, the Party shall allow any person to submit an
 application for approval at any time.
@@ -486,8 +537,6 @@ prior to its importation or sale in its territory, each Party shall make publicl
 (a) a description of the processes it applies to accept, consider, and decide applications for
 approval or authorization;
 (b) the competent authorities responsible for receiving and deciding applications for
-15
-RESTREINT EU/EU RESTRICTED
 approval or authorization;
 (c) the timelines for completion of any steps or procedures in the approval or authorization
 processes;
@@ -523,8 +572,6 @@ authorization for a product of modern agricultural technology to timely obtain:
 requirements for approval;
 (c) notice that the Party requires clarification or additional information from the applicant;
 7 [US: Note: Specific exceptional circumstances to be discussed]
-16
-RESTREINT EU/EU RESTRICTED
 (d) opportunities to provide clarification with respect to its application or additional
 information in support of it during the review of the application; and
 (e) opportunities to correct, or identify potential concerns regarding, information being
@@ -549,7 +596,9 @@ Party, related to the trade of products of modern biotechnology; and
 efforts related to modern agricultural technologies.
 The Working Group shall provide an annual report to the Joint Committee concerning its activities
 as well as any progress it has made toward resolving trade concerns raised by a Party.]
-Article X.13 Import Checks [EU: and Fees]
+
+### Article X.13 Import Checks [EU: and Fees]
+
 [EU: {Annex IX} sets out principles and guidelines for import checks and fees, including the
 frequency rate for import checks.
 2. In the event that import checks reveal non-compliance with the relevant import requirements, the
@@ -559,8 +608,6 @@ appropriate level of sanitary or phytosanitary protection.]
 [3. The importer of a non-compliant consignment, or its representative, and on demand, the
 competent authorities of the exporting Party shall be notified of the reason for non-compliance, and
 be provided the opportunity to contribute relevant information to assist the importing Party in taking
-17
-RESTREINT EU/EU RESTRICTED
 a final decision.
 4. Where the consignment is accompanied by a certificate, the importing Party shall inform the
 competent authority of the exporting Party in case of a rejection and provide all appropriate
@@ -595,8 +642,6 @@ factors it considers in determining the risks associated with importations.
 2. Upon request, each Party shall provide the other Party with information on the analytical
 methods, quality controls, sampling procedures, and facilities that the Party uses to test a good as
 part of an import check. Each Party shall ensure that any testing it conducts as part of an import
-18
-RESTREINT EU/EU RESTRICTED
 check on goods of the other Party is done in accordance with appropriate, scientifically valid
 analytical methods, and in facilities operating under a quality assurance program that is consistent
 with international laboratory standards. Each Party shall maintain physical or electronic
@@ -604,7 +649,9 @@ documentation regarding the identification, collection, sampling, transportation
 samples of goods of the other Party and the analytical methods used to test the samples.
 5. Where a Party has determined a significant, sustained or recurring pattern of non-conformity with
 an SPS measure by another Party, it shall notify the other Party of the non-conformity.]
-[EU: Article X.14: Application of SPS Measures
+
+### [EU: Article X.14: Application of SPS Measures
+
 Except as provided for in Article X.6 {Adaptation to regional conditions} each Party shall apply its
 sanitary or phytosanitary import conditions to the entire territory of the other Party. Where
 harmonized import conditions exist in one Party, these conditions shall apply to the entire territory
@@ -612,8 +659,9 @@ of the exporting Party.
 Without prejudice to Article X.6 {Adaptation to regional conditions} each Party shall ensure that
 products which are in conformity with these import conditions can be placed on the market and
 used in its entire territory on the basis of a single authorization, approval or certificate.]
-Article X.15: [EU: Joint Management] Committee [US: on Sanitary and Phytosanitary
-Matters]
+
+### Article X.15: [EU: Joint Management] Committee [US: on Sanitary and Phytosanitary Matters]
+
 [EU: 1. The Parties hereby establish a Joint Management Committee (JMC) for SPS Measures,
 hereafter called the Committee, compromising regulatory and trade representatives of each Party
 who have responsibility for SPS measures.]
@@ -632,8 +680,6 @@ Chapter, and to examine all matters which may arise in relation to its implement
 issues;
 (c) To address any requests by the Parties for the modification of import checks;
 (d) To review the Annexes to this Agreement;
-19
-RESTREINT EU/EU RESTRICTED
 (e) To provide a regular forum for exchanging information relating to each Party's regulatory
 system, including the scientific basis;
 (f) To prepare and maintain a document detailing the state of discussions between the Parties
@@ -667,8 +713,6 @@ Body. {Pending outcome of institutional chapter}
 10. Upon entry into force of this Agreement, each Party shall designate and inform the other Party
 of a Contact Point to coordinate the Committee's agenda and to facilitate communications on SPS
 matters.]
-20
-RESTREINT EU/EU RESTRICTED
 [US: 2. The functions of the Committee shall include:
 (a) enhancing each Party's implementation of this Chapter and facilitating the exchange of
 information on each Party's progress in implementing this Chapter;
@@ -694,7 +738,9 @@ support of its preferred approach for resolving the matter. Any decision to refe
 technical working group shall take into account the resources of each Party and the need to balance
 the respective interest of each Party. The Committee may refer matters to a technical working group
 no more than once a year, except in cases of exceptional urgency.]
-[US: Article X.16: Technical Working Groups
+
+### [US: Article X.16: Technical Working Groups
+
 1. Recognizing that the resolution of SPS matters is best achieved through bilateral cooperation and
 consultation informed by the applicable science and understanding of the relevant risks, the Parties
 hereby establish technical working groups to be co-chaired by representatives of each Party
@@ -702,8 +748,6 @@ concerning the following subjects:
 (a) animal health;
 (b) plant health; and
 (c) food safety.
-21
-RESTREINT EU/EU RESTRICTED
 The Parties may decide to designate existing bodies to serve as the relevant technical working group
 for purposes of this Article. No later than [15] days after the date of entry into force of this
 Agreement, the Parties shall establish the terms of reference or rules of procedure for each technical
@@ -731,7 +775,9 @@ be considered.]
 5. Each technical working group shall provide the Committee with a report, at least annually,
 regarding the progress of its current work programs, including timelines for future actions where
 appropriate.]
-Article X.17: [EU: Technical Consultation]
+
+### Article X.17: [EU: Technical Consultation]
+
 [EU: Where a Party has significant concerns regarding food safety, plant health, or animal health, or
 regarding a measure proposed or implemented by the other Party, that Party can request technical
 consultations. The other Party should respond to such a request without undue delay and normally
@@ -739,8 +785,6 @@ within 15 days. Each Party shall endeavor to provide all relevant information ne
 unnecessary disruption to trade and to reach a mutually acceptable solution. Consultations may be
 held by audio or videoconference.]
 [US: Cooperative Technical Consultations to Resolve SPS Trade Concerns]
-22
-RESTREINT EU/EU RESTRICTED
 [US: 1. Each Party may request cooperative technical consultations to discuss any SPS measure of
 the other Party that it considers might adversely affect trade. The request shall be made in writing
 and identify:
@@ -773,9 +817,9 @@ facilitator; and
 to serve as the facilitator, unless the Parties decide otherwise.
 The Party to which the request has been made shall have the right to be present for the selection.
 6. A facilitator shall be deemed to be appointed on the date the Parties receive written notification
-23
+
 Additional provisions on the role of technical working groups to be considered.
-RESTREINT EU/EU RESTRICTED
+
 from the individual that he or she agrees to serve as the facilitator and confirms the he or she agrees
 to abide by the requirements set out in paragraph 7. The Parties shall meet with the facilitator, in
 person or by electronic means, within {30} days of the date the facilitator is appointed.
@@ -809,9 +853,9 @@ writing. Such notification may be provided at any time, provided that more than 
 elapsed, or such other period of time as the Parties may decide, since the data on which the Party
 receiving a request for cooperative technical consultations replied that it is willing to enter into such
 consultations.]
-24
-RESTREINT EU/EU RESTRICTED
-[EU: Article X.18: Emergency Measures
+
+### EU: Article X.18: Emergency Measures
+
 1. The importing Party may, on serious grounds, provisionally take emergency measures necessary
 for the protection of human, animal or plant health.
 2. Emergency measures shall be notified to the other Party within 24 hours after the decision to
@@ -826,7 +870,9 @@ transported between the Parties;
 between the Parties, in order to avoid unnecessary disruptions to trade and
 (c) revise or repeal, without undue delay, the emergency measures or replace them by
 permanent measures with a view to avoiding unnecessary trade disruption.]
-[EU: Article X.19: Animal Welfare
+
+### [EU: Article X.19: Animal Welfare
+
 1. The Parties recognize that animals are sentient beings. They undertake to respect trade conditions
 for live animals and animal products that are aimed to protect their welfare.
 2. The Parties undertake to exchange information, expertise and experiences in the field of animal
@@ -840,12 +886,14 @@ the Parties undertake to collaborate in international fora with the aim to promo
 development of good animal welfare practices and their implementation.
 5. The Committee described in Article X.15 [Joint Management Committee] may appoint a working
 group to implement this provision.]
-[EU: Article X.20: Collaboration in International Flora
+
+### [EU: Article X.20: Collaboration in International Flora
+
 The Parties will collaborate in the international standard-setting bodies (OIE, Codex Alimentarious,
 IPPC, etc.), with a view to reaching mutually satisfactory outcomes.]
-25
-RESTREINT EU/EU RESTRICTED
-[EU: Article X.21: Recognition and Termination of the Veterinary Agreements
+
+### [EU: Article X.21: Recognition and Termination of the Veterinary Agreements
+
 The Parties recognize the achievements that have been accomplished under the Agreement between
 the European Community and the Government of the United States of America on sanitary
 measures to protect public and animal health in respect of trade in live animals and animal
@@ -853,50 +901,64 @@ products (the Veterinary Agreement) and confirm their intention to continue this
 framework of this Agreement. {This Veterinary Agreement of 21 April 1998, as amended, is
 terminated from the date of entry into force of this Agreement. Exact wording and placement of this
 sentence to be decided by Legal Services}.]
-Article X.22: Definitions
+
+### Article X.22: Definitions
+
 For purpose of this Chapter [EU: ,] [US: :]
+
 [EU: “Protected Zone” for a specified regulated organism of phytosanitary concern means an
 officially defined geographical area in the EU in which that organism is not established as
 demonstrated by annual surveys, in spite of favorable conditions and its presence in other parts of
 the Union;
+
 The “SPS Agreement” means the World Trade Organization Agreement on the Application of
 Sanitary and Phytosanitary Measures.
+
 The definitions in Annex A of the SPS Agreement apply, as well as those of the Codex Alimentarius
 (Codex), the World Organization for Animal Health (OIE) and the International Plant Protection
 Convention (IPPC). In the event of an inconsistency between the definitions adopted by the Codex,
 or the OIE, the IPPC and the definitions set out in the WTO SPS Agreement, the definitions set out
 in the WTO SPS Agreement shall prevail.]
+
 [US: appropriate level of protection shall have the same meaning ascribed to the term 'appropriate
 level of sanitary and phytosanitary protection' in the WTO SPS Agreement:
 area shall have the meaning ascribed to that term by the OIE when used in relation to animal
 health, and shall have the meaning ascribed to that term by the IPPC when used in relation to plant
 health;
+
 competent authority means the authorities in each Party responsible for measures and matters
 referred to in this Chapter.
+
 demarcation means an area or zone, place of production, or subpopulation that maintains a distinct
 status with respect to a pest or disease prevalence and may be identified on a geographical basis
 using natural, artificial, or legal boundaries or on the basis of management and biosecurity practices
 employed at particular establishments or places of production;
+
 final administrative decision, regulation, and regulatory authority shall have the same meaning
 ascribed to those terms in Chapter X (Regulatory Coherence, Transparency and Other Good
-26
-RESTREINT EU/EU RESTRICTED
 Regulatory Practices);
+
 import check means any inspections, examinations, sampling, review of documentation, texts or
 procedures, including laboratory, organoleptic, and identity, conducted at the border by an
 importing Party or its representative to determine if the consignment complies with the SPS
 requirements of the importing Party;
+
 international standards, guidelines and recommendations shall have the same meaning ascribed
 to those terms in the WTO SPS Agreement;
+
 low-level presence means the inadvertent low-level presence in a shipment of plants or plant
 products of rDNA plant material that is authorized for use in at least one country, but not in the
 importing country;
+
 modern agricultural technology means [to be defined];
+
 place of production shall have the meaning ascribed to that term by the IPPC;
+
 relevant international organization means:
 (a) with respect to food safety, the Codex Alimentarious Commission;
 (b) with respect to animal health and zoonoses, the World Animal Health Organization; and
 (c) with respect to plant health, the Secretariat of the International Plant Protection
 Convention; and
 risk assessment shall have the same meaning ascribed to the term in the WTO SPS Agreement;
+
 SPS measure shall have the same meaning ascribed to the term sanitary and phytosanitary measure in the WTO SPS Agreement; zone, establishment, and subpopulation shall have the meaning ascribed to those terms by the OIE.]
