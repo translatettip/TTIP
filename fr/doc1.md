@@ -18,7 +18,9 @@ Agreement and in conformity with Article XXIV of the GATT 1994.]
 ### X.3. National Treatment
 
 1. Chaque Partie appliquera le traitement national aux biens [US: d'une autre] [EU: de l'autre] Partie conformément à l'Article III du GATT 1994, en ce compris ses Notes et Dispositions Supplémentaires. A cette fin, l'Article III du GATT 1994, en ce compris ses Notes et Dispositions Supplémentaires, est intégré dans, et fait partie de, cet Accord, mutatis mutandis (NdT: en changeant ce qui doit être changé)
+
 2. [US: Le traitement à accorder par une Partie en vertu du premier paragraphe signifie, en ce qui concerne un niveau régional de gouvernement, un traitement non moins favorable que le traitement le plus favorable qu'un niveau régional de gouvernment accorde à des biens similaires, directement concurrents, ou substituables, le cas échéant, de la Partie de laquelle il forme une partie. 
+
 3. Les paragraphes 1 et 2 ne sont pas applicables aux mesures énumérées dans l'Annexe X-A.]
 
 ### X.4. [EU: Classification of
@@ -31,10 +33,13 @@ La classification des biens commercialisés entre les Parties est gouvernée par
 [EU: Ceci ne peut empêcher aucune des parties de lever] [US: Pour une plus grande certitude, une Partie peut:
   1. lever] un droit de douane au niveau établi dans son Calendrier [US: de l'Annexe X-B] suivant une réduction unilatérale[EU: ,] [US: ; ou
   2. maintenir ou augmenter un droit de douane comme autorisé par l'Article 22 du Mémorandum d'accord de l'OMC sur les règles et procédures régissant le règlement des différends par l'Organe de règlement des différends de l'OMC].
+
 2. [US: Sauf en cas de disposition contraire dans cet Accord, chaque Partie élimine progressivement] [EU: Chaque partie réduit et] élimine ses droits de douane [EU: 1] sur les biens [US: originaires] [EU: importés] [EU: trouvant leur origine 2 dans l'autre Partie] conformément à [US: Son Calendrier de l'Annexe X-B] [EU: les calendriers déterminés dans les Annexes […] et […] (ci-après : “les Calendriers”)].
+
 3. 
   1. [US: Sur requête d'une des Parties,] [EU: Trois ans après l'entrée en vigueur de cet Accord, à la requête de l'une ou l'autre des Parties,] les Parties se consulteront en vue de considérer l'accélaration  [EU: et l'élargissement de l'étendue de la réduction et] [US: l'] élimination des droits de Douane [US: déterminés dans leurs Calendriers à l'Annexe X-B] [EU: sur les importations].
   2. [US: Un Accord] [EU: Une décision] par les Parties [EU: (au sein du … Commité) sur une telle accélaration et élargissement] [US: pour accélérer l'élimination des droits de douane sur un bien] prévaut sur tout taux de douane ou catégorie d'échelonnement déterminé selon leurs calendriers [US: à l' Annexe X-B] Pour ce bien [US: quand approuvé par chaque Partie conformément à ses procédures légales applicables].
+
 4. [EU: Si à quelque moment que ce soit une Partie réduit ses taux de droits de douane appliqués à la nation la plus favorisée sur les importions après l'entrée en vigueur de cet accord, ce taux de douane sera appliqué si et aussi longtemps qu'il sera plus faible que les taux de droit de douane sur les importations calculés conformément au Calendrier de cette Partie] [US: Pour une plus grande certitude, aucune Partie n'interdit à un importateur de réclamer pour un bien originaire le taux de douane appliqué sous l'Accord OMC]
 
 [1]: [Voir Définitions]  
@@ -43,6 +48,7 @@ La classification des biens commercialisés entre les Parties est gouvernée par
 ### X.6. [US: Waiver of Customs Duties
 
 1. No Party shall adopt any new waiver of customs duties, or expand with respect to existing recipients or extend to any new recipient the application of an existing waiver of customs duties, where the waiver is conditioned, explicitly or implicitly, on the fulfillment of a performance requirement.
+
 2. No Party shall, explicitly or implicitly, condition on the fulfillment of a performance requirement the continuation of any existing waiver of customs duties.]
 
 ### X.7. [US: Temporary Admission of Goods
