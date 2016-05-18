@@ -1,9 +1,6 @@
-RESTREINT UE/EU RESTRICTED
-Note – Tactical State of Play of the TTIP Negotiations
-– March 2016
-1
-RESTREINT UE/EU RESTRICTED
-Table of Contents
+Note – Tactical State of Play of the TTIP Negotiations  
+– Mars 2016  
+Table of Contents  
 1.1 Trade in Goods: Tariffs and Market Access
 1.2 Public Procurement
 1.3 Trade in Services and Investment
