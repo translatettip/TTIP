@@ -14,6 +14,8 @@ Merci de partager un maximum ce projet afin que l'on puisse (au plus vite !) tra
 
 # À lire avant de modifier
 
+[Avertissements préalables](https://github.com/translatettip/TTIP/blob/master/README.md)
+
 Avant toute chose, n'hésitez pas à sauvegarder vos modifications aussi souvent que nécessaire, ça permet de :  
 
 + Ne pas perdre vos modifications
