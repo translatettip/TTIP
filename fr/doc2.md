@@ -1,8 +1,8 @@
-Chapitre [ ]
-Agriculture [US: Market Access]
-Consolidated Proposals
+Chapitre [ ]  
+Agriculture [US: Market Access]  
+Consolidated Proposals  
 
-Chapitre X
+Chapitre X  
 Agriculture [US: Market Access]
 
 Article X.1: [EU: Objectifs, ] Scope and Coverage
@@ -29,6 +29,7 @@ the Application of Sanitary and Phytosanitary Measures, which will be dealt with
 SPS}, or measures in other chapters applicable to agricultural goods].
 
 Article X.2: [EU: Cooperation in Agriculture]
+-------------------------------------------------
 1. [EU: The Parties recall the prominent role of sustainability in its economic, social and
 environmental dimensions in agriculture and aim at developing a fruitful cooperation and dialogue
 on agricultural sustainability issues. To this end, the Parties shall work together to:
@@ -44,6 +45,7 @@ importance of origin-linked products and geographical indications for sustainabl
 rural development, and in particular for small and medium-sized enterprises.]
 
 Article X.3: Cooperation in Multilateral [EU: and Other] Fora
+-------------------------------------------------
 1. The Parties shall work together to facilitate the successful conclusion of agriculture negotiations
 in the WTO [EU: and consider that this Agreement constitutes a significant contribution in that
 respect.] [US: that:
@@ -75,6 +77,7 @@ of abundant, safe and affordable food, feed, fiber, and energy.]
 developed countries and to encourage regional integration of trade in agricultural products.]
 
 Article X.4: [EU: Export Competition]
+-------------------------------------------------
 1. [EU: For the purposes of this Article, “export subsidies” shall have the meaning assigned to that
 term in Article 1(e) of the WTO Agreement on Agriculture.]
 2. [EU: “Measures with equivalent effect” are export credits, export credit guarantees or insurance
@@ -177,6 +180,7 @@ US: Article X.5: [Export Subsidies]
 for the territory of another Party.]
 
 EU: Article X.6: [Domestic Support]
+-------------------------------------------------
 [EU: The EU reserves the right to present a proposal on domestic support, in particular on the
 interaction between trade-distorting domestic support and market access commitments.
 This is without prejudice to the position of the EU in multilateral negotiations.]
@@ -216,6 +220,7 @@ by representatives of the Party hosting the meeting.]
 5. [US: The committee shall report the results of each meeting to the Joint Committee.]
 
 Article X. 8: [EU: Non-tariff Issues]
+-------------------------------------------------
 [EU: The EU reserves the right to present a textual proposal on specific non-tariff issues.]
 Article X. 9: [US: Definitions]
 [US: For the purposes of this Chapter:]
@@ -227,19 +232,19 @@ Agreement on Agriculture; and]
 on Agriculture.]
 
 [EU: Annex X-A: Trade in Wine and Spirit Drinks2
-Title I
+Titre I
 Initial Provisions
 Article 1
 Application
 The provisions of this Chapter apply to the United States of America and to the European Union,
 hereafter referred to as “the Parties”.
 Article 2
-Objectives
+Objectifs
 The objective of this Chapter is to facilitate trade in wine and spirit drinks between the Parties, and
 to improve cooperation in the development and enhance the transparency of regulations affecting
 such trade.
 Article 3
-Definitions
+Définitions
 For the purposes of this Agreement:
 (a) “wine-making practice” means a process , treatment, technique or material used to
 produce wine;
@@ -286,7 +291,7 @@ and/or
 – other alcoholic or non-alcoholic beverages.
 3. Measures taken by either Party for the protection of human health and safety are outside the
 scope of this Chapter.
-TITLE II
+TITRE II
 Wine-making Practices and Specifications
 Article 5
 Present Wine-making Practices and Specifications
@@ -322,7 +327,7 @@ for in paragraph 3. With respect to new wine-making practices or modifications t
 that are proposed after day/month/year, but before the date of application of Article 5, as set out in
 Article X, either Party may specify that the modification to Annex X shall not be effective until the
 date of application of Article 5.
-TITLE III
+TITRE III
 SPECIFIC PROVISIONS
 Article 7
 Names of Origin
@@ -375,7 +380,7 @@ Article 12.
 6. This Agreement does not require certification that the practices and procedures used to produce
 wine in the EU constitute proper cellar treatment within the meaning of Section 2002 of US Public
 Law 108-429.
-TITLE IV
+TITRE IV
 GENERAL PROVISIONS
 Article 10
 Committee on Trade in Wines and Spirit Drinks
@@ -447,7 +452,7 @@ information presented in a timely matter; and
 (ii) facilitate follow-up communications between the other Party or interested
 persons of that Party and the appropriate enforcement or other appropriate
 authorities.
-TITLE V
+TITRE V
 FINAL PROVISIONS
 Article 13
 Applicable Rules
@@ -485,11 +490,11 @@ Chapter to the date of entry into force shall be deemed to refer to the date the
 application of this Agreement takes effect between the United States of America and the European
 Union.
 Annexes
-Annex X: (List of wine-making practices)
-Annex X: (List of products to be allowed for the sweetening of spirit drinks)
-Annex X: (Certification document)
-Annex X: Part A , Part B, Part C (list of EU wine names)
-Annex X: List of EU and US spirit drinks
+Annexe X: (List of wine-making practices)
+Annexe X: (List of products to be allowed for the sweetening of spirit drinks)
+Annexe X: (Certification document)
+Annexe X: Part A , Part B, Part C (list of EU wine names)
+Annexe X: List of EU and US spirit drinks
 Protocol of wine labeling
 [US: ANNEX X-B: DISTILLED SPIRITS]
 1. [US: This Annex applies to the preparation, adoption, and application of measures of central
