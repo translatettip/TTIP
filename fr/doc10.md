@@ -1,3 +1,5 @@
+Je remplace la ligne en anglais par ma traduction en français.
+
 Technical Barriers to Trade
 30 Novembre 2015
 
