@@ -1,9 +1,7 @@
-RESTREINT EU/EU RESTRICTED
-Chapter [ ]
-Dispute Settlement
-June 2015
-1
-RESTREINT EU/EU RESTRICTED
+Chapitre [ ]  
+Dispute Settlement  
+Juin 2015
+
 [EU: Section 1
 Objective and Scope]
 Article 1: [EU: Objective] [US: Mechanism to Resolve Disputes]
