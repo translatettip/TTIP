@@ -5,6 +5,8 @@ Tout d'abord, **merci** d'être là, que vous soyez traducteur (en herbe ou pas)
 Suite à la diffusion il y a (déjà !) deux semaines des documents concernant le TTIP (merci [Greenpeace Nederland](https://ttip-leaks.org/)), nous avons décidé de lancer une traduction collaborative de ces documents.
 
 Deux **objectifs principaux** à ce projet :
+
+
 1. Tenter d'améliorer encore la visibilité de ces documents
 2. Réunir un maximum de gens contre ce traité en supprimant la barrière de la langue
 
