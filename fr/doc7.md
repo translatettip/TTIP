@@ -1,9 +1,7 @@
-RESTREINT EU/EU RESTRICTED
 Transatlantic Trade and Investment Partnership (TTIP)
 Chapter [ ]
 Consolidated Proposed Customs And Trade Facilitation Text
-1
-RESTREINT EU/EU RESTRICTED
+
 US Note: The proposed text for this chapter is put forth without prejudice to revisions that may be
 needed in light of further discussions regarding the respective competences of the European Union
 and its Member States in the substantive areas covered by this Chapter and the question of whether
