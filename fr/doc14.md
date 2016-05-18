@@ -1,4 +1,3 @@
-RESTREINT EU/EU RESTRICTED
 Transatlantic Trade and Investment Partnership (TTIP)
 Chapter [ ]
 Consolidated Proposed SOE Text
