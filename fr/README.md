@@ -1,9 +1,21 @@
+# Bienvenue
+
+Tout d'abord, **merci** d'être là, que vous soyez traducteur (en herbe ou pas), juriste, curieux, intéressé ou même par hasard.
+
+Suite à la diffusion il y a (déjà !) deux semaines des documents concernant le TTIP (merci [Greenpeace Nederland](https://ttip-leaks.org/)), nous avons décidé de lancer une traduction collaborative de ces documents.
+
+Deux **objectifs principaux** à ce projet :
+1. Tenter d'améliorer encore la visibilité de ces documents
+2. Réunir un maximum de gens contre ce traité en supprimant la barrière de la langue
+
+Merci de partager un maximum ce projet afin que l'on puisse (au plus vite !) travailler sur des documents accessibles à tous.
+
 # À lire avant de modifier
 
-Avant toute chose, n'hésitez pas à sauvegarder vos modifications aussi souvent que nécessaire, ça permet de :
+Avant toute chose, n'hésitez pas à sauvegarder vos modifications aussi souvent que nécessaire, ça permet de :  
 
-1. Ne pas perdre vos modifications
-2. Éviter de traduire la même phrase que quelqu'un d'autre
++ Ne pas perdre vos modifications
++ Éviter de traduire la même phrase que quelqu'un d'autre
 
 Pour traduire un fichier, merci de suivre la procédure suivante :
 
@@ -26,6 +38,9 @@ Pour traduire un fichier, merci de suivre la procédure suivante :
 
 
 Une fois le fichier entièrement traduit, un pdf en français sera généré et disponible pour tous !
+
+
+Pour aller plus loin dans Github, [cliquez ici](https://www.atlassian.com/git/tutorials/) (en anglais)
 
 [image1]: https://github.com/translatettip/TTIP/blob/master/tuto/tuto01.png "Image tuto 1"
 [image2]: https://github.com/translatettip/TTIP/blob/master/tuto/tuto02.png "Image tuto 2"
