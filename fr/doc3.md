@@ -7,9 +7,9 @@ complement its proposal at a later stage, by modifying, supplementing or withdra
 part, at any time.
 This consolidated text is without prejudice to the architecture of the final agreement.
 This consolidated text focuses on the core text of cross-border trade services.
-Chapter {X}
+Chapitre {X}
 Cross-Border Trade in Services
-Article X.1: Definitions
+Article X.1: Définitions
 Note: without prejudice to placement
 [EU: 'cross-border supply of services' means the supply of a service:
 (i) from the territory Party into the territory of the other Party
