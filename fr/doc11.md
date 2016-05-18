@@ -52,6 +52,7 @@ The Parties shall avail themselves of the necessary resources to effectively imp
 {Annex 2}. The Parties shall inform each other of any change of these competent authorities.]
 [US: Upon entry into force of this Agreement, each Party shall provide the other Party with the
 following information in writing:
+
 1. with respect to each of the Parties' competent authorities that have responsibility for
 developing, implementing, and enforcing SPS measures that may affect trade between the
 Parties;
@@ -188,7 +189,7 @@ necessary for a more objective assessment of risk and plans for obtaining such i
 modify the measure.]
 
 [2] [US: This Article shall not apply with respect to any SPS measure that conforms to international standards,
-guidelines, or recommendations.]
+guidelines, or recommendations.]  
 [3] [US: {Note: Specific exceptional circumstances to be discussed}]
 
 ### Article X.6: Adaption to Regional [US: Pest or Disease] Conditions
