@@ -1,10 +1,8 @@
-RESTREINT EU/EU RESTRICTED
 Transatlantic Trade and Investment Partnership (TTIP)
-Chapter [ ]
+Chapitre [ ]
 Consolidated Proposed
 Electronic Communications / Telecommunications Text
-1
-RESTREINT EU/EU RESTRICTED
+
 [EU: Article 40: Scope and Definitions] [US: Article X.1: Scope and Coverage]
 [EU: 1. This Section sets out principles of the regulatory framework for the provision of electronic
 communications networks and services, liberalized pursuant to Chapter II Section 1, Chapters III
