@@ -5,95 +5,57 @@ TRANSPARENCY, AND OTHER GOOD REGULATORY PRACTICES]
 1
 RESTREINT EU/EU RESTRICTED
 [EU: Section I: Objectives, Definitions and Scope]
+
 [Article X.1:] [EU: General Objectives and Principles
 1. The general objectives of this Chapter are:
-(a) To reinforce regulatory cooperation thereby facilitating trade and investment in a way that
-supports the Parties' efforts to stimulate growth and jobs, while pursuing a high level of protection
-of, inter alia, the environment, consumers, working conditions, human, animal and plant life; health
-and safety, personal data, cybersecurity, cultural diversity, or preserving financial stability;
-(b) To reduce unnecessarily burdensome, duplicative or divergent regulatory requirements affecting
-trade or investment, particularly given their impact on small and medium-sized enterprises, by
-promoting the compatibility of envisaged and existing EU and US regulatory acts;
-(c) To promote an effective, pro-competitive regulatory environment which is transparent and
-predictable for citizens and economic operators;
-(d) To further the development, adoption and strengthening of international instruments, and their
-timely implementation and application, as a means to work together more effectively with each
-other and with third countries to strive toward consistent regulatory outcomes.
-2. The provisions of this Chapter do not restrict the right of each Party to maintain, adopt and apply
-measures to achieve legitimate public policy objectives, such as those mentioned in paragraph 1, at
-the level of protection that it considers appropriate, in accordance with its regulatory framework and
-principles.
-3. The Parties reaffirm their shared commitment to good regulatory principles and practices, as laid
-down in the OECD Recommendation of 22 March 2012 on Regulatory Policy and Governance.]
+  (a) To reinforce regulatory cooperation thereby facilitating trade and investment in a way that supports the Parties' efforts to stimulate growth and jobs, while pursuing a high level of protection of, inter alia, the environment, consumers, working conditions, human, animal and plant life; health and safety, personal data, cybersecurity, cultural diversity, or preserving financial stability;
+  (b) To reduce unnecessarily burdensome, duplicative or divergent regulatory requirements affecting trade or investment, particularly given their impact on small and medium-sized enterprises, by promoting the compatibility of envisaged and existing EU and US regulatory acts;
+  (c) To promote an effective, pro-competitive regulatory environment which is transparent and predictable for citizens and economic operators;
+  (d) To further the development, adoption and strengthening of international instruments, and their timely implementation and application, as a means to work together more effectively with each other and with third countries to strive toward consistent regulatory outcomes.
+2. The provisions of this Chapter do not restrict the right of each Party to maintain, adopt and apply measures to achieve legitimate public policy objectives, such as those mentioned in paragraph 1, at the level of protection that it considers appropriate, in accordance with its regulatory framework and principles.
+3. The Parties reaffirm their shared commitment to good regulatory principles and practices, as laid down in the OECD Recommendation of 22 March 2012 on Regulatory Policy and Governance.]
+
 [Article X.2:] Definitions
 [EU: For the purposes of this Chapter the following definitions shall apply:
-(a) “regulatory acts at central level“ means:
-for the EU:
-i. Regulations and Directives within the meaning of Article 288 of the Treaty on the
-Functioning of the European Union, including:
-ii. Regulations and Directives adopted under a legislative procedure in accordance
-with that Treaty;
-iii. Delegated and Implementing acts adopted pursuant to Articles 290 and 291 of
-that Treaty.
+  (a) “regulatory acts at central level“ means:
+  for the EU:
+    i. Regulations and Directives within the meaning of Article 288 of the Treaty on the Functioning of the European Union, including:
+    ii. Regulations and Directives adopted under a legislative procedure in accordance with that Treaty;
+    iii. Delegated and Implementing acts adopted pursuant to Articles 290 and 291 of that Treaty.
 2
 RESTREINT EU/EU RESTRICTED
-for the US:
-i. Federal Statutes;
-ii. (A) Rules as defined in 5 USC § 551 (4);
+  for the US:
+    i. Federal Statutes;
+    ii. (A) Rules as defined in 5 USC § 551 (4);
 (B) Orders, as defined in 5 USC § 551 (6); and
-(C) Guidance documents. As defined in Executive Order 12,866 §3(g) issued
-by any federal agency, government corporation, government controlled
-corporation or establishment in the executive branch of government covered
-by 5 USC § 522 (f) (1) of the Administrative Procedures Act, as amended;
-iii. Executive Orders and {other executive documents that lay down general rules or
-mandate conduct by government bodies}.
-(b) “regulators and competent authorities at central level“ means:
-i. for the EU, the European Commission;
-ii. for the US, US Federal agencies {defined by the Administrative Procedures Act
-(APA); 5 U.S.C. § 552 (f)}.
-(c) {Placeholder: “regulatory acts, regulators and competent authorities at non-central
-level: means: “to be defined”}
-(d) “international instruments” means document adopted by international bodies or fora in
-which both Parties' regulators and competent authorities at central level participate,
-including as observers, and which provide requirements or related procedures,
-recommendations or guidelines on the supply or use of a service, such as for example
-authorization, licensing, qualification or on characteristics or related production methods,
-presentation or use of a product.]
-[US: For Purpose of this Chapter: “ final administration decision and regulation” have the
-meaning assigned to those terms as set out in Annex X-A].
+(C) Guidance documents. As defined in Executive Order 12,866 §3(g) issued by any federal agency, government corporation, government controlled corporation or establishment in the executive branch of government covered by 5 USC § 522 (f) (1) of the Administrative Procedures Act, as amended;
+iii. Executive Orders and {other executive documents that lay down general rules or mandate conduct by government bodies}.
+  (b) “regulators and competent authorities at central level“ means:
+    i. for the EU, the European Commission;
+    ii. for the US, US Federal agencies {defined by the Administrative Procedures Act (APA); 5 U.S.C. § 552 (f)}.
+  (c) {Placeholder: “regulatory acts, regulators and competent authorities at non-central level: means: “to be defined”}
+  (d) “international instruments” means document adopted by international bodies or fora in which both Parties' regulators and competent authorities at central level participate, including as observers, and which provide requirements or related procedures, recommendations or guidelines on the supply or use of a service, such as for example authorization, licensing, qualification or on characteristics or related production methods, presentation or use of a product.]
+[US: For Purpose of this Chapter: “ final administration decision and regulation” have the meaning assigned to those terms as set out in Annex X-A].
 [Article X.3:] Scope
 [EU: 1. The provisions of Section II apply to regulatory acts at central level which:
-{a} determine requirements or related procedures for a supply, or use of a service in the
-territory of a Party, such as for example authorization, licensing; or qualification; or
-qualification; or
-{b} determine requirements or related procedures applying to goods marketed in the
-territory of a Party concerning their characteristics or related production methods, their
-presentation or their use; and
+  {a} determine requirements or related procedures for a supply, or use of a service in the territory of a Party, such as for example authorization, licensing; or qualification; or qualification; or
+  {b} determine requirements or related procedures applying to goods marketed in the territory of a Party concerning their characteristics or related production methods, their presentation or their use; and
 3
 RESTREINT EU/EU RESTRICTED
-2. The provisions of Section III apply to regulatory acts at central level that fulfill the criteria in
-paragraph 1 and that have or are likely to have a significant impact on trade or investment between
-the Parties.
-3. Regulatory acts at central level concerning the matters covered by {specific or sectoral provisions
-concerning goods and services, to be identified} fall in any event within the scope of this Chapter.]
-[US: This Chapter applies with respect to regulations (as defined in Annex X-A) and regulatory
-authorities of each Party (as specified in Annex X-B).]
+2. The provisions of Section III apply to regulatory acts at central level that fulfill the criteria in paragraph 1 and that have or are likely to have a significant impact on trade or investment between the Parties.
+3. Regulatory acts at central level concerning the matters covered by {specific or sectoral provisions concerning goods and services, to be identified} fall in any event within the scope of this Chapter.]
+[US: This Chapter applies with respect to regulations (as defined in Annex X-A) and regulatory authorities of each Party (as specified in Annex X-B).]
 [Article X.4:] [EU: Relationship with Sectoral Provisions
-1. In case of any inconsistency between the provisions of this Chapter and the provisions laid down
-in {specific or sectoral provisions concerning goods and services, to be identified}, the latter shall
-prevail.
-2. Regulatory cooperation in financial services shall follow specific provisions set out in {to be
-identified – FS chapter/section....}.]
+1. In case of any inconsistency between the provisions of this Chapter and the provisions laid down in {specific or sectoral provisions concerning goods and services, to be identified}, the latter shall prevail.
+2. Regulatory cooperation in financial services shall follow specific provisions set out in {to be identified – FS chapter/section....}.]
 [EU: Section II: Good Regulatory Practices]
 [Article X.5:] [US: Internal Coordination of Regulatory Development
-Each Party shall maintain processes or mechanisms to facilitate internal coordination, consultation,
-and review of regulations being developed by its regulatory authorities to pursue the following
-objectives:
-(a) identifying and avoiding potential unnecessary duplication and potentially inconsistent requirements among the Party's regulatory authorities;
-(b) complying with the international trade and investment obligations;
-(c) considering the special concerns of small entities;
-(d) sharing relevant available scientific and technical information among regulatory authorities; and
-(e) fostering good regulatory practices, including with respect to the provisions of this Chapter.]
+Each Party shall maintain processes or mechanisms to facilitate internal coordination, consultation, and review of regulations being developed by its regulatory authorities to pursue the following objectives:
+  (a) identifying and avoiding potential unnecessary duplication and potentially inconsistent requirements among the Party's regulatory authorities;
+  (b) complying with the international trade and investment obligations;
+  (c) considering the special concerns of small entities;
+  (d) sharing relevant available scientific and technical information among regulatory authorities; and
+  (e) fostering good regulatory practices, including with respect to the provisions of this Chapter.]
 
 [EU: Subsection II.1. Transparency]
 
@@ -128,11 +90,9 @@ Each Party shall consider reasonable requests to extend the comment period.
 
 8. Each Party shall maintain a single, freely accessible Internet website1 that, to an extent practicable, contains anything that it is required to make publicly available under this Chapter. Each Party shall also provide for the electronic submission of comments and other input on this website in accordance with paragraph 5. If it is impracticable to post on the Internet all comments that a Party is required to make publicly available under paragraph 5, the Party shall ensure that its regulatory authorities maintain freely accessible public dockets where comments that have not been posted can be viewed.]
 
-1[US: A Party may comply with the obligation regarding a single Internet website by making publicly available information on, and providing for the
-submission of comments via, more than one website, provided the information can be accessed, and submissions can be made, from a single web
-domain (e.g., from one website via links to another website).]
+1[US: A Party may comply with the obligation regarding a single Internet website by making publicly available information on, and providing for the submission of comments via, more than one website, provided the information can be accessed, and submissions can be made, from a single web domain (e.g., from one website via links to another website).]
 
-[Article X.9:] [US: Trade Effects
+[Article X.9:] [US: Trade Effects 
 When developing a regulation, a regulatory authority of a Party shall evaluate any information provided in comments by the other Party or a person of the other Party regarding the potential trade effects of the regulation that it receives during the comment period and, in accordance with paragraph 6 of Article X.8, provide its views on substantive issues raised.]
 
 [Article X.10:] [US: Access to Government Documents
@@ -177,8 +137,8 @@ Each Party shall make publicly available a detailed description of the processes
   (a) seek the best reasonably obtainable information, including scientific, economic, technical, or other information relevant to the regulation it is developing; and
   (b) rely on information that is of high quality (including with respect to utility, objectivity, integrity, clarity and accuracy).
 2. When publishing any final administrative decision with respect to a regulation, the Party shall make publicly available an explanation of:
-(a) the regulation, including its objectives, how the regulation achieves those objectives, and the rationale for the material features of the regulation (to the extent different than the explanation provided in accordance with paragraph 1(b) of Article X.8); and
-(b) the relationship between the regulation and the key evidence, data, and other information the regulatory authority considered in preparing the final administrative decision. Such explanation should also identify any major alternatives that the regulatory authority considered in developing the regulation and provide an explanation supporting the alternative that is selected for the final administrative decision.
+  (a) the regulation, including its objectives, how the regulation achieves those objectives, and the rationale for the material features of the regulation (to the extent different than the explanation provided in accordance with paragraph 1(b) of Article X.8); and
+  (b) the relationship between the regulation and the key evidence, data, and other information the regulatory authority considered in preparing the final administrative decision. Such explanation should also identify any major alternatives that the regulatory authority considered in developing the regulation and provide an explanation supporting the alternative that is selected for the final administrative decision.
 3. Each Party shall prepare, on a annual basis, a public report setting forth:
   (a) an estimate, to the extent feasible, regarding the total annual costs and benefits of major final regulations issued in that period by its respective regulatory authorities;
   (b) any proposals for systemic regulatory improvements; and
@@ -193,8 +153,7 @@ Each Party shall make publicly available a detailed description of the processes
 2. Each Party shall make publicly available the results of any such retrospective reviews or analyses conducted by its regulatory authorities, including any supporting data whenever practicable.
 3. Each Party shall include in procedures or mechanisms adopted pursuant to paragraph 1 provisions addressing regulations that it considers to have a significant economic impact on a substantial number of small entities.]
 
-[Article X.17:] [US: Reducing Information Collection Burdens Associated with Regulation
-Each Party shall provide that, to the extent regulatory authorities use surveys to request or compel information from the public in developing a regulation, these regulatory authorities should endeavor to do so in a manner that minimizes unnecessary burdens and avoids duplication.]
+[Article X.17:] [US: Reducing Information Collection Burdens Associated with Regulation Each Party shall provide that, to the extent regulatory authorities use surveys to request or compel information from the public in developing a regulation, these regulatory authorities should endeavor to do so in a manner that minimizes unnecessary burdens and avoids duplication.]
 
 [EU: Section III: Regulatory Cooperation]
 
