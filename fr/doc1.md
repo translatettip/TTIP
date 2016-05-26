@@ -15,7 +15,7 @@ Agreement and in conformity with Article XXIV of the GATT 1994.]
 
 [US: Sauf si prévu autrement par cet Accord, ce] [EU: ce] Chapitre s'applique au commerce de biens [US: d'une partie] [EU: entre les Parties].
 
-### X.3. National Treatment
+### X.3. Traitement National
 
 1. Chaque Partie appliquera le traitement national aux biens [US: d'une autre] [EU: de l'autre] Partie conformément à l'Article III du GATT 1994, en ce compris ses Notes et Dispositions Supplémentaires. A cette fin, l'Article III du GATT 1994, en ce compris ses Notes et Dispositions Supplémentaires, est intégré dans, et fait partie de, cet Accord, mutatis mutandis (NdT: en changeant ce qui doit être changé)
 
@@ -23,11 +23,11 @@ Agreement and in conformity with Article XXIV of the GATT 1994.]
 
 3. Les paragraphes 1 et 2 ne sont pas applicables aux mesures énumérées dans l'Annexe X-A.]
 
-### X.4. [EU: Classification of
+### X.4. [EU: Classification de
 
 La classification des biens commercialisés entre les Parties est gouvernée par la nomenclature des tarifs respective de chaque Partie conformément au Système harmonisé de désignation et de codification des marchandises de 2012 (SH 2012) et ses amendements.]
 
-### X.5. [EU: Reduction et] Elimination des Droits de Douane [EU: sur les Importations]
+### X.5. [EU: Réduction et] Élimination des Droits de Douane [EU: sur les Importations]
 
 1. [EU: Au moment de l'entrée en vigueur du (sic.)] Sauf disposition contraire dans cet Accord, [EU: aucune des deux parties ne pourra] [US: aucune partie n'augmentera] augmenter des droits de douane existant, ou [US: adopter] [EU: introduire] de nouveaux droits de douane [US: , ] sur [EU: l'importation d'un bien ayant son origine dans l'autre Partie] [US: un bien originaire].
 [EU: Ceci ne peut empêcher aucune des parties de lever] [US: Pour une plus grande certitude, une Partie peut:
@@ -45,13 +45,13 @@ La classification des biens commercialisés entre les Parties est gouvernée par
 [1]: [Voir Définitions]  
 [2]: [Voir Définitions]
 
-### X.6. [US: Waiver of Customs Duties
+### X.6. [US: Exonération des Droits de Douane
 
 1. No Party shall adopt any new waiver of customs duties, or expand with respect to existing recipients or extend to any new recipient the application of an existing waiver of customs duties, where the waiver is conditioned, explicitly or implicitly, on the fulfillment of a performance requirement.
 
 2. No Party shall, explicitly or implicitly, condition on the fulfillment of a performance requirement the continuation of any existing waiver of customs duties.]
 
-### X.7. [US: Temporary Admission of Goods
+### X.7. [US: Admission Temporaire des Biens
 
 1. Each Party shall grant duty-free temporary admission for the following goods, regardless of their origin:
   1. professional equipment, including equipment for the press or television, software, and broadcasting and cinematographic equipment, necessary for carrying out the business activity, trade, or profession of a person who qualifies for temporary entry pursuant to the laws of the importing Party;
@@ -86,7 +86,7 @@ La classification des biens commercialisés entre les Parties est gouvernée par
   3. no Party shall condition the release of any obligation, including any security, that it imposes in respect of the entry of a container into its territory on the container's exit through any particular port of departure; and
   4. no Party shall require that the carrier bringing a container from the territory of another Party into its territory be the same carrier that takes the container out of the Party's territory.]
 
-### X.8. Goods Re-entered After Repair [US: or Alteration]
+### X.8. Produits réadmis après réparation [US: ou altération]
 
 1. [EU: For the purposes of this Article, repair means any processing operation undertaken on goods to remedy operating defects or material damage and entailing the re-establishment of goods to their original function or to ensure their compliance with technical requirements for their use, without which the goods could no longer be used in the normal way for the purposes for which it was intended. Repair of goods includes restoring and maintenance.]
 [US: For purposes of this Article, repair or alteration does] [EU: It shall] not include an operation or process that [EU: either]:
