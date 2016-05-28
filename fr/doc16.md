@@ -2,34 +2,35 @@
 ## – Mars 2016  
 
 ## Table of Contents  
-  1.1 Trade in Goods: Tariffs and Market Access
-  1.2 Public Procurement
-  1.3 Trade in Services and Investment
-  1.4 Rules of Origin
-  2.1 Regulatory Coherence
-  2.2 Technical Barriers to Trade
-  2.3 Sanitary and Phytosanitary Issues
-  2.4 Sectors
-    Pharmaceuticals
-    Cosmetics
-    Textiles
-    Cars
-    Medical devices
-    ICT
-    Engineering
-    Chemicals
-    Pesticides
-  3. Rules
-  3.1 Sustainable Development
-  3.2 Trade in Energy and Raw Materials
-  3.3 Small and Medium Enterprises
-  3.4 Customs and Trade Facilitation
-  3.5 Intellectual Property Rights, Including Geographical Indications
-  3.6 Competition
-  3.7 Investment Protection
- 3.8 State-to-State Dispute Settlement
+  1.1 Trade in Goods: Tariffs and Market Access  
+  1.2 Public Procurement  
+  1.3 Trade in Services and Investment  
+  1.4 Rules of Origin  
+  2.1 Regulatory Coherence  
+  2.2 Technical Barriers to Trade  
+  2.3 Sanitary and Phytosanitary Issues  
+  2.4 Sectors  
+    Pharmaceuticals  
+    Cosmetics  
+    Textiles  
+    Cars  
+    Medical devices  
+    ICT  
+    Engineering  
+    Chemicals  
+    Pesticides  
+  3. Rules  
+  3.1 Sustainable Development  
+  3.2 Trade in Energy and Raw Materials  
+  3.3 Small and Medium Enterprises  
+  3.4 Customs and Trade Facilitation  
+  3.5 Intellectual Property Rights, Including Geographical Indications  
+  3.6 Competition  
+  3.7 Investment Protection  
+ 3.8 State-to-State Dispute Settlement  
 
 ### SUMMARY
+
 Discussions during the the 12th round of negotiations on the Transatlantic Trade and Investment
 Partnership (TTIP) took place in Brussels between 22nd and 26th February 2016 and covered all three
 pillars of the agreement, i.e., market access, the regulatory cluster and rules. As part of the overall
@@ -71,6 +72,7 @@ substantial progress be made in all three pillars of the agreement by the summer
 ### 1.1 Trade in Goods: Tariffs and Market Access
 
 #### Non-agricultural goods
+
 The discussion during this round centered upon the offensive interest on each side in terms of faster
 staging of custom duty elimination on a subset of products currently in the 3, 7 or T basket. The US
 questioned some of the EU sensitivities on certain chemical products, which also led to discussions
@@ -98,7 +100,7 @@ clear that this would be the ceiling for all tariffs.
 
 #### Agricultural Goods
 
-**_Tariffs_**
+**_Tariffs_**  
 The EU sought clarification from the US on its capacity to improve the staging on a number of tariff
 lines under the “3” and “7” categories and corresponding to the ones offered by the EU at entry into
 force subject to reciprocity.
@@ -111,8 +113,7 @@ Products under “Other Treatment” were not discussed.
 
 The US side indicated dairy, sugar, tobacco as products with particular sensitivity.
 
-**_Chapter on agriculture_**
-
+**_Chapter on agriculture_**  
 Following the consolidation of the four textual elements (EU and US proposals for Chapter: EU
 proposal on wine and spirits; US proposal on spirits), a first review led to the identification of
 elements where further convergence seems possible (cooperation, committee on agriculture), and
@@ -140,8 +141,7 @@ work toward appropriate solutions and ensure follow up. On others, such as dairy
 or support of small beer and wine producers, the US is still questioning the significance of the
 issues for the EU industry.
 
-**_Fisheries_**
-
+**_Fisheries_**  
 As part of the 12th negotiating round, the EU and the US held a discussion on market access in the
 area of fisheries. The purpose of the meeting was to explore each side's export interest with a view
 on how to balance those with respective sensitive domestic interests. Both Parties explained their
@@ -255,11 +255,12 @@ and on the prohibition of prior authorization requirements for online services.
 
 #### 1.4. Rules of Origin
 
-**_Product-specific rules_**
+**_Product-specific rules_**  
 Negotiators discussed the following issues:
+
 1. **US proposal on 'Origin Procedures' (Section B)**
   * The US text follows the TPP model, however
-    1., it excludes a number of elements incorporated there, e.g., the requirement for
+    1. it excludes a number of elements incorporated there, e.g., the requirement for
 importing customs authorities to request information from the exporter/producer before
 denying a claim of preference, as well as some references to customs cooperation and
     2. it re-introduces the knowledge of the importers.
