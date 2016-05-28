@@ -1,17 +1,19 @@
-Chapitre [ ]  
-Agriculture [US: Market Access]  
-Consolidated Proposals  
+## Chapitre [ ]  
+## Agriculture [US: Market Access]  
+## Consolidated Proposals  
 
-Chapitre X  
-Agriculture [US: Market Access]
+## Chapitre X  
+## Agriculture [US: Market Access]
 
-Article X.1: [EU: Objectifs, ] Scope and Coverage
--------------------------------------------------
+### Article X.1: [EU: Objectifs, ] Scope and Coverage
+
 1. [EU: The Parties, reaffirming their commitments under the WTO Agreement on Agriculture,
 hereby lay down the necessary arrangements for the promotion and facilitation of trade in
 agricultural goods of the Parties.]
+
 2. [EU: Les Parties reconnaissent les différences dans leur modèle d'agriculture respectif et le besoin de s'assurer que ce
 Traité n'affecte dévavorablement la diversité d'agriculture des Parties.]
+
 3. [EU: The Parties recognize that their respective societal choices may differ with respect to public
 policy decisions affecting agriculture. In this regard, nothing in this Agreement will restrain the
 Parties from taking measures necessary to achieve legitimate policy objectives such as the
@@ -20,71 +22,79 @@ the promotion and protection of cultural diversity that each side deems appropri
 will seek to ensure that the effect of such measures does not create unnecessary obstacles to trade in
 agricultural goods between them and that the measures are not more trade-restrictive than necessary
 to fulfill their legitimate objective.]
+
 4. This Chapter applies to measures adopted or maintained by [EU: the Parties in respect of trade in
 agricultural goods (hereinafter referred to as “agriculture goods”) between them covered by the
 definition in Annex I of the WTO Agreement on Agriculture] [US: a Party relating to trade in
 agricultural goods].
+
 5. [EU: This Chapter does not apply to measures as defined in Annex A of the WTO Agreement on
 the Application of Sanitary and Phytosanitary Measures, which will be dealt with in Chapter {X on
 SPS}, or measures in other chapters applicable to agricultural goods].
 
-Article X.2: [EU: Cooperation in Agriculture]
--------------------------------------------------
+### Article X.2: [EU: Cooperation in Agriculture]
+
 1. [EU: The Parties recall the prominent role of sustainability in its economic, social and
 environmental dimensions in agriculture and aim at developing a fruitful cooperation and dialogue
 on agricultural sustainability issues. To this end, the Parties shall work together to:
-(a) facilitate information and knowledge-sharing through networks of farmers, researchers
-and public authorities; and
-(b) exchange ideas and share experience in developing sustainable farming practices,
+  1. facilitate information and knowledge-sharing through networks of farmers, researchers and public authorities; and
+  2. exchange ideas and share experience in developing sustainable farming practices,
 particularly with regards to organic farming, and environmentally friendly rural
 development programs.]
+
 2. [EU: The Parties shall cooperate in matters related to geographical indications in line with the
 provisions of Section 3 (Articles 22-24) of the TRIPS Agreement, without prejudice to the relevant
 provisions laid down in the Intellectual Property Chapter of this Agreement. The Parties reaffirm the
 importance of origin-linked products and geographical indications for sustainable agriculture and
 rural development, and in particular for small and medium-sized enterprises.]
 
-Article X.3: Cooperation in Multilateral [EU: and Other] Fora
--------------------------------------------------
+### Article X.3: Cooperation in Multilateral [EU: and Other] Fora
+
 1. The Parties shall work together to facilitate the successful conclusion of agriculture negotiations
 in the WTO [EU: and consider that this Agreement constitutes a significant contribution in that
 respect.] [US: that:
-(a) substantially improves market access for agricultural goods;
-(b) reduces, with a view to phasing out, agricultural export subsidies;
-(c) develops disciplines that eliminate restrictions on a person's right to export agricultural
+  1. substantially improves market access for agricultural goods;
+  2. reduces, with a view to phasing out, agricultural export subsidies;
+  3. develops disciplines that eliminate restrictions on a person's right to export agricultural
 goods; and
-(d) substantially reduces trade-distorting domestic support.]
+  4. substantially reduces trade-distorting domestic support.]
+
 2. [EU: The Parties recognize the efforts undertaken in international fora to enhance global food
 security and nutrition, and sustainable agriculture, and commit to actively engage in cooperation in
 those fora. To this end, the Parties shall:
-(a) refrain from undertaking export restrictions as well as the use of export taxes which
+  1. refrain from undertaking export restrictions as well as the use of export taxes which
 might exacerbate volatility, increase prices and have a detrimental effect on critical supplies
 of agricultural goods to the Parties and to other trading partners, and seek a coordinated
 approach in the relevant fora; and
-(b) encourage research and innovation and share practices to secure viable food production
+  2. encourage research and innovation and share practices to secure viable food production
 in the face of growing world food demand, and at the same time ensure the sustainable
 management of natural resources.]
+
 3. [US: The Parties shall work to promote international agricultural development and enhanced
 global food security by:
-(a) promoting robust global markets for food products and agricultural inputs;
-(b) seeking to avoid unwarranted trade measures that increase global food prices or
+  1. promoting robust global markets for food products and agricultural inputs;
+  2. seeking to avoid unwarranted trade measures that increase global food prices or
 exacerbate price volatility, in particular through avoiding the use of export taxes, export
 prohibitions or export restrictions on agricultural goods; and
-(c) encouraging and supporting research and education to develop innovative new
+  3. encouraging and supporting research and education to develop innovative new
 agricultural products and strategies that address global challenges related to the production
 of abundant, safe and affordable food, feed, fiber, and energy.]
+
 4. [EU: The Parties shall work together to promote the export of agricultural products from the least
 developed countries and to encourage regional integration of trade in agricultural products.]
 
-Article X.4: [EU: Export Competition]
--------------------------------------------------
+### Article X.4: [EU: Export Competition]
+
 1. [EU: For the purposes of this Article, “export subsidies” shall have the meaning assigned to that
 term in Article 1(e) of the WTO Agreement on Agriculture.]
+
 2. [EU: “Measures with equivalent effect” are export credits, export credit guarantees or insurance
 programs, as well as other measures that have an equivalent effect on an export subsidy.]
+
 3. [EU: The Parties reaffirm their commitment, expressed in the 2013 Bali Ministerial Declaration,
 to the parallel elimination of all forms of export subsidies and disciplines on all export measures
 with equivalent effect.]
+
 4. [EU: Upon entry into force of this Agreement, no Party shall maintain, introduce or reintroduce
 export subsidies or other measures with equivalent effect on an agricultural good that is exported or
 incorporated in a product that is exported to the territory of the other Party or the territory of a non-
@@ -92,137 +102,98 @@ Party with which both Parties have concluded a free trade agreement where the no
 eliminated duties on that agricultural good for the benefit of both Parties. This paragraph shall not
 apply to export financing support as referred to in paragraph 5 and for which paragraphs 5 to 7
 apply.]
-5. [EU: The Parties recognize the work undertaken in the WTO Doha Development Round in
-respect of the disciplines governing the provision of export credits, export credit guarantees, or
-insurance programs (“export financing support”). The Parties shall not grant any financial support
-to exports of an agricultural good, provided by entities referred to in paragraph 6, destined to the
-territory of the other Party or the territory of a non-Party referred to in paragraph 4, where the non-
-Party has fully eliminated duties on that agricultural good for the benefit of both Parties, unless this
-export financing support complies with the terms and conditions laid down in paragraph 7. The
-export credits, export credit guarantees and insurance programs shall comprise:
-(a) direct financing support, comprising direct credits/financing, refinancing, and interest
-rate support;
-(b) risk cover, comprising export credit insurance or reinsurance and export credit
-guarantees;
-(c) government-to-government credit agreements covering the imports of agricultural
-products from the creditor country under which some or all of the risk is undertaken by the
-government of the exporting country; and
-(d) any other form of governmental export credit support, direct or indirect, including
-deferred invoicing and foreign exchange risk hedging.]
-6. [EU: The provisions of this article shall apply to export financing support provided by or on
-behalf of the following entities, hereinafter referred to as “export financing entities”, whether such
-entities are established at the national or at the sub-national level:
-(a) government departments, agencies, or statutory bodies;
-(b) any financial institution or entity engaged in export financing in which there is
-governmental participation by way of equity, provision of funds, loans, or underwriting of
-losses;
-(c) agricultural export state trading enterprises; and
-(d) any bank or other private financial, credit insurance or guarantee institution which acts
-on behalf of or at the direction of governments or their agencies.]
-7. [EU: Export financing support shall be provided in conformity with the terms and conditions set
-out below.
-(a) Maximum repayment term: the maximum repayment term for export financing support
-under this Agreement, this being the period beginning at the starting point of credit1 and
-ending on the contractual date of the final payment, shall be no more than 180 days. This
-shall apply from the entry into force of this Agreement. Existing contracts which have been
-entered into prior to the signature of this Agreement and that are operating on a longer time
-frame than that defined in the preceding sentence, shall run their course until the end of their
-contractual date, provided that they are notified to the other Party.
-(b) Self-financing: export credit guarantee, insurance and reinsurance programs, and other
-risk cover programs included within subparagraphs 5 (b) (c) and (d) above shall be selffinancing.
-Where premium rates charged under a program are inadequate to cover the
-operating costs and losses of that program over a previous 4-year rolling period, this shall, in
-and of itself, be sufficient to determine that program is not self-financing. In addition, where
-these programs are found to constitute export subsidies within the meaning of item (j) of
-Annex I to the Agreement on Subsidies and Countervailing Measures, they shall also be
-deemed to be not self-financing under this Agreement.]
-8. [EU: If a Party maintains, introduces or reintroduces subsidies or other measures with equivalent
-effect on the export of agricultural goods to the other Party or the territory of a non-Party referred to
-in paragraph 4, which are not in compliance with the Article, the other Party may apply an
-additional tariff that will increase customs duties for imports of such goods up to the level of either
-the MFN applied duty or the base rate set out in Annex X {Tariff Elimination Schedule}, whichever
-is lower, for the period of the granting of the export subsidy or adoption of the measure with
-equivalent effect.]
-9. [EU: In order for the importing Party to eliminate the additional tariff applied in accordance with
-paragraph 8, the exporting Party shall provide detailed information which demonstrates compliance
-with the provisions of this Article.]
-10. [EU: The Parties reaffirm their commitment in the 2013 Bali Ministerial Declaration to enhance
-transparency and to improve monitoring in relation to all forms of export subsidies and all export
-measures with equivalent effect. To this end, upon request of the other Party, a Party shall provide
-necessary information on measures applied on an agricultural good destined to the territory of the
-1 The “starting point of a credit“ shall be no later than the weighted mean date or actual date of the arrival of the
-goods in the recipient country for a contract under which shipments are made in any consecutive six-month period.
-other Party or territory of a non-Party referred to in paragraph 4.]
-11. [EU: The Parties agree that the international food aid transactions destined for the territory of
-the Parties or the territory of a non-Party with which both Parties have concluded a free trade
-agreement, as well as for the territory of a least developed country, shall be provided in fully untied,
-in cash and fully grant form with the exception of clearly defined emergency situations.
+
+5. [EU: The Parties recognize the work undertaken in the WTO Doha Development Round in respect of the disciplines governing the provision of export credits, export credit guarantees, or insurance programs (“export financing support”). The Parties shall not grant any financial support to exports of an agricultural good, provided by entities referred to in paragraph 6, destined to the territory of the other Party or the territory of a non-Party referred to in paragraph 4, where the non- Party has fully eliminated duties on that agricultural good for the benefit of both Parties, unless this export financing support complies with the terms and conditions laid down in paragraph 7. The export credits, export credit guarantees and insurance programs shall comprise:
+  1. direct financing support, comprising direct credits/financing, refinancing, and interest rate support;
+  2. risk cover, comprising export credit insurance or reinsurance and export credit guarantees;
+  3. government-to-government credit agreements covering the imports of agricultural products from the creditor country under which some or all of the risk is undertaken by the government of the exporting country; and
+  4. any other form of governmental export credit support, direct or indirect, including deferred invoicing and foreign exchange risk hedging.]
+
+6. [EU: The provisions of this article shall apply to export financing support provided by or on behalf of the following entities, hereinafter referred to as “export financing entities”, whether such entities are established at the national or at the sub-national level:
+  1. government departments, agencies, or statutory bodies;
+  2. any financial institution or entity engaged in export financing in which there is governmental participation by way of equity, provision of funds, loans, or underwriting of losses;
+  3. agricultural export state trading enterprises; and
+  4. any bank or other private financial, credit insurance or guarantee institution which acts on behalf of or at the direction of governments or their agencies.]
+
+7. [EU: Export financing support shall be provided in conformity with the terms and conditions set out below.
+  1. Maximum repayment term: the maximum repayment term for export financing support under this Agreement, this being the period beginning at the starting point of credit[1] and ending on the contractual date of the final payment, shall be no more than 180 days. This shall apply from the entry into force of this Agreement. Existing contracts which have been entered into prior to the signature of this Agreement and that are operating on a longer time frame than that defined in the preceding sentence, shall run their course until the end of their contractual date, provided that they are notified to the other Party.
+  2. Self-financing: export credit guarantee, insurance and reinsurance programs, and other risk cover programs included within subparagraphs 5 (b) (c) and (d) above shall be selffinancing. Where premium rates charged under a program are inadequate to cover the operating costs and losses of that program over a previous 4-year rolling period, this shall, in and of itself, be sufficient to determine that program is not self-financing. In addition, where these programs are found to constitute export subsidies within the meaning of item (j) of Annex I to the Agreement on Subsidies and Countervailing Measures, they shall also be deemed to be not self-financing under this Agreement.]
+
+8. [EU: If a Party maintains, introduces or reintroduces subsidies or other measures with equivalent effect on the export of agricultural goods to the other Party or the territory of a non-Party referred to in paragraph 4, which are not in compliance with the Article, the other Party may apply an additional tariff that will increase customs duties for imports of such goods up to the level of either the MFN applied duty or the base rate set out in Annex X {Tariff Elimination Schedule}, whichever is lower, for the period of the granting of the export subsidy or adoption of the measure with equivalent effect.]
+
+9. [EU: In order for the importing Party to eliminate the additional tariff applied in accordance with paragraph 8, the exporting Party shall provide detailed information which demonstrates compliance with the provisions of this Article.]
+
+10. [EU: The Parties reaffirm their commitment in the 2013 Bali Ministerial Declaration to enhance transparency and to improve monitoring in relation to all forms of export subsidies and all export measures with equivalent effect. To this end, upon request of the other Party, a Party shall provide necessary information on measures applied on an agricultural good destined to the territory of the other Party or territory of a non-Party referred to in paragraph 4.]
+
+11. [EU: The Parties agree that the international food aid transactions destined for the territory of the Parties or the territory of a non-Party with which both Parties have concluded a free trade agreement, as well as for the territory of a least developed country, shall be provided in fully untied, in cash and fully grant form with the exception of clearly defined emergency situations.
+
 An emergency situation refers to a situation where:
-(a) there has been a declaration of an emergency by the recipient country or by the
-Secretary-General of the United Nations; or
-(b) there has been an emergency appeal from a country, a relevant United Nations
-agency, including the World Food Programme and the United Nations Humanitarian
-Programme Cycle, the International Committee of the Red Cross or the International
-Federation of Red Cross and Red Crescent Societies, a relevant regional or international
-intergovernmental agency, or a non-governmental humanitarian organization of recognized
-standing traditionally working in conjunction with the former bodies; and
-in either case, there is an assessment of need coordinated under the auspices of a relevant United
-Nations Agency, including the World Food Programme, the International Committee of the Red
-Cross, or the International Federation of the Red Cross and the Red Crescent Societies. Needs
-assessment should be done with the involvement of the recipient government and may involve a
-relevant regional intergovernmental organization or an NGO, but while the latter bodies may be so
-involved, this is in a context where they are in coordination with the relevant United Nations
-Agency or ICRC/IFRCRCS as the case may be.]
-[EU: The EU reserves the right to alter its proposal, following the DDA outcome. This does not
-constitute an official position of the EU in multilateral negotiations.]
-US: Article X.5: [Export Subsidies]
+  1. there has been a declaration of an emergency by the recipient country or by the Secretary-General of the United Nations; or
+  2. there has been an emergency appeal from a country, a relevant United Nations agency, including the World Food Programme and the United Nations Humanitarian Programme Cycle, the International Committee of the Red Cross or the International Federation of Red Cross and Red Crescent Societies, a relevant regional or international intergovernmental agency, or a non-governmental humanitarian organization of recognized standing traditionally working in conjunction with the former bodies; and
+
+in either case, there is an assessment of need coordinated under the auspices of a relevant United Nations Agency, including the World Food Programme, the International Committee of the Red Cross, or the International Federation of the Red Cross and the Red Crescent Societies. Needs assessment should be done with the involvement of the recipient government and may involve a relevant regional intergovernmental organization or an NGO, but while the latter bodies may be so involved, this is in a context where they are in coordination with the relevant United Nations Agency or ICRC/IFRCRCS as the case may be.]
+
+[EU: The EU reserves the right to alter its proposal, following the DDA outcome. This does not constitute an official position of the EU in multilateral negotiations.]
+
+[1] The “starting point of a credit“ shall be no later than the weighted mean date or actual date of the arrival of the goods in the recipient country for a contract under which shipments are made in any consecutive six-month period.
+
+### US: Article X.5: [Export Subsidies]
+
 [US: A Party shall not introduce or maintain any export subsidy on any agricultural good destined
 for the territory of another Party.]
 
-EU: Article X.6: [Domestic Support]
--------------------------------------------------
+### EU: Article X.6: [Domestic Support]
+
 [EU: The EU reserves the right to present a proposal on domestic support, in particular on the
 interaction between trade-distorting domestic support and market access commitments.
 This is without prejudice to the position of the EU in multilateral negotiations.]
-Article X.7: Committee on Agriculture
+
+### Article X.7: Committee on Agriculture
+
 1. The Parties hereby establish a Committee on Agriculture [EU: comprised of representatives of
 each Party. The Committee on Agriculture] [US: which] shall report to the [EU: {Trade}] [US:
 Joint] Committee. [US: Each Party shall have a representative on the Committee.
+
 2. The Committee [EU: on Agriculture] shall [US: provide a forum for]:
-(a) [EU: monitor and promote cooperation on the implementation and administration of
+  1. [EU: monitor and promote cooperation on the implementation and administration of
 Chapter {TTIP chapter on agriculture}, in order to facilitate the] [US: facilitating] trade in
 agricultural goods between the Parties;
-(b) [EU: provide a forum for the Parties to discuss developments of domestic agricultural
+  2. [EU: provide a forum for the Parties to discuss developments of domestic agricultural
 programs and trade in agricultural goods between the Parties;]
-(c) address [US: ing] barriers [EU: in] [US: to] trade in agricultural goods between the
+  3. address [US: ing] barriers [EU: in] [US: to] trade in agricultural goods between the
 Parties;
-(d) [US: exchanging information on domestic agricultural programs and environmental
+  4. [US: exchanging information on domestic agricultural programs and environmental
 measures affecting agriculture];
-(e) [EU: evaluate the impact of this Agreement on the agricultural sector of each Party, as
+  5. [EU: evaluate the impact of this Agreement on the agricultural sector of each Party, as
 well as the operation of the instruments of this Agreement, and recommend any appropriate
 action to the {Trade} Committee;]
-(f) [EU: consult on matters related to Chapter {TTIP chapter on agriculture} in coordination
+  6. [EU: consult on matters related to Chapter {TTIP chapter on agriculture} in coordination
 with other relevant committees, working groups, or any other specialized body under this
 Agreement;]
-(g) [EU: undertake any additional work that the {Trade} Committee may assign to it; and]
-(h) [EU: report and submit for consideration of the {Trade} Committee the results of its
+  7. [EU: undertake any additional work that the {Trade} Committee may assign to it; and]
+  8. [EU: report and submit for consideration of the {Trade} Committee the results of its
 work under this paragraph.]
-(i) [US: discussing agricultural export competition issues;]
-(j) [US: considering any matter arising under this Chapter; and]
-(k) [US: discussing agricultural issues arising in the WTO and other multilateral fora in
+  9. [US: discussing agricultural export competition issues;]
+  10. [US: considering any matter arising under this Chapter; and]
+  11. [US: discussing agricultural issues arising in the WTO and other multilateral fora in
 which the Parties participate.]
+
 3. The committee [EU: on Agriculture] shall meet at least once [EU: a] [US: each] year unless the
 Parties [EU: decide otherwise] [US: otherwise decide]. [EU: When special circumstances arise,
 upon request of a Party, the Committee shall meet at the Agreement of the Parties no later than 30
 days following the date of such request. Meetings of the Committee on Agriculture shall be chaired
 by representatives of the Party hosting the meeting.]
+
 4. [EU: The Committee on Agriculture shall adopt all decisions by consensus.]
+
 5. [US: The committee shall report the results of each meeting to the Joint Committee.]
 
-Article X. 8: [EU: Non-tariff Issues]
--------------------------------------------------
+### Article X. 8: [EU: Non-tariff Issues]
+
 [EU: The EU reserves the right to present a textual proposal on specific non-tariff issues.]
-Article X. 9: [US: Definitions]
+
+### Article X. 9: [US: Definitions]
+
 [US: For the purposes of this Chapter:]
 [US: Agreement on Agriculture means the WTO Agreement on Agriculture, contained in Annex
 1A of the WTO Agreement;]
