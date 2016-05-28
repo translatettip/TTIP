@@ -2,14 +2,13 @@
 
 
 
-## Chapter [ ]
+## Chapitre [ ]
 
-## National Treatment and Market Access for Goods
+## Traitement National et Accès au Marché des biens
 
 ### X.1 [EU: Objectifs
 
-The Parties progressively and reciprocally liberalize trade in goods over a transitional period starting from the entry into force of this Agreement in accordance with the provisions of this
-Agreement and in conformity with Article XXIV of the GATT 1994.]
+Les parties libéralisent progressivement et réciproquement le commerce des marchandises sur une période de transition à partir de l'entrée en vigueur du présent Accord conformément aux dispositions du présent Accord et conformément à l'article XXIV du GATT 1994.]
 
 ### X.2 Portée [US: et Couverture]
 
