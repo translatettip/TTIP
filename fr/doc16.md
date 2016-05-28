@@ -27,7 +27,7 @@
   3.5 Intellectual Property Rights, Including Geographical Indications  
   3.6 Competition  
   3.7 Investment Protection  
- 3.8 State-to-State Dispute Settlement  
+  3.8 State-to-State Dispute Settlement  
 
 ### SUMMARY
 
@@ -260,9 +260,7 @@ Negotiators discussed the following issues:
 
 1. **US proposal on 'Origin Procedures' (Section B)**
   * The US text follows the TPP model, however
-    1. it excludes a number of elements incorporated there, e.g., the requirement for
-importing customs authorities to request information from the exporter/producer before
-denying a claim of preference, as well as some references to customs cooperation and
+    1. it excludes a number of elements incorporated there, e.g., the requirement for importing customs authorities to request information from the exporter/producer before denying a claim of preference, as well as some references to customs cooperation and
     2. it re-introduces the knowledge of the importers.
   * The US highlighted the need for a speedy verification procedure and for the importing
 party to decide on the originating status of the goods, the US expressed concerns on the
@@ -310,8 +308,8 @@ Party), and clarified US concerns.
 and that accordingly, we must introduce relevant provisions. The question remaining is
 “how”.
 
-**_Textiles_**
-Discussions took place on the following issues:
+**_Textiles_**  
+Discussions took place on the following issues:  
 1. The standard approaches of both Parties to product-specific rules (PSR), as well as some other
 elements such as tolerances, origin quota derogations and cumulation.
   * Detailed exchange following the comparison of the EU approach (where the productspecific
