@@ -140,7 +140,7 @@ in either case, there is an assessment of need coordinated under the auspices of
 TITRE I  
 **Initial Provisions**
 
-_Article 1_
+_Article 1_  
 **Application**
 
 The provisions of this Chapter apply to the United States of America and to the European Union, hereafter referred to as “the Parties”.
