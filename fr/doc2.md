@@ -150,7 +150,7 @@ _Article 2_
 
 The objective of this Chapter is to facilitate trade in wine and spirit drinks between the Parties, and to improve cooperation in the development and enhance the transparency of regulations affecting such trade.
 
-_Article 3_
+_Article 3_  
 **Définitions**
 
 For the purposes of this Agreement:
@@ -162,7 +162,7 @@ For the purposes of this Agreement:
 
 4. “WTO Agreement” means the Marrakesh Agreement establishing the World Trade Organization, done on 15 April 1994
 
-_Article 4_
+_Article 4_  
 **Scope and Coverage**
 
 1. For the purposes of this Agreement, the term “wine” shall cover beverages obtained exclusively from the total or partial alcoholic fermentation of fresh grapes, whether or not crushed, or of grape must, with the possible addition of any constituent parts of fresh grapes authorized in the producing Party, in accordance with wine-making practices authorized under the regulatory mechanisms of the Party in whose territory the wine is produced, which:
