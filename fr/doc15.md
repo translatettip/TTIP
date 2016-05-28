@@ -53,6 +53,7 @@ obligations under this Chapter.
 ### Article x: Administration of Dispute Settlement Proceedings
 
 Each Party shall:
+
 1. designate an office that shall be responsible for [US: providing administrative assistance to
 panels established under Article 7] [EU: the administration of disputes under this Chapter];
 2. be responsible for the operation and costs of its designated office; and
