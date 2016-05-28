@@ -1,49 +1,52 @@
-Note – Tactical State of Play of the TTIP Negotiations  
-– Mars 2016  
-Table of Contents  
-1.1 Trade in Goods: Tariffs and Market Access
-1.2 Public Procurement
-1.3 Trade in Services and Investment
-1.4 Rules of Origin
-2.1 Regulatory Coherence
-2.2 Technical Barriers to Trade
-2.3 Sanitary and Phytosanitary Issues
-2.4 Sectors
-Pharmaceuticals
-Cosmetics
-Textiles
-Cars
-Medical devices
-ICT
-Engineering
-Chemicals
-Pesticides
-3. Rules
-3.1 Sustainable Development
-3.2 Trade in Energy and Raw Materials
-3.3 Small and Medium Enterprises
-3.4 Customs and Trade Facilitation
-3.5 Intellectual Property Rights, Including Geographical Indications
-3.6 Competition
-3.7 Investment Protection
-3.8 State-to-State Dispute Settlement
-2
-RESTREINT UE/EU RESTRICTED
-SUMMARY
+## Note – Tactical State of Play of the TTIP Negotiations  
+## – Mars 2016  
+
+## Table of Contents  
+  1.1 Trade in Goods: Tariffs and Market Access
+  1.2 Public Procurement
+  1.3 Trade in Services and Investment
+  1.4 Rules of Origin
+  2.1 Regulatory Coherence
+  2.2 Technical Barriers to Trade
+  2.3 Sanitary and Phytosanitary Issues
+  2.4 Sectors
+    Pharmaceuticals
+    Cosmetics
+    Textiles
+    Cars
+    Medical devices
+    ICT
+    Engineering
+    Chemicals
+    Pesticides
+  3. Rules
+  3.1 Sustainable Development
+  3.2 Trade in Energy and Raw Materials
+  3.3 Small and Medium Enterprises
+  3.4 Customs and Trade Facilitation
+  3.5 Intellectual Property Rights, Including Geographical Indications
+  3.6 Competition
+  3.7 Investment Protection
+ 3.8 State-to-State Dispute Settlement
+
+### SUMMARY
 Discussions during the the 12th round of negotiations on the Transatlantic Trade and Investment
 Partnership (TTIP) took place in Brussels between 22nd and 26th February 2016 and covered all three
 pillars of the agreement, i.e., market access, the regulatory cluster and rules. As part of the overall
 intensification of talks, this round stretched into a second week as the US and EU exchanged
 government procurement offers and continued to discussions on rules of origin as well as
 intellectual property rights.
+
 During this round two of the three pillars of TTIP were subject to a particular thrust, i.e. regulatory
 cooperation and rules.
+
 The regulatory pillar saw an exchange of new textual proposals on regulatory cooperation by the
 EU and US aimed at refining ideas about how to create a system within TTIP which facilitates
 current and future regulatory cooperation in both manufacturing and services. Parties also discussed
 the EU's revised draft chapter on good regulatory practices as well as all other regulatory issues,
 i.e., technical barriers to trade (TBT), sanitary and phytosanitary measures (SPS) and the nine
 industry sectors under consideration.
+
 In the rules silo, both sides now have on the table their respective proposals for investment
 protection as well as for the sustainable development chapter. Following substantial changes in the
 EU's proposal for investment protection, the EU in November 2015 presented a new and reformed
@@ -53,91 +56,108 @@ constructive atmosphere. With regard to sustainable development, the US tabled i
 labor and environment, and negotiators turned the spotlight on a detailed examination of each side's
 proposal. Parties also had good discussions on other parts of the rules silo, such as competition,
 customs and trade facilitation, state-to-state dispute settlement and SMEs, among other things.
+
 Last but not least, the EU and US discussed market access areas, most notably services, tariffs and
 public procurement. On procurement, there was an exchange of offers, followed by two and a half
 days of discussions between the negotiating teams on both the offers and the text of the chapter.
+
 Finally, the Parties agreed on accelerating their work between negotiating rounds with a view to
 picking up the pace of negotiations at large. Two additional, fully fledged negotiation rounds are
 planned between now and the summer break. The pivotal and overarching objective is to negotiate
 an ambitious, high standard TTIP agreement that responds to both EU and US interests, which
 means that substance will prevail over speed. The EU reiterated its intention to ensure that
 substantial progress be made in all three pillars of the agreement by the summer break.
-1.1 Trade in Goods: Tariffs and Market Access
-Non-agricultural goods
+
+### 1.1 Trade in Goods: Tariffs and Market Access
+
+#### Non-agricultural goods
 The discussion during this round centered upon the offensive interest on each side in terms of faster
 staging of custom duty elimination on a subset of products currently in the 3, 7 or T basket. The US
 questioned some of the EU sensitivities on certain chemical products, which also led to discussions
 on US export restrictions on LNG. The EU gave no room for flexibility on these products and
 highlighted that the TLs concerned are very few (around 35-40) compared to the overall number of
 chemical tariff lines (+1,100). The U.S. nonetheless expressed it would have to consult with its
-3
-RESTREINT UE/EU RESTRICTED
 chemical industry on how to position itself vis-à-vis its current offer of EIF on all chemical tariff
-lines.
+lines.  
 The EU proposed a possible package on mechanical devices in Chapter 84 and electrical appliances
 in Chapter 85 for which both parties share offensive interests. While the US showed an interest, it
 hastened to point out that it would need to consult with its industry regarding some of the products
 and that progress on motor vehicle-related parts would only be possible if the EU showed progress
 in the discussion on agricultural tariffs.
+
 The US showed openness to improve staging on EU goods such as jewelery, handbags and hand
-tools for which it
-has no particular sensitivity vis-à-vis the EU. On ceramics (tiles and roofing) and glass (household
+tools for which it has no particular sensitivity vis-à-vis the EU. On ceramics (tiles and roofing) and glass (household
 wears), the situation is mixed as the US has traditional sensitivities which coincide in some cases
 with EU export interests. However, the US undertook to review whether certain segments could be
 put forward for improved staging.
+
 In a more general context, the parties also discussed the fate of the tariff lines in the T basket for
 which the EU proposed that all NAMA tariff lines be limited to the 7-year basket. The US again
 explained that it was not against the 7-year basket limit, but could not bind itself to this until it was
 clear that this would be the ceiling for all tariffs.
-Agricultural Goods
-Tariffs
+
+#### Agricultural Goods
+
+**_Tariffs_**
 The EU sought clarification from the US on its capacity to improve the staging on a number of tariff
 lines under the “3” and “7” categories and corresponding to the ones offered by the EU at entry into
 force subject to reciprocity.
+
 The US presented requests on EU lines included under “3”, “7” and “T”, pertaining mostly to the
 dairy (e.g., butter), cereals, and fruit and vegetables sectors. With respect to the latter, the US side
 requested elimination of the entry price system.
+
 Products under “Other Treatment” were not discussed.
+
 The US side indicated dairy, sugar, tobacco as products with particular sensitivity.
-Chapter on agriculture
+
+**_Chapter on agriculture_**
+
 Following the consolidation of the four textual elements (EU and US proposals for Chapter: EU
 proposal on wine and spirits; US proposal on spirits), a first review led to the identification of
 elements where further convergence seems possible (cooperation, committee on agriculture), and
 others where positions are far apart (export competition, wine).
+
 As regards export competition, the US is opposed to the inclusion of any discipline in TTIP that
 would go beyond the Nairobi outcome. It pointed to a non-binding language in TPP where it
 resisted calls from other members to undertake specific commitments. The US suggested adding the
 language on export restrictions agreed in TPP and committed to propose an alternative language on
 cooperation in agriculture.
-4
-RESTREINT UE/EU RESTRICTED
+
 On wine, the EU recalled that TTIP must include comprehensive disciplines on wine and spirits
 based on the incorporation of the existing bilateral agreements, and eliminate the possibility for US
 producers to use the 17 EU wine names (so-called “semi-generics”) listed in Annex II of the 2006
 Wine Agreement. The US reiterated its opposition to the incorporation of wine rules in TTIP and to
 the EU request on semi-generics. The EU expressed strong concerns and will follow up at political
 level.
+
 The EU presented its counterproposal for the annex on labeling provisions on spirits, based on the
 joint position of the EU and US industries. The two sides will now work on a consolidated text
 based on the EU and US proposals.
+
 The two sides reviewed specific non-tariff issues. On some of them, specific steps were identified to
 work toward appropriate solutions and ensure follow up. On others, such as dairy import assessment
 or support of small beer and wine producers, the US is still questioning the significance of the
 issues for the EU industry.
-Fisheries
+
+**_Fisheries_**
+
 As part of the 12th negotiating round, the EU and the US held a discussion on market access in the
 area of fisheries. The purpose of the meeting was to explore each side's export interest with a view
 on how to balance those with respective sensitive domestic interests. Both Parties explained their
 offensive and defensive interests. The US will now need to complete and improve its offer to reduce
 the current gap. The objective is to have complete liberalization in this sector, with a symmetrical
 dismantlement of tariffs for the sensitive products.
-1.2 Public procurement
+
+### 1.2 Public procurement
+
 Discussions focused firstly on the recent exchange of initial procurement offers. Both sides clarified
 the scope and the main value elements of their respective offers and provided further interpretation
 to the commitments and notes within the offer documents. The EU asked questions on US entities
 that covered the threshold values and their practical enforcement as well as on the service contracts
 covered. The EU also asked questions on how the contracts covered were procured in practice.
 Also, questions were asked comparing commitments made in TPP.
+
 Furthermore, the EU continued to ask questions on market access in a number of key priority areas.
 These questions covered the following topics which are within Federal competence: new Federal
 domestic content restrictions (such as the FAST Act of February 2016, which raises American
@@ -151,32 +171,36 @@ US was not able to provide any further answers or comments with regard to sub-Fe
 procurement and again underlined its difficulties and sensitivities in this area. With regard to the
 process, the US clarified that anything remaining for market access in procurement is linked to
 sensitivities.
-5
-RESTREINT UE/EU RESTRICTED
+
 As for the textual provisions for the chapter, some of the key textual provisions relate to market
 access (such as on National Treatment and flow-down), more fundamental advancement is subject
 to agreement to be reached on market access. As for other areas of the text proposal, discussions
 allowed to clarify positions in view of more fundamental advancement in the next round. EU
 stressed in particular the need to find solutions to build more transparency and facilitate access to
 procurement by SMEs.
-1.3 Trade in Services and Investment
+
+### 1.3 Trade in Services and Investment
+
 The EU and the US covered the following areas in the services discussion: cross-border trade in
 services, liberalization of investment and rules related to financial services, postal and express
 delivery services, direct selling, recognition of professional qualifications, domestic regulation,
 telecoms and e-commerce. There was also a short exchange on follow-up issues related to market
 access.
-As regards liberalization of investment, we had one day of discussions focusing on definitions,
+
+As regards **liberalization of investment**, we had one day of discussions focusing on definitions,
 market access, national treatment, performance requirements and senior management and board of
 directors. The EU and the US have engaged in an in-depth comparison of their respective
 approaches, with a view to identifying areas that would require further substantive discussion in
 future rounds. Work towards a consolidated text has progressed, notably on definitions,
 performance requirements and senior management and board of directors.
-As regards financial services, the EU and the US agreed on the architecture of the financial
+
+As regards **financial services**, the EU and the US agreed on the architecture of the financial
 services chapter according to the EU proposal: the EU accepted a stand-alone chapter on financial
 services (content to be negotiated) and the US agreed to a process of negotiation, whereby
 horizontal disciples (such as national treatment) would be centralized for the sake of efficiency and
 to avoid undesired inconsistencies. Once these discussions reach sufficient maturity, we will discuss
 if and how to modify these provisions to the FS chapter.
+
 Furthermore, we started work on the consolidated text. The focus of the discussions was on
 definitions, the scope of the financial chapter as well as rules and exceptions (specific exception,
 prudential exception). In particular the US chapter on financial services covers only financial
@@ -185,30 +209,32 @@ services suppliers are covered in the investment chapter), whereas the EU chapte
 categories of financial service suppliers. Moreover, the EU prudential exception includes a
 necessity test as opposed to the US proposal which includes an anti-circumvention test as in the
 GATS.
-The EU and the US have not changed their positions on regulatory cooperation in financial
-services: The US continues to oppose discussing this issue in TTIP, whereas the EU confirmed that
-its mutual access offer for Financial Services hinges upon the US satisfactory engagement in
-regulatory cooperation.
-The EU and the US discussed the approach to domestic regulation on the basis of the EU nonpaper
+
+The EU and the US have not changed their positions on **regulatory cooperation in financial services**: The US continues to oppose discussing this issue in TTIP, whereas the EU confirmed that its mutual access offer for Financial Services hinges upon the US satisfactory engagement inregulatory cooperation.
+
+The EU and the US discussed the approach to **domestic regulation** on the basis of the EU nonpaper
 and taking into account the current outcome of TISA negotiations. The US took a cautious
 position on the application of domestic regulation to non-services such as manufacturing.
-6
-RESTREINT UE/EU RESTRICTED
-Also, we discussed delivery services on the basis of the EU and US proposals tabled for this round.
+
+Also, we discussed **delivery services** on the basis of the EU and US proposals tabled for this round.
 The US text is based on the jointly agreed TISA text and, as such, has many things in common with
 the EU's proposal for TTIP.
-The US presented its proposal on direct selling and stressed its benefits for SMEs. The EU
+
+The US presented its proposal on **direct selling** and stressed its benefits for SMEs. The EU
 expressed an interest in including provisions on direct selling in TTIP provided that the proposal
 does not affect the EU's rules on consumer protection. The US agreed with the approach.
-The EU and the US made further progress in the negotiations related to the framework of mutual
-recognition agreements. The focus was on ensuring that the mechanism envisaged by the
+
+The EU and the US made further progress in the negotiations related to the framework of **mutual recognition agreements**.
+The focus was on ensuring that the mechanism envisaged by the
 agreement would be compatible with EU and US regulatory systems. The US confirmed its
 ambition of going beyond its existing practices including TPP and TISA. The Parties also discussed
 how to apply different types of dispute/mediation/appeal mechanisms to the framework.
 Intersessional discussions on auditors and architects are planned for March.
+
 The discussions on market access focused on telecoms and maritime transport (EU interests) and
 Annex 2 (US interests).
-Apart from that, we had three days of discussions on telecommunications services, covering all
+
+Apart from that, we had three days of discussions on **telecommunications services**, covering all
 EU and US proposals. There was an in-depth discussion on the scope of the chapter (the EU
 insisting on covering new telecommunications services, such as broadband, and the US proposing a
 self-defined scope) and on access obligations for major suppliers. However, there is no major
@@ -217,7 +243,8 @@ accelerated if discussions on data flows and computing facilities also advanced 
 because US telecom operators are very interested in data flows). There was some progress on the
 text of the telecoms chapter, most notably on the provisions on interconnection and competitive
 safeguards.
-Discussions on e-commerce covered all proposals except for the provisions on data flows and
+
+Discussions on **e-commerce** covered all proposals except for the provisions on data flows and
 computing facilities. There was good progress on understanding each other's proposals and on
 exploring potential possibilities for compromise. With regard to non-discrimination of digital
 products, the US emphasized that they are very interested in this concept irrespective of the
@@ -225,99 +252,102 @@ coverage of audio-visual services. They signaled some openness to refer to a mor
 (digital content instead of digital products) and to exclude audio-visual services from this provision.
 Positive discussions also took place on the EU proposals on e-trust services and e-authentication
 and on the prohibition of prior authorization requirements for online services.
-1.4. Rules of Origin
-Product-specific rules
+
+#### 1.4. Rules of Origin
+
+**_Product-specific rules_**
 Negotiators discussed the following issues:
-(i) US proposal on 'Origin Procedures' (Section B)
-• The US text follows the TPP model, however
-(i), it excludes a number of elements incorporated there, e.g., the requirement for
+1. **US proposal on 'Origin Procedures' (Section B)**
+  * The US text follows the TPP model, however
+    1., it excludes a number of elements incorporated there, e.g., the requirement for
 importing customs authorities to request information from the exporter/producer before
 denying a claim of preference, as well as some references to customs cooperation and
-(ii) it re-introduces the knowledge of the importers.
-7
-RESTREINT UE/EU RESTRICTED
-• The US highlighted the need for a speedy verification procedure and for the importing
+    2. it re-introduces the knowledge of the importers.
+  * The US highlighted the need for a speedy verification procedure and for the importing
 party to decide on the originating status of the goods, the US expressed concerns on the
 possibility for the EU system to be subject to abuses by the exporting authority, which
 may be inclined to protect its exporters' interests by confirming the originating status of
 the goods.
-• While agreeing on the need to establish an appropriate procedure of verification, the EU
+  * While agreeing on the need to establish an appropriate procedure of verification, the EU
 insisted on the need to protect the confidential information of exporters/producers. In
 this sense, the cooperation of both Parties' authorities in case of verification would
 ensure the needed comfort for the operators. EU noted that the US system could also be
 subject to abuses by the importing authorities, which could refuse the preferences
 without having contacted the exporter/producer or the authorities of the exporting Party.
-• The US requested the EU to react to its proposal.
-(ii) 'General Provisions' part (Section A)
-• The texts of the 'non-conflictive provisions' of the Parties are close in substance and
+  * The US requested the EU to react to its proposal.
+
+2. **'General Provisions' part (Section A)**
+  * The texts of the 'non-conflictive provisions' of the Parties are close in substance and
 drafting. The US seemed to be open to considering the EU's compromise texts proposal.
-• Specific discussions took place on the concrete functioning of the US proposal on
+  * Specific discussions took place on the concrete functioning of the US proposal on
 'requirement for originating status' and 'cumulation'. The US confirmed that its proposal
 is that the products are originating 'in TTIP' (common origin) and that materials and also
 all types of processes may be cumulated by the Parties (full cumulation).
-• The EU formulated a list of concrete questions on the functioning of several US
+ * The EU formulated a list of concrete questions on the functioning of several US
 provisions (meaning of 'produced entirely in the territory of the Parties', definition of
 'territory of US' in relation with the territorial seas/EEZ, etc.) and requested the US to
 come back with detailed explanations.
-• The US agreed on EU/US consolidated text containing the initial positions of the Parties
+  * The US agreed on EU/US consolidated text containing the initial positions of the Parties
 for the reading room, subject to final legal confirmation.
-(iii) Product Specific Rules (PSR)
-• The US indicated its readiness to exchange proposals on agricultural products in the
+
+3. **Product Specific Rules (PSR)**
+  * The US indicated its readiness to exchange proposals on agricultural products in the
 round of April.
-• The Parties compared in detail the respective proposals for Chapters 85 and 86. The US
+  * The Parties compared in detail the respective proposals for Chapters 85 and 86. The US
 approach for many products in HS Chapter 85 is to impede the import of the relevant
 parts, and to permit for the assembly of the imported parts to confer origin only if a
 certain value added is reached in the Party, as the EU does. The Parties noted that the
 positions are close for HS Chapter 86.
-• The US flagged the possibility of certain changes in the chemical sectors, i.e., to use a
+  * The US flagged the possibility of certain changes in the chemical sectors, i.e., to use a
 horizontal rule for each chapter, as the EU proposes.
-• The EU recalls the basics of the anti-fraud clause (in all agreements; protection of public
+  * The EU recalls the basics of the anti-fraud clause (in all agreements; protection of public
 revenues, applicable in case of systemic fraud/lack of enforcements of the rules by one
 Party), and clarified US concerns.
-• Both Parties agreed that the anti-fraud clause will build on the “origin procedures”
+  * Both Parties agreed that the anti-fraud clause will build on the “origin procedures”
 (certification/verification of origin) once established.
-• Both Parties agreed that there is no divergence in the objective of fighting against fraud,
+  * Both Parties agreed that there is no divergence in the objective of fighting against fraud,
 and that accordingly, we must introduce relevant provisions. The question remaining is
 “how”.
-8
-RESTREINT UE/EU RESTRICTED
-Textiles
+
+**_Textiles_**
 Discussions took place on the following issues:
-(i) The standard approaches of both Parties to product-specific rules (PSR), as well as some other
+1. The standard approaches of both Parties to product-specific rules (PSR), as well as some other
 elements such as tolerances, origin quota derogations and cumulation.
-• Detailed exchange following the comparison of the EU approach (where the productspecific
+  * Detailed exchange following the comparison of the EU approach (where the productspecific
 rule requirements apply to all materials) and the US method (where the productspecific
 rule requirements apply exclusively to some materials; those which define the
 classification of the product). In conclusion, the US approach is more relaxed than the
 EU one.
-• The US raised questions on the EU-Vietnam FTA, and more precisely, on cumulation
+  * The US raised questions on the EU-Vietnam FTA, and more precisely, on cumulation
 with Korea as a solution to relax the rules. Detailed questions on the functioning of EU
 extended cumulation followed.
-• Further details on the different functioning of 'origin quota derogations' and the 'short
+  * Further details on the different functioning of 'origin quota derogations' and the 'short
 supply list mechanism' were highlighted. The US considers 'origin quota derogations'
 products as 'non-originating' and they are therefore only partially covered by the FTA.
 Products in the short supply list are deemed originating (the list is considered part of the
 PSR). The US repeated that they will no longer pursue 'origin quota derogations' in its
 FTAs.
-• Specific certificates of origin issued by governmental authorities are used only for cases
+  * Specific certificates of origin issued by governmental authorities are used only for cases
 of 'origin quota derogations' in some regimes (AGOA) because of the procedures needed
 for the implementation of the quotas.
-ii. The elements of the US proposed Chapter on Textile and Clothing referring to anticircumvention
+
+2. The elements of the US proposed Chapter on Textile and Clothing referring to anticircumvention
 and information sharing. The EU noted that:
-• some of the provisions did not seem to be relevant in an agreement between the EU and
+  * some of the provisions did not seem to be relevant in an agreement between the EU and
 the US. The US agreed.
-• other provisions seemed to have an undefined scope, i.e., they were not clear on what the
+  * other provisions seemed to have an undefined scope, i.e., they were not clear on what the
 obligations of a Party would be in case of a request for cooperation by the other Party.
-• potential overlapping with the CCMAA (Customs Cooperation and Mutual Assistance
+  * potential overlapping with the CCMAA (Customs Cooperation and Mutual Assistance
 Agreement)
-• Confidentiality issues where not clearly addressed.
+  * Confidentiality issues where not clearly addressed.
+
 The US confirmed that:
-• The scope of these provisions goes beyond strictly preferential origin issues of textiles
+  * The scope of these provisions goes beyond strictly preferential origin issues of textiles
 and clothing and would also cover infringements and fraud on non-preferential origin
 (anti-dumping, origin marking), but not on other elements such as labeling. The reason
 behind these proposed provisions is the high incidence of fraud (determined in around
 50% of cases investigated).
-• US customs may provide customs cooperation following a request by a partner
+  * US customs may provide customs cooperation following a request by a partner
 importing country for the verification of the preferential originating status of textile and
 clothing products exported from the US. The legal authority vis-à-vis exporters to
 conduct such verifications would be derived from the Free Trade Agreement, possibly
@@ -325,8 +355,7 @@ supported by further legislation implemented in the US. Although US customs coul
 potentially request the cooperation of the exporting partner country for preferential
 imports, it prefers in most cases to do its own verification including direct visits to the
 exporting country.
-9
-RESTREINT UE/EU RESTRICTED
+
 2.1 Regulatory Coherence
 Discussions took place in a constructive manner and good progress was made in both sessions. As
 the respective proposals reflect exchanges over the past months (with each side taking into account
