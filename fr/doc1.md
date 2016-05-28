@@ -229,10 +229,10 @@ The Committee may convene a subcommittee on customs matters to assist the Commit
 
 ### X.17. Définitions
 
-[EU: Unless otherwise specified in this Chapter, terms shall have the meanings attributed to them in the GATT and the WTO multilateral agreements on trade in goods.]
-For the purposes of this Chapter [EU: , the following definitions shall apply]:
+[EU: Sauf indication contraire dans le présent chapitre , les termes ont le sens qui leur est attribué dans le GATT et les accords multilatéraux de l'OMC sur le commerce des marchandises.]
+Pour les besoins de ce Chapitre [EU: , les définitions suivantes s'appliqueront]:
 
-**consular transaction** [US: s means the] [EU: The] procedure of obtaining from a consul of the importing Party in the territory of the exporting Party, or in the territory of a [US: non-] [EU: third] Party, a consular invoice or a consular visa for a commercial invoice, certificate of origin, manifest, shippers' export declaration, or any other customs documentation in connection with the importation of the good;
+**transaction consulaire** [US: s signifie la] [EU: La] procédure d'obtention d'un consul de la Partie importatrice sur le territoire de la Partie exportatrice, ou sur le territoire d'une ([US: non-] [EU: third]) Partie neutre, une facture consulaire ou un visa consulaire pour une facture commerciale, certificat d'origine, manifeste, la déclaration d'exportation des expéditeurs, ou toute autre documentation douanière dans le cadre de l' importation de la marchandise;
 
 [EU: **Customs duty** A duty or charge of any kind imposed on or in connection with the importation or exportation of a good, including any form of surtax or surcharge imposed on or in connection with such importation or exportation. It does not include: (a) a charge equivalent to an internal tax imposed consistently with Article […] of this Chapter; (b) a duty imposed consistently with [any bilateral duties authorized under the agreement, e.g. bilateral safeguards or DS sanctions, text to be defined]; (c) a duty applied consistently with Article VI, Article XVI, Article XIX of GATT 1994, the WTO Agreement on Implementation of Article VI of GATT 1994, the WTO Agreement on Subsidies and Countervailing Measures, the WTO Agreement on Safeguards, Article V of the WTO Agreement on Agriculture and the WTO Understanding on Rules and Procedures Governing the Settlement of Disputes; or (d) a fee or other charge imposed consistently with Article […] of this Chapter.]
 
@@ -244,25 +244,25 @@ For the purposes of this Chapter [EU: , the following definitions shall apply]:
 
 [EU: **Originating** Qualifying under the rules of origin set out in the [Annex on Rules of Origin].]
 
-[US: **advertising films and recordings** means recorded visual media or audio materials that exhibit for prospective customers that nature or operation of goods or services offered for sale or lease by a person established or resident in the territory of a Party;
+[US: **advertising films and recordings** signifie recorded visual media or audio materials that exhibit for prospective customers that nature or operation of goods or services offered for sale or lease by a person established or resident in the territory of a Party;
 
-**commercial samples of negligible value** means commercial samples having a value, individually or in the aggregate as shipped, of not more than one US dollar, or the equivalent amount in the currency of another Party, or so marked, torn, perforated, or otherwise treated such that they are unsuitable for sale or use except as commercial samples;
+**commercial samples of negligible value** signifie commercial samples having a value, individually or in the aggregate as shipped, of not more than one US dollar, or the equivalent amount in the currency of another Party, or so marked, torn, perforated, or otherwise treated such that they are unsuitable for sale or use except as commercial samples;
 
-**consumed** means:
+**consumed** signifie:
 1. actually consumed;
 2. further processed or manufactured so as to result in a substantial change in the value, form, or use of the good or in the production of another good;
 
-**container** means an article of transport equipment that is fully or partially enclosed to constitute a compartment intended for containing merchandise or goods, is substantial and has an internal volume of one cubic meter or more, is of a permanent character and accordingly strong enough to be suitable for repeated use, is used in significant numbers in international traffic, is specially designed to facilitate the carriage of merchandise of goods by more than one mode of transport without intermediate reloading, and is designed both for ready handling, particularly when being transferred from one mode of transport to another, and to be easy to fill and to empty, but does not include vehicles, accessories or spare parts of vehicles, or packaging;
+**container** signifie an article of transport equipment that is fully or partially enclosed to constitute a compartment intended for containing merchandise or goods, is substantial and has an internal volume of one cubic meter or more, is of a permanent character and accordingly strong enough to be suitable for repeated use, is used in significant numbers in international traffic, is specially designed to facilitate the carriage of merchandise of goods by more than one mode of transport without intermediate reloading, and is designed both for ready handling, particularly when being transferred from one mode of transport to another, and to be easy to fill and to empty, but does not include vehicles, accessories or spare parts of vehicles, or packaging;
 
-**distributor** means a person of a Party who is responsible for the commercial distribution, agency, concession, or representation in the territory of the Party of goods of another Party;
+**distributor** signifie a person of a Party who is responsible for the commercial distribution, agency, concession, or representation in the territory of the Party of goods of another Party;
 
-**duty-free** means free of customs duty;
+**duty-free** signifie free of customs duty;
 
-**goods admitted for sports purposes** means sports requisites for use in sports contests, demonstrations, or training in the territory of the Party into whose territory such goods are admitted;
+**goods admitted for sports purposes** signifie sports requisites for use in sports contests, demonstrations, or training in the territory of the Party into whose territory such goods are admitted;
 
-**import licensing** means an administrative procedure requiring the submission of an application or other documentation (other than that generally required for customs clearance purposes) to the relevant administrative body or bodies as a prior condition for importation into the territory of the importing Party;
+**import licensing** signifie an administrative procedure requiring the submission of an application or other documentation (other than that generally required for customs clearance purposes) to the relevant administrative body or bodies as a prior condition for importation into the territory of the importing Party;
 
-**performance** requirement means a requirement that:
+**performance** requirement signifie a requirement that:
 1. a given level or percentage of goods or services be exported;
 2. domestic goods or services of the Party granting a waiver of customs duties or an import license be substituted for imported goods;
 3. a person benefiting from a waiver of customs duties or an import license purchase other goods or services in the territory of the Party granting the waiver of customs duties or the import license, or accord a preference to domestically produced goods;
@@ -274,9 +274,9 @@ but does not include a requirement that an imported good be:
 8. substituted by an identical or similar good used as a material in the production of another good that is subsequently exported; or
 9. substituted by an identical or similar good that is subsequently exported;
 
-**printed advertising materials** means those goods classified in Chapter 49 of the Harmonized System, including brochures, pamphlets, leaflets, trade catalogs, yearbooks published by trade associations, tourist promotional materials, and posters, that are used to promote, publicize, or advertise a good or service, are essentially intended to advertise a good or service, and are supplied free of charge; and
+**printed advertising materials** signifie those goods classified in Chapter 49 of the Harmonized System, including brochures, pamphlets, leaflets, trade catalogs, yearbooks published by trade associations, tourist promotional materials, and posters, that are used to promote, publicize, or advertise a good or service, are essentially intended to advertise a good or service, and are supplied free of charge; and
 
-**SCM Agreement** means the WTO Agreement on Subsidies and Countervailing Measures.]
+**SCM Agreement** signifie the WTO Agreement on Subsidies and Countervailing Measures.]
 
 **[US: ANNEX A: NATIONAL TREATMENT AND IMPORT AND EXPORT RESTRICTIONS**
 
