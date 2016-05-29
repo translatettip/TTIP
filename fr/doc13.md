@@ -1,16 +1,12 @@
-## Transatlantic Trade and Investment Partnership (TTIP)
-## Chapter [ ]
-## Consolidated Proposed
-## Small and Medium [EU:-Sized] Enterprise (SME) Text
+## Partenariat Transatlantique pour le commerce et l'investissement (TTIP)
+## Chapitre [ ]
+## Proposition unifiée
+## Texte relatif aux petites et moyennes entreprises (PME) [UE]
 
-### For inclusion in the preamble of the Agreement:
+### Sont inclus dans le préambule de l'accord :
 
-Recognizing that small and medium [EU:-sized] enterprises (SMEs) [EU:, including microenterprises]
-contribute significantly to economic growth, employment, and innovation, and further
-recognizing the existing robust dialogue on ways to increase the participation of SMEs in trade and
-the cooperative work on SMEs, the Parties seek to continue to support the growth and development
-of SMEs [US: and promote the interests of their employees] by enhancing their ability to participate
-in and benefit from the opportunities created by this Agreement;
+Reconnaissant que les petites et moyennes entreprises (PME) [UE] [y compris les microentreprises]
+contribuent grandement à la croissance économique, à l'emploi et à l'innovation, et reconnaissant également la solidité du dialogue existant sur les moyens de renforcer la participation des PME dans le commerce ainsi que le travail de collaboration des PME, les parties cherchent à perpétuer le soutien à la croissance et au développement des PME [Etats-Unis: et à défendre les intérêts de leurs employés] en renforcant leur pouvoir de participation et leur capacité à bénéficier des opportunités créées par cet accord ;
 
 ### Article X.1: Cooperation to Increase Trade and Investment Opportunities for SMEs
 
