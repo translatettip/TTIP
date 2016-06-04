@@ -1,12 +1,12 @@
-## Merci de respecter la synthaxe ! ![alt text](http://findicons.com/files/icons/1008/quiet/128/attention2.png "ATTENTION")
+## Merci de respecter la synthaxe ! ![alt texte] (http://findicons.com/files/icons/1008/quiet/128/attention2.png "ATTENTION")
 
 
 
-## Chapitre [ ]
+Chapitre [ ]
 
-## Traitement National et Accès au Marché des biens
+## Traitement National et Accès au Marché des Biens
 
-### X.1 [EU: Objectifs
+### X.1 [UE: Objectifs
 
 Les parties libéralisent progressivement et réciproquement le commerce des marchandises sur une période de transition à partir de l'entrée en vigueur du présent Accord conformément aux dispositions du présent Accord et conformément à l'article XXIV du GATT 1994.]
 
@@ -18,7 +18,7 @@ Les parties libéralisent progressivement et réciproquement le commerce des mar
 
 1. Chaque Partie appliquera le traitement national aux biens [US: d'une autre] [EU: de l'autre] Partie conformément à l'Article III du GATT 1994, en ce compris ses Notes et Dispositions Supplémentaires. A cette fin, l'Article III du GATT 1994, en ce compris ses Notes et Dispositions Supplémentaires, est intégré dans, et fait partie de, cet Accord, mutatis mutandis (NdT: en changeant ce qui doit être changé)
 
-2. [US: Le traitement à accorder par une Partie en vertu du premier paragraphe signifie, en ce qui concerne un niveau régional de gouvernement, un traitement non moins favorable que le traitement le plus favorable qu'un niveau régional de gouvernment accorde à des biens similaires, directement concurrents, ou substituables, le cas échéant, de la Partie de laquelle il forme une partie. 
+2. [US: Le traitement à accorder par une Partie en vertu du premier paragraphe signifie, en ce qui concerne un niveau régional de gouvernement, un traitement non moins favorable que le traitement le plus favorable qu'un niveau régional de gouvernement accorde à des biens similaires, directement concurrents, ou substituables, le cas échéant, de la Partie de laquelle il forme une partie. 
 
 3. Les paragraphes 1 et 2 ne sont pas applicables aux mesures énumérées dans l'Annexe X-A.]
 
@@ -46,186 +46,186 @@ La classification des biens commercialisés entre les Parties est gouvernée par
 
 ### X.6. [US: Exonération des Droits de Douane
 
-1. No Party shall adopt any new waiver of customs duties, or expand with respect to existing recipients or extend to any new recipient the application of an existing waiver of customs duties, where the waiver is conditioned, explicitly or implicitly, on the fulfillment of a performance requirement.
+1. Aucune partie ne doit adopter aucune nouvelle exemption des droits de douane, ni élargir pour des bénéficiaires existants ou d'étendre à de nouveaux bénéficiaires de l'application d'une dérogation existante des droits de douane, lorsque la renonciation est conditionnée, explicitement ou implicitement, sur la réalisation d'une performance exigence.
 
-2. No Party shall, explicitly or implicitly, condition on the fulfillment of a performance requirement the continuation of any existing waiver of customs duties.]
+2. Aucune Partie, explicitement ou implicitement, la condition relative au respect d'une exigence de performance de la continuation de toute dérogation existante des droits de douane.]
 
 ### X.7. [US: Admission Temporaire des Biens
 
-1. Each Party shall grant duty-free temporary admission for the following goods, regardless of their origin:
-  1. professional equipment, including equipment for the press or television, software, and broadcasting and cinematographic equipment, necessary for carrying out the business activity, trade, or profession of a person who qualifies for temporary entry pursuant to the laws of the importing Party;
-  2. goods intended for display or demonstration, including their competent parts, ancillary apparatus, and accessories;
-  3. commercial samples and advertising films and recordings; and
-  4. goods admitted for sports purposes.
+1. Chacune des Parties accordera l'admission temporaire en franchise de droits pour les produits suivants, quelle que soit leur origine:
+  1. équipement professionnel, y compris les équipements pour la presse ou à la télévision, les logiciels et la radiodiffusion et des équipements cinématographiques, nécessaires à la réalisation de l'activité, le commerce, ou de la profession d'une personne qui remplit les conditions d'admission temporaire en vertu des lois de la Partie importatrice;
+  2. Les marchandises destinées à l'affichage ou de démonstration, y compris leurs parties compétentes, les appareils auxiliaires et des accessoires;
+  3. échantillons commerciaux et des films publicitaires et des enregistrements; et
+  4. Les marchandises admises à des fins sportives.
 
-2. No Party shall condition the duty-free temporary admission of a good referred to in paragraph 1, other than to require that the good:
-  1. be used solely by or under the personal supervision of a national or resident of a Party in the exercise of the business activity, trade, profession, or sport of that person;
-  2. not be sold or leased while in its territory;
-  3. be accompanied by a security in an amount no greater than the charges that would otherwise be owed on entry or final importation, releasable on exportation of the good;
-  4. be capable of identification when exported;
-  5. be exported on the departure of the person referenced in subparagraph (a), or within such other period related to the purpose of the temporary admission as the Party may establish, or within one year, unless extended;
-  6. be admitted in no greater quantity than is reasonable for its intended use; and
-  7. be otherwise admissible into the Party's territory under its law.
+2. Aucune partie ne doit conditionner l'admission temporaire en franchise d'un produit visé au paragraphe 1, autre que d'exiger que le bien:
+  1. être utilisé uniquement par ou sous la surveillance personnelle d'un ressortissant ou résident d'une Partie dans l'exercice de l'activité commerciale, le commerce, la profession ou le sport de cette personne;
+  2. ne pas être vendu ou loué pendant sur son territoire;
+  3. être accompagnée d'une garantie d'un montant ne dépassant pas les charges qui seraient autrement exigibles à l'admission ou à l'importation finale, libérable à l'exportation de la marchandise;
+  4. être capable d'identification lors de l'exportation;
+  5. être exporté au départ de la personne mentionnée à l'alinéa (a), ou dans tout autre délai en rapport avec l'objet de l'admission temporaire en tant que Partie peut établir, ou moins d'un an, à moins étendue;
+  6. être admis en quantité raisonnable compte tenu de son utilisation prévue; et
+  7. être autrement admissible sur le territoire de la Partie en vertu de sa loi.
 
-3. Each Party, at the request of the person concerned, and if its customs authority considers the reasons for that request to be valid, shall extend the time limit for temporary admission beyond the period initially fixed.
+3. Chaque Partie, à la demande de la personne concernée, et si son autorité douanière examine les raisons de cette demande pour être valable, doit prolonger le délai pour l'admission temporaire au-delà de la période initialement fixée.
 
-4. Each Party shall grant duty-free temporary admission for containers and pallets regardless of their origin, in use or to be used in the shipment of merchandise or goods in international traffic.
+4. Chacune des Parties accordera l'admission temporaire en franchise de droits pour les conteneurs et les palettes indépendamment de leur origine, en cours d'utilisation ou pour être utilisé dans le transport de marchandises ou de marchandises en trafic international.
 
-5. If any condition that a Party imposes under paragraph 2 has not been fulfilled, that Party may apply the customs duty and any other charge that would normally be owed on the good plus any other charges or penalties provided for under its law.
+5. Si une condition qu'une Partie impose en vertu du paragraphe 2 n'a pas été remplie, cette Partie peut demander le droit de douane et de toute autre charge qui serait normalement dû sur le bien ainsi que tous les autres frais ou pénalités prévues par sa législation.
 
-6. Each party shall adopt and maintain procedures providing for the expeditious release of goods admitted under this Article. To the extent possible, such procedures shall provide that when such a good accompanies a national or resident of another Party who is seeking temporary entry, the good shall be releasable simultaneously with the entry of that national or resident.
+6. Chaque partie doit adopter et maintenir des procédures permettant la libération rapide des produits admis en vertu du présent article. Dans la mesure du possible, les procédures prévoient que lorsqu'un tel accompagnant un ressortissant ou un résident d'une autre Partie qui cherche l'admission temporaire, le bon est libérable en même temps que l'entrée de ce ressortissant ou résident.
 
-7. Each Party shall permit a good temporarily admitted under this Article to be exported through a customs port other than the port through which it was admitted.
+7. Chaque Partie doit permettre une bonne admission temporaire en vertu du présent article à exporter par un port douanier autre que le port par lequel il a été admis.
 
-8. Each Party shall provide that the importer or other persons responsible for a good admitted under this Article shall not be liable for failure to export the good upon presentation of satisfactory proof to the importing Party that the good has been destroyed within the original period fixed for temporary admission or any lawful extension,
+8. Chaque Partie prévoit que l'importateur ou toute autre personne responsable d'une bonne admis en vertu du présent article ne sont pas responsables de l'échec d'exporter le bien sur présentation d'une preuve satisfaisante à la Partie importatrice que le bien a été détruit dans le délai initial fixé pour temporaire admission ou toute prolongation légitime,
 
-9. Subject to Chapter […] (Investment) and […] (Cross-Border Trade in Services):
-  1. each Party shall allow a container used in international traffic that enters its territory from the territory of another Party to exit its territory on any route that is reasonably related to the economic and prompt departure of such container;
-  2. no Party shall require any security or impose any penalty or charge solely by reason of any difference between the port of entry and the port of departure of a container;
-  3. no Party shall condition the release of any obligation, including any security, that it imposes in respect of the entry of a container into its territory on the container's exit through any particular port of departure; and
-  4. no Party shall require that the carrier bringing a container from the territory of another Party into its territory be the same carrier that takes the container out of the Party's territory.]
+9. Sous réserve du chapitre [...] (Investissement) et [...] (Commerce transfrontières des services):
+  1. chaque Partie doit permettre un conteneur utilisé en trafic international qui entre sur son territoire depuis le territoire d'une autre Partie pour quitter son territoire, toute voie qui est raisonnablement en rapport avec l'économie et de rapidité d'un tel conteneur;
+  2. aucune Partie exige un titre ou d'imposer une pénalité ou des frais uniquement en raison de la différence entre le point d'entrée et le port de départ d'un conteneur;
+  3. aucune Partie ne conditionne la libération de toute obligation, y compris toute garantie, qu'elle impose à l'égard de l'entrée d'un conteneur sur son territoire sur la sortie du conteneur à travers un port particulier de départ; et
+  4. aucune Partie ne nécessite que le transporteur qui apporte un conteneur en provenance du territoire d'une autre Partie sur son territoire soit le même transporteur qui prend le conteneur sur le territoire de la Partie.]
 
-### X.8. Produits réadmis après réparation [US: ou altération]
+### X.8. après la réparation de Produits [US: ou altération]
 
-1. [EU: For the purposes of this Article, repair means any processing operation undertaken on goods to remedy operating defects or material damage and entailing the re-establishment of goods to their original function or to ensure their compliance with technical requirements for their use, without which the goods could no longer be used in the normal way for the purposes for which it was intended. Repair of goods includes restoring and maintenance.]
-[US: For purposes of this Article, repair or alteration does] [EU: It shall] not include an operation or process that [EU: either]:
-  1. destroys [US: a good's] [EU: the] essential characteristics [EU: of goods] or creates [US: a] new or commercially different good [EU:s,] [US: ;] or
-  2. transforms [US: an] unfinished good [EU: s] into [US: a] finished [US: good.] [EU: goods, or
-  3. is used to improve the technical performance of goods.]
+1. [UE: Aux fins du présent article, la réparation, toute opération de traitement entrepris sur les marchandises pour remédier à des défauts ou des dégâts matériels d'exploitation et entraînant le rétablissement des biens dans leur fonction d'origine ou d'assurer leur conformité avec les exigences techniques pour leur utilisation, sans où les marchandises ne pouvaient plus être utilisés de façon normale pour les fins pour lesquelles il a été conçu. Réparation de produits comprend la restauration et l'entretien.]
+[US: Aux fins du présent article, réparation ou modification ne] [UE: Il doit] pas inclure une opération ou un processus qui [UE: soit]:
+  1. détruit [US: un bon] [UE: les caractéristiques essentielles] [UE: des produits] ou crée [US: a] nouveau ou commercialement différent [UE: s,] [US:;] ou
+  2. transforme [US: une] bonne inachevée [UE: s] dans [US: a] terminé [US:. Bon] [UE: produits, ou
+  3. est utilisé pour améliorer les performances techniques des produits.]
 
-2. [EU: Except as otherwise provided in Annex X.13, a Party shall not] [US: No Party shall] apply [US: a] customs duty to [US: a] good [EU: s], regardless of [US: its] [EU: their] origin, that reenter [US: s] its territory after [US: that good has] [EU: those goods have] been temporarily exported from its territory to the territory of [EU: the other] [US: another] Party for repair [US: or alteration], regardless of whether such repair [US: or alteration has increased the value of the good or could be performed in the territory of the Party from which the good was exported for repair or alteration] [EU: could be performed in the territory of the Party from which the goods were temporarily exported for repair].
+2. [UE: Sauf disposition contraire à l'annexe X.13, une Partie ne] [US: Aucune partie ne] applique [US: a] droit de douane à [US: a] bonne [UE: s], quel que soit [US : son] [UE: leur] origine, que reenter [US: s] sur son territoire après [US: ce bon a] [UE: ces produits ont] été exportés temporairement de son territoire vers le territoire de [UE: l'autre] [US: un autre] Parti pour la réparation [US: ou la modification], indépendamment du fait que cette réparation [US: ou la modification a augmenté la valeur du bien ou pourrait être effectué sur le territoire de la Partie d'où le produit a été exporté pour réparation ou la modification] [UE: pourrait être réalisée sur le territoire de la Partie dont les marchandises ont été temporairement exportés pour réparation].
 
-3. [EU: Paragraph 2 does not apply to goods imported in bond, into free trade zones, or zones of similar status, that are exported for repair and are not re-imported in bond, into free trade zones, or zones of similar status.]
+3. [UE: Le paragraphe 2 ne concerne pas les produits importés sous douane, dans des zones franches commerciales, ou des zones de statut similaire, qui sont exportés pour réparation et ne sont pas réimportés en lien, dans des zones de libre-échange, ou des zones de statut similaire. ]
 
-4. [US: No Party shall] [EU: A Party shall not] apply [US: a] customs duty to [US: a] good [EU: s], regardless of [US: its] [EU: their] origin, [US: admitted] [EU: imported] temporarily from the territory of [US: another] [EU: the other] Party for repair [US: or alteration].
+4. [US: Aucune partie ne doit] [UE: Une Partie ne] applique [US: a] les droits de douane à [US: a] bonne [UE: s], quel que soit [US: son] [UE: leur] origine, [US: admis] [UE: importé] temporairement du territoire de [US: un autre] [UE: l'autre] Parti pour la réparation [US: ou la modification].
 
-### X.9. [US: Duty-Free Entry of Commercial Samples of Negligible Value and Printed Advertising Materials
+### X.9. [US: Duty-Free Entrée des échantillons commerciaux de valeur négligeable et imprimés publicitaires
 
-Each Party shall grant duty-free entry to commercial samples of negligible value, and to printed advertising materials, imported from the territory of another Party, regardless of their origin, but may require that:
-1. the samples be imported solely for the solicitation of orders for goods or services provided from the territory of another Party or of a non-Party; or
-2. the advertising materials be imported in packets that each contain no more than one copy of each such material and that neither the materials nor the packets form part of a larger consignment.]
+Chacune des Parties accordera l'entrée en franchise des échantillons commerciaux de valeur négligeable et des imprimés publicitaires, importés du territoire d'une autre Partie, quelle que soit leur origine, mais peut exiger que:
+1. les échantillons soient importés uniquement pour la sollicitation de commandes de biens ou de services fournis sur le territoire d'une autre Partie ou d'une non-Partie; ou
+2. les matériaux publicitaires soient importés dans des emballages contenant chacun au plus un exemplaire de tels imprimés, et que ni les matériaux, ni les paquets font partie d'un envoi plus important.]
 
-### X.10. Import and Export Restrictions
+### X.10. Import et Export Restrictions
 
-1. [EU: Article XI of the GATT 1994 and its Notes and Supplementary Provisions are incorporated into and made a part of this Agreement, mutatis mutandis.
+1. [UE: Article XI du GATT de 1994 et ses notes et dispositions additionnelles sont incorporées dans et fait partie du présent accord, mutatis mutandis.
 
-2. Before taking any measures provided for in Articles XI.2 (a) and (c) of the GATT 1994, the Party intending to take measures shall supply the other Party with all relevant information, with a view to seeking a solution acceptable to the Parties. The Parties may agree on any means needed to put an end to the difficulties. If no agreement is reached within 30 days, the exporting Party may apply measures under this Article on the exportation of the product concerned, without prejudice to the dispute settlement provisions of this Agreement. Where exceptional and critical circumstances requiring immediate action make prior information or examination impossible, the Party intending to take the measures may apply forthwith the precautionary measures necessary to deal with the situation and shall inform the other Party immediately thereof.]
+2. Avant de prendre des mesures prévues aux articles XI.2 (a) et (c) du GATT de 1994, la partie qui entend prendre les mesures doivent fournir à l'autre partie toutes les informations pertinentes, en vue de rechercher une solution acceptable pour les parties . Les parties peuvent convenir sur les moyens nécessaires pour mettre fin aux difficultés. Si aucun accord n'a été trouvé dans les 30 jours, la partie exportatrice peut appliquer les mesures en vertu du présent article à l'exportation du produit concerné, sans préjudice des dispositions de règlement des différends du présent accord. Lorsque des circonstances exceptionnelles et critiques nécessitant une action immédiate rendent l'information ou l'examen impossible avant, la partie qui entend prendre les mesures applicables immédiatement les mesures de précaution nécessaires pour faire face à la situation et en informe immédiatement l'autre partie de celui-ci.]
 
-3. [US: Except as otherwise provided in this Agreement, no Party shall adopt or maintain any prohibition or restriction on the importation of any good of another Party or on the exportation or sale for export of any good destined for the territory of another Party, except in accordance with Article XI of the GATT 1994 and its Notes and Supplementary Provisions incorporated into and made a part of this Agreement, mutatis mutandis.
+3. [US: Sauf disposition contraire dans le présent Accord, aucune Partie ne peut adopter ou maintenir une interdiction ou une restriction à l'importation d'un produit d'une autre Partie ou à l'exportation ou la vente pour l'exportation d'un produit destiné au territoire d'une autre Partie, sauf conformément à l'article XI du GATT de 1994 et ses notes et dispositions additionnelles incorporées dans et fait une partie du présent accord, mutatis mutandis.
 
-4. The Parties understand that the GATT 1994 rights and obligations incorporated by paragraph 3 prohibit, in any circumstances in which any other form of restriction is prohibited, a Party from adopting or maintaining:
-  1. export or import price requirements, except as permitted in enforcement of anti-dumping and countervailing duty orders or price undertakings;
-  2. import licensing conditioned on the fulfillment of a performance requirement; or
-  3. voluntary export restraints inconsistent with Article VI of the GATT 1994, as implemented under Article 18 of the SCM Agreement and Article 8.1 of the AD Agreement.
+4. Les Parties comprennent que les droits et obligations du GATT de 1994 sont intégrés par le paragraphe 3 interdit, en toutes circonstances dans lesquelles toute autre forme de restriction est interdite, une Partie d'adopter ou de maintenir:
+  1. exportation ou prix à l'importation des exigences, sauf dans la mesure permise dans l'application des ordonnances de droits antidumping et compensateurs ou des engagements de prix;
+  2. licences d'importation conditionnée à la réalisation d'une exigence de performance; ou
+  3. autolimitation des exportations incompatibles avec l'article VI du GATT de 1994, mis en œuvre en vertu de l'article 18 de l'Accord SMC et de l'article 8.1 de l'Accord antidumping.
 
-5. Paragraphs 3 and 4 shall not apply to the measures set out in Annex X-A.
+5. Les paragraphes 3 et 4 ne sont pas applicables aux mesures énoncées à l'annexe XA.
 
-6. For greater certainty, paragraph 3 applies to any good implementing or incorporating cryptography, where the good is not designated or modified specifically for government use and is sold or otherwise made available to the public.
+6. Il est entendu que le paragraphe 3 applique à toute bonne mise en œuvre ou en incorporant la cryptographie, où le bon est pas désigné ou modifié spécifiquement pour l'usage du gouvernement et est vendu ou mis à la disposition du public.
 
-7. In the event that a Party adopts or maintains a prohibition or restriction on the importation from or exportation to a non-Party of a good, no provision of this Agreement shall be construed to prevent that Party from:
-  1. limiting or prohibiting the importation of the good of the non-Party from territory of another Party; or
-  2. requiring, as a condition for exporting the good to territory of another Party, that the good not be re-exported to the non-Party, directly or indirectly, without being consumed in the territory of the other Party.
+7. Dans le cas où une Partie adopte ou maintient une interdiction ou une restriction à l'importation ou à l'exportation à un non-partie d'une bonne, aucune disposition du présent Accord ne peut être interprétée comme empêchant cette Partie de:
+  1. limiter ou d'interdire l'importation du bien de la non-partie du territoire d'une autre Partie; ou
+  2. exiger, comme condition pour l'exportation du bien sur le territoire d'une autre Partie, que le produit ne soit pas réexporté vers la non-partie, directement ou indirectement, sans être consommé sur le territoire de l'autre Partie.
 
-8. In the event that a Party adopts or maintains a prohibition or restriction on the importation of a good from a non-Party, the Parties, on the request of a Party, shall consult with a view to avoiding undue interference with or distortion of pricing, marketing, or distribution arrangements in the other Party.
+8. Dans le cas où une Partie adopte ou maintient une interdiction ou une restriction à l'importation d'un produit provenant d'un pays tiers, les Parties, à la demande d'une partie, se consultent en vue d'éviter toute ingérence indue ou la distorsion des prix, commercialisation, ou de distribution des arrangements dans l'autre Partie.
 
-9. No Party shall as a condition for engaging in importation generally, or for the importation of a particular good, require a person of another Party to establish or maintain a contractual or other relationship with a distributor in its territory.
+9. Aucune partie ne doit comme condition pour se livrer à l'importation en général ou pour l'importation d'un produit particulier, exiger d'une personne d'une autre Partie d'établir ou de maintenir une relation contractuelle ou autre avec un distributeur sur son territoire.
 
-10. For greater certainty, paragraph 9 does not prevent a Party from requiring that a person referred to in that paragraph designate a point of contact for the purpose of facilitating communications between its regulatory authorities and that person.]
+10. Il est entendu que le paragraphe 9 ne fait pas obstacle à une Partie d'exiger que la personne visée à ce paragraphe désigner un point de contact dans le but de faciliter les communications entre ses autorités de réglementation et cette personne.]
 
-### X.11. [US: Re-manufactured Goods
+### X.11. [US: Les marchandises Re-fabriqués
 
-1. For greater certainty, paragraph 3 of Article X.10 (Import and Export Restrictions) applies prohibitions and restrictions on re-manufactured goods.
+1. Il est entendu que le paragraphe 3 de l'article X.10 (Restrictions d'importation et d'exportation) applique les interdictions et les restrictions sur les marchandises réusinées.
 
-2. If a Party adopts or maintains prohibitions or restrictions on used goods, it shall not apply those measures to re-manufactured goods.]
+2. Si une Partie adopte ou maintient des interdictions ou des restrictions sur les marchandises utilisées, il ne doit pas appliquer ces mesures pour réintroduire des produits manufacturés.]
 
 3. 
-[US: For greater certainty, subject to its obligations under this Agreement and the relevant WTO Agreements, a Party may require that re-manufactured goods:
-  1. be identified as such for distribution or sale in its territory; and
-  2. meet all applicable technical requirements that apply to equivalent goods in new condition.]
+[US: Pour une plus grande certitude, sous réserve de ses obligations en vertu du présent Accord et les accords pertinents de l'OMC, une Partie peut exiger que les marchandises réusinées:
+  1. être identifiés en tant que tels pour la distribution ou la vente sur son territoire; et
+  2. satisfaire toutes les exigences techniques applicables applicables aux marchandises équivalentes à l'état neuf.]
 
-### X.12. Import [EU: and Export] Licensing
+### X.12. Importation [UE: et l'exportation] Licensing
 
-1. [EU: The Parties affirm their existing rights and obligations under the WTO Agreement on Import Licensing Procedures.
+1. [UE: Les Parties affirment leurs droits et obligations découlant de l'Accord de l'OMC sur les procédures de licences d'importation.
 
-2. The Parties shall ensure that all import and export licensing procedures are neutral in application, and administered in a fair, equitable, non-discriminatory and transparent manner.
+2. Les Parties veillent à ce que toutes les procédures de licences d'importation et d'exportation sont neutres dans leur application et administrées de manière juste, équitable, non discriminatoire et transparente.
 
-3. The Parties shall only adopt or maintain licensing procedures as a condition for importation into their territory or exportation from their territory to the other Party when other appropriate procedures to achieve an administrative purpose are not reasonably available.
+3. Les parties n'adopter ou maintenir des procédures d'octroi de licences en tant que condition pour l'importation sur leur territoire ou à l'exportation de leur territoire à l'autre Partie lorsque les autres procédures appropriées pour atteindre des fins administratives ne sont pas raisonnablement disponibles.
 
-4. The Parties shall not adopt or maintain non-automatic import or export licensing procedures unless such procedures are necessary to implement a measure that is consistent with this Agreement. Any Party adopting a non-automatic licensing procedure shall indicate clearly the measure being implemented through such a licensing procedure.
+4. Les parties ne doivent pas adopter ou maintenir des procédures de licences non automatiques importation ou d'exportation à moins que ces procédures sont nécessaires pour mettre en œuvre une mesure qui est conforme au présent accord. Toute Partie adoptant une procédure de licences non automatiques doit indiquer clairement la mesure mise en œuvre par le biais d'une telle procédure d'autorisation.
 
-5. The Parties shall introduce and administer any import licensing procedures in accordance with Articles 1 to 3 of the WTO Agreement on Import Licensing Procedures.
+5. Les Parties mettent en place et administrer toutes les procédures de licences d'importation conformément aux articles 1 à 3 de l'Accord de l'OMC sur les procédures de licences d'importation.
 
-6. Any Party introducing licensing procedures or changes in these procedures shall proceed in accordance with Article 5 of the WTO Agreement on Import Licensing Procedures.
+6. Toute partie des procédures d'autorisation introduisant ou des changements de ces procédures doivent, conformément à l'article 5 de l'Accord de l'OMC sur les procédures de licences d'importation.
 
-7. Upon request of the other Party, each Party shall promptly provide any relevant information regarding any licensing procedures which the Party to which the request is addressed intends to adopt or has adopted or maintained, including the information indicated in paragraph 5.]
+7. À la demande de l'autre Partie, chaque Partie doit fournir sans délai toute information pertinente concernant les procédures d'octroi de licences de la Partie à laquelle la demande est adressée a l'intention d'adopter ou a adoptées ou maintenues, y compris les informations indiquées au paragraphe 5.]
 
-8. [US: Promptly after this Agreement enters into force, each Party shall notify another party of its existing import licensing procedures, if any. The notification shall:
-  1. include the information specified in Article 5.2 of the Import Licensing Agreement; and
-  2. be without prejudice as to whether the import licensing procedure is consistent with this Agreement.
+8. [US: Immédiatement après le présent Accord entre en vigueur, chaque partie doit informer l'autre partie de ses procédures de licences d'importation existantes, le cas échéant. La notification doit:
+  1. comprennent les informations visées à l'article 5.2 de l'Accord de licences d'importation; et
+  2. sans préjudice quant à savoir si la procédure de licences d'importation est conforme au présent accord.
 
-9. A Party shall be deemed to be in compliance with paragraph 8 if:
-  1. it has notified that procedure to the Committee on Import Licensing provided for in Article 4 of the Import Licensing Agreement, together with the information specified in Article 5.2 of the agreement; and
-  2. in the most recent annual submission due before entry into force of this Agreement for that Party to the Committee on Import Licensing in response to the annual questionnaire on import licensing procedures described in Article 7.3 of the Import Licensing Agreement, it has provided, with respect to that procedure the information requested in that questionnaire.
+9. Une Partie sera réputée être en conformité avec le paragraphe 8 si:
+  1. il a notifié cette procédure à la Comité des licences d'importation prévu à l'article 4 de l'Accord sur les licences d'importation, ainsi que les informations visées à l'article 5.2 de l'accord; et
+  2. dans la plus récente présentation annuelle due avant l'entrée en vigueur du présent accord pour la Partie au Comité des licences d'importation en réponse au questionnaire annuel sur les procédures de licences d'importation visées à l'article 7.3 de l'Accord sur les licences d'importation, il a fourni, avec respecter cette procédure les informations demandées dans ce questionnaire.
 
-10. A Party shall publish on an official government Internet website any new or modified import licensing procedure, including any inf5ormation that it is required to publish under Article 1.4(a) of the Import Licensing Agreement. To the extent possible, the Party shall do so at least 20 days before the new procedure or modification takes effect.
+10. Une Partie publie sur un site Internet officiel du gouvernement toute procédure nouvelle ou modifiée de licences d'importation, y compris les inf5ormation qu'il est tenu de publier en vertu de l'article 1.4 (a) de l'Accord de licences d'importation. Dans la mesure du possible, la Partie doit faire au moins 20 jours avant la nouvelle procédure ou de modification prend effet.
 
-11. No Party shall apply an import licensing procedure to a good of another Party unless the Party has complied with the requirements of paragraphs 8 and 10 with respect to that procedure.]
+11. Aucune partie ne doit appliquer une procédure de licences d'importation à une bonne d'une autre Partie à moins que la partie a satisfait aux exigences des paragraphes 8 et 10 par rapport à cette procédure.]
 
-### X.13. [US: Transparency in Export Licensing Procedures
+### X.13. [Etats-Unis: La transparence dans les procédures de licences d'exportation
 
-1. Within 30 days after the date of entry into force of this Agreement, each Party shall notify the other Party in writing of the publications in which its export licensing procedures, if any, are set out, including addresses of relevant government Internet websites. Thereafter, each Party shall publish any new export licensing procedure, or any modification of an export licensing procedure, it adopts no later than 30 days after the new procedure or modification takes effect.
+1. Dans les 30 jours après la date d'entrée en vigueur du présent Accord, chaque Partie notifie à l'autre partie par écrit des publications dans lesquelles ses procédures de licences d'exportation, le cas échéant, sont exposées, y compris les adresses de sites Internet gouvernementaux concernés. Par la suite, chaque Partie doit publier toute nouvelle procédure de licences d'exportation, ou toute modification d'une procédure d'octroi de licences d'exportation, il adopte au plus tard 30 jours après la nouvelle procédure ou de modification prend effet.
 
-2. Each Party shall ensure that it includes in the publications it has notified under paragraph 1:
-  1. the texts of its export licensing procedures, including any modifications it makes to those procedures;
-  2. the goods subject to each licensing procedure;
-  3. for each procedure, a description of:
-    1. the process for applying for license; and
-    2. any criteria an applicant must meet to be eligible to seek a license, such as possessing an activity license, establishing or maintaining an investment, or operating through a particular form of establishment in a Party's territory;
-  4. a contact point or points from which interested persons can obtain further information on the conditions for obtaining an export license;
-  5. the administrative body or bodies to which an application or other relevant documentation should be submitted;
-  6. a description of any measure or measures that the export licensing procedure is designed to implement;
-  7. the period during which each export licensing procedure will be in effect, unless the procedure will remain in effect until withdrawn or revised in a new publication;
-  8. if the Party intends to use a licensing procedure to administer an export quota, the overall quantity and value of the quota and the opening and closing dates of the quota; and
-  9. any exemptions or exceptions available to the public that replace the requirement to obtain an export license, how to request or use these exemptions or exceptions, and the criteria for them.
+2. Chaque Partie veille à ce qu'elle inclut dans les publications qu'il a notifiés en vertu du paragraphe 1:
+  1. les textes de ses procédures de licences d'exportation, y compris toutes les modifications qu'il apporte à ces procédures;
+  2. les marchandises en question à chaque procédure d'autorisation;
+  3. pour chaque procédure, une description:
+    1. le processus de demande de licence; et
+    2. aucun critère demandeur doit satisfaire pour être admissible à demander une licence, comme la possession d'une licence d'activité, l'établissement ou le maintien d'un investissement ou d'exploitation par le biais d'une forme particulière d'établissement sur le territoire d'une Partie;
+  4. un ou plusieurs points de contact à partir de laquelle les personnes intéressées peuvent obtenir de plus amples informations sur les conditions d'obtention d'une licence d'exportation;
+  5. le ou les corps administratif auquel une demande ou d'autres documents pertinents doivent être présentés;
+  6. une description de toute mesure ou des mesures que la procédure d'autorisation d'exportation est conçu pour mettre en œuvre;
+  7. la période au cours de laquelle chaque procédure de licences d'exportation sera en vigueur, à moins que la procédure restera en vigueur jusqu'à son retrait ou révisé dans une nouvelle publication;
+  8. si la Partie a l'intention d'utiliser une procédure d'autorisation d'administrer un quota d'exportation, la quantité globale et la valeur du quota et l'ouverture et les dates de clôture du contingent; et
+  9. des exemptions ou exceptions à la disposition du public qui remplacent l'obligation d'obtenir une licence d'exportation, comment demander ou utiliser ces exemptions ou exceptions, et les critères pour eux.
 
-3. A Party shall provide another Party, upon the other Party's request and to the extent possible, the following information regarding a particular export licensing procedure that it adopts or maintains, except where doing so would reveal business proprietary or other confidential information of a particular person:
-  1. the aggregate number of licenses the Party has granted over a recent period specified in the other Party's request; and
-  2. measures, if any, that the Party has taken in conjunction with the licensing procedure to restrict domestic production or consumption or to stabilize production, supply, or prices for the relevant good(s).
+3. Une Partie doit fournir une autre Partie, à la demande de l'autre Partie et dans la mesure du possible, les informations suivantes concernant une procédure de licences d'exportation particulier qu'elle adopte ou maintient, sauf lorsque cela pourrait révéler des affaires de propriété ou d'autres informations confidentielles d'une personne en particulier:
+  1. le nombre total de licences du Parti a accordé sur une période récente spécifiée dans la demande de l'autre Partie; et
+  2. Les mesures, le cas échéant, que le Parti a pris en conjonction avec la procédure d'autorisation pour restreindre la production ou à la consommation intérieure ou pour stabiliser la production, la fourniture, ou des prix pour le bien (s) pertinente.
 
-4. Nothing in this Article shall be construed in a manner that would require a Party to grant an export license, or that would prevent a Party from implementing its obligations under United Nations Security Council Resolutions, as well as multilateral non-proliferation regimes, including: the Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies; the Nuclear Suppliers Group; the Australia Group; the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, done at Paris, January 13, 1993; the Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on Their Destruction, done at Washington, London and Moscow, April 10, 1972; the Treaty on the Non-Proliferation of Nuclear Weapons; and the Missile Technology Control Regime.
+4. Rien dans le présent article ne doit être interprétée d'une manière qui nécessiterait une Partie d'accorder une licence d'exportation, ou qui pourrait empêcher une Partie de ses obligations en vertu des résolutions du Conseil de sécurité des Nations Unies, ainsi que les régimes multilatéraux de non-prolifération, y compris: le arrangement de Wassenaar sur le contrôle des exportations d'armes classiques et biens à double usage et des technologies; Groupe des fournisseurs nucléaires; Groupe de l'Australie; la Convention sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction, faite à Paris, le 13 Janvier, 1993; la Convention sur l'interdiction de la mise au point, de la fabrication et de stockage des armes bactériologiques (biologiques) ou à toxines et sur leur destruction, faite à Washington, Londres et Moscou, le 10 Avril, 1972; le Traité sur la non-prolifération des armes nucléaires; et le Régime de contrôle des technologies de missiles.
 
-5. For the purposes of this Article: export licensing procedure means a requirement that a Party adopts or maintains under which an exporter must, as a condition for exporting a good from the Party's territory, submit an application or other documentation to an administrative body or bodies, but does not include customs documentation required in the normal course of trade or any requirement that must be fulfilled prior to introduction of the good into commerce within the Party's territory.]
+5. Aux fins du présent article: procédure d'autorisation d'exportation signifie une exigence qu'une Partie adopte ou maintient en vertu de laquelle l'exportateur doit, comme condition de l'exportation d'un bien à partir du territoire de la Partie, présenter une demande ou d'autres documents à un organe ou les organes administratifs, mais ne comprend pas la documentation douanière requise dans le cours normal du commerce, ou toute condition qui doit être remplie avant l'introduction du bien dans le commerce sur le territoire de la Partie.]
 
-### X.14. [US: Administrative] Fees Formalities [EU: Connected with Importation and Exportation]
+### X.14. [US: administrative] Frais Formalités [UE: Connecté à l'importation et à l'exportation]
 
-1. [EU: Each Party shall ensure, in accordance with Article VIII of the GATT 1994, that all fees and charges of whatever character other than customs duties imposed on or in connection with importation or exportation shall be limited in amount to the approximate cost of services rendered, which shall not be calculated on an ad valorem basis, and shall not represent an indirect protection to domestic goods or taxation of imports or exports for fiscal purposes. To this end Article VIII of the GATT 1994, including its Notes and Supplementary Provisions, is made part of this Agreement.]
+1. [UE: Chaque Partie veille, conformément à l'article VIII du GATT de 1994, que toutes les redevances et impositions de quelque nature qu'elles soient autres que les droits de douane imposés sur ou en relation avec l'importation ou à l'exportation doivent être limitées au coût approximatif des services rendu, qui ne doit pas être calculé sur une base ad valorem, et ne constituent pas une protection indirecte des produits nationaux ou une imposition des importations ou des exportations à des fins fiscales. A cette fin, l'article VIII du GATT de 1994, y compris ses notes et dispositions additionnelles, est fait partie du présent Accord.]
 
-2. No Party shall require consular transaction [EU: 4(voir notes en bas de page)], including related fees and charges, in connection with the importation of any good of a [EU: nother] Party.
+2. Aucune Partie exige transaction consulaire [UE: 4 (notes de voir en bas de page)], y compris les frais et les charges connexes, dans le cadre de l'importation d'un bien d'un [UE: nother] Parti.
 
-4 [See Definitions.]
+4 [Voir Définitions.]
 
-3. Each Party shall [US: make available and maintain on the Internet] [EU: publish] a [US: current] list of the fees and charges [US: subject to the obligation in paragraph 2 that] it imposes in connection with importation or exportation.
+3. Chaque Partie [US: mettre à la disposition et à maintenir sur Internet] [UE: publier] un [US: courant] liste des frais et charges [US: sous réserve de l'obligation énoncée au paragraphe 2] qu'il impose dans le cadre de l'importation ou exportation.
 
-### X.15. [US: Export] [EU: Elimination of Customs] Duties [US: ,] [EU: and] Taxes [US:, or Other Charges] [EU: on Exports]
+### X.15. [US Export] [UE: Elimination des douanes] [Devoirs des États-Unis:,] [UE: et] Taxes [US :, ou autres frais] [UE: sur les exportations]
 
-[US: No] [EU: Neither] Party shall [US: adopt or] maintain [EU: or institute] any [EU: customs] duty, [EU: or] tax [US: or other charge] on [EU: or in connection with] the export [EU: ation or sale for export of goods] [US: of any good to territory of another Party] [EU: to the other Party, or any internal taxes on goods exported to the other Party that are in excess of those imposed on like goods destined for internal sale] [US: unless the duty, tax, or charge is also applied to the good when destined for domestic consumption].
+[US: Non] [UE: Ni] Partie [US: adopter ou] maintenir [UE: ou un institut] toute [UE: douanes] devoir, [UE: ou] taxe [US: ou autre charge] sur [UE: ou en relation avec] l'exportation [UE: ation ou à la vente pour l'exportation de produits] [US: de tout bon sur le territoire d'une autre Partie] [UE: à l'autre Partie, ou toutes les taxes intérieures sur les marchandises exportées vers l'autre Partie sont supérieures à celles imposées aux marchandises similaires destinés à la vente interne] [US: à moins que le droit, la taxe ou la charge est également appliquée au bien destiné à la consommation intérieure].
 
-### X.16. [US: Committee on Trade in Goods] [EU: Institutional Provisions]
+### X.16. [US: Comité sur le commerce des marchandises] [UE: Dispositions institutionnelles]
 
-1. [US: The Parties hereby establish a Committee on Trade in Goods, comprising representatives of each Party.
+1. [US: Les Parties instituent un Comité du commerce des marchandises, composé de représentants de chaque Partie.
 
-2. The Committee shall meet on the request of a Party or the Joint Committee to consider any matter arising under this Chapter, Chapter X (Roles of Origin and Origin Procedures), or Chapter Y (Customs Administration and Trade Facilitation).
+2. Le Comité se réunit à la demande d'une Partie ou par le Comité mixte pour examiner toute question relative au présent chapitre, le chapitre X (Rôles d'origine et les procédures d'origine), ou au chapitre Y (Administration des douanes et de la facilitation du commerce).
 
-3. The Committee's functions shall include:
-  1. promoting trade in goods between the Parties, including through consultations on accelerating tariff elimination under this Agreement and other issues as appropriate; and
-  1. addressing tariff and non-tariff barriers to trade in goods between the Parties and, if appropriate, referring such matters to the Joint Committee for its consideration.
+3. Les fonctions du Comité sont les suivants:
+  1. promouvoir le commerce des marchandises entre les Parties, notamment par des consultations sur l'accélération de l'élimination des droits en vertu du présent Accord et d'autres questions, le cas échéant; et
+  1. réduire les barrières tarifaires et non tarifaires au commerce des marchandises entre les parties et, le cas échéant, soumettre ces questions au comité mixte pour examen.
 
-4. The Committee shall also:
-    1. discuss and endeavor to resolve any difference that may arise between the Parties on matters related to the classification of goods under the Harmonized System;
-    2. review conversion to the Harmonized System 2017 nomenclature and its subsequent revisions to ensure that each Party's obligations under this Agreement are not altered, and consult to resolve any conflicts between:
-      1. the Harmonized System 2017 nomenclature or its revisions and Annex X-B; and
-      2. Annex X-B and national nomenclatures.
-The Committee may convene a subcommittee on customs matters to assist the Committee in its work under this paragraph.]
+4. Le Comité doit aussi:
+    1. discuter et tenter de régler tout différend qui pourrait surgir entre les Parties sur les questions relatives à la classification des marchandises dans le cadre du Système harmonisé;
+    2. Examen conversion du Système harmonisé 2017 nomenclature et ses révisions ultérieures afin d'assurer que les obligations de chacune des parties en vertu du présent Accord ne sont pas modifiées, et de consulter pour résoudre les conflits entre:
+      1. la nomenclature du Système harmonisé 2017 ou de ses révisions et à l'annexe XB; et
+      2 . Annexe XB et nomenclatures nationales.
+Le Comité peut convoquer un sous-comité sur les questions douanières pour aider le Comité dans ses travaux en vertu du présent paragraphe.]
 
 ### X.17. Définitions
 
@@ -234,67 +234,67 @@ Pour les besoins de ce Chapitre [EU: , les définitions suivantes s'appliqueront
 
 **transaction consulaire** [US: s signifie la] [EU: La] procédure d'obtention d'un consul de la Partie importatrice sur le territoire de la Partie exportatrice, ou sur le territoire d'une ([US: non-] [EU: third]) Partie neutre, une facture consulaire ou un visa consulaire pour une facture commerciale, certificat d'origine, manifeste, la déclaration d'exportation des expéditeurs, ou toute autre documentation douanière dans le cadre de l' importation de la marchandise;
 
-[EU: **Customs duty** A duty or charge of any kind imposed on or in connection with the importation or exportation of a good, including any form of surtax or surcharge imposed on or in connection with such importation or exportation. It does not include: (a) a charge equivalent to an internal tax imposed consistently with Article […] of this Chapter; (b) a duty imposed consistently with [any bilateral duties authorized under the agreement, e.g. bilateral safeguards or DS sanctions, text to be defined]; (c) a duty applied consistently with Article VI, Article XVI, Article XIX of GATT 1994, the WTO Agreement on Implementation of Article VI of GATT 1994, the WTO Agreement on Subsidies and Countervailing Measures, the WTO Agreement on Safeguards, Article V of the WTO Agreement on Agriculture and the WTO Understanding on Rules and Procedures Governing the Settlement of Disputes; or (d) a fee or other charge imposed consistently with Article […] of this Chapter.]
+[UE: ** Les droits de douane ** Un droit ou taxe de toute nature imposés ou en relation avec l'importation ou l'exportation d'un bien, y compris toute forme de surtaxe imposée sur ou dans le cadre de cette importation ou exportation. Il ne comprend pas: (a) une charge équivalant à une taxe intérieure appliquée conformément à l'article [...] du présent chapitre; (B) une obligation imposée en conformité avec [tous droits bilatéraux autorisés en vertu de l'accord, par exemple garanties ou DS bilatérales sanctions, le texte à définir]; (C) un droit appliqué en conformité avec l'article VI, l'article XVI, l'article XIX du GATT de 1994, l'Accord de l'OMC sur la mise en œuvre de l'article VI du GATT de 1994, l'Accord de l'OMC sur les subventions et les mesures compensatoires, l'Accord de l'OMC sur les sauvegardes, l'article V de l'Accord de l'OMC sur l'agriculture et le Mémorandum d'accord sur les règles et procédures régissant le règlement des différends; ou (d) une redevance ou autre charge imposée compatible avec l'article [...] du présent chapitre.]
 
-[US: **customs duties** includes any customs or import duty and a charge of any kind imposed in connection with the importation of a good, including any form of surtax or surcharge in connection with such importation, but does not include any:
-1. charge equivalent to an internal tax imposed consistently with Article III-2 of GATT 1994, in respect of like, directly competitive, or substitutable goods of the Party, or in respect of goods from which the imported good has been manufactured or produced in whole or in part;
-2. anti-dumping or countervailing duty; or
-3. fee or other charge in connection with importation commensurate with the cost of services rendered;
-*The United States anticipates that the definition for “customs duties” will be moved to the General Definitions Chapter due to its use in multiple chapters.*]
+[US: ** droits de douane ** comprend tout droit de douane ou d'importation et les frais de toute nature imposés dans le cadre de l'importation d'un produit, y compris toute forme de surtaxe dans le cadre d'une telle importation, mais ne comprend pas:
+1. frais équivalant à une taxe intérieure appliquée conformément à l'article III-2 du GATT de 1994, en ce qui concerne des produits similaires, directement concurrents ou produits substituables de la Partie, ou à l'égard des produits à partir desquels le produit importé a été fabriqué ou produit dans tout ou en partie;
+2. antidumping ou compensateurs; ou
+3. redevances ou autres frais liés à l'importation en rapport avec le coût des services rendus;
+*Les États-Unis prévoit que la définition des "droits de douane" sera déplacé vers le général Définitions Chapitre en raison de son utilisation dans plusieurs chapitres.*]
 
-[EU: **Originating** Qualifying under the rules of origin set out in the [Annex on Rules of Origin].]
+[UE:. ** ** Originaire de qualification en vertu des règles d'origine énoncées dans le [Annexe sur les règles d'origine]]
 
-[US: **advertising films and recordings** signifie recorded visual media or audio materials that exhibit for prospective customers that nature or operation of goods or services offered for sale or lease by a person established or resident in the territory of a Party;
+[US: ** films publicitaires et enregistrements ** Signifie supports d'image enregistrés ou du matériel audio qui présentent pour les clients potentiels que de la nature ou de l'exploitation des biens ou des services proposés à la vente ou à la location par une personne établie ou résidant sur le territoire d'une Partie;
 
-**commercial samples of negligible value** signifie commercial samples having a value, individually or in the aggregate as shipped, of not more than one US dollar, or the equivalent amount in the currency of another Party, or so marked, torn, perforated, or otherwise treated such that they are unsuitable for sale or use except as commercial samples;
+** Échantillons commerciaux de valeur négligeable ** Signifie échantillons commerciaux ayant une valeur, individuellement ou collectivement comme livré, de pas plus d'un dollar des États-Unis, ou le montant équivalent dans la monnaie d'une autre Partie, ou si marqué, déchiré, perforé , ou autrement traités tels qu'ils sont impropres à la vente ou à l'utilisation, sauf comme échantillons commerciaux;
 
-**consumed** signifie:
-1. actually consumed;
-2. further processed or manufactured so as to result in a substantial change in the value, form, or use of the good or in the production of another good;
+** Consommé ** signifié:
+1. effectivement consommé;
+2. transformées ou fabriquées de façon à entraîner une modification substantielle de la valeur, la forme, ou l'utilisation du bien ou dans la production d'un autre;
 
-**container** signifie an article of transport equipment that is fully or partially enclosed to constitute a compartment intended for containing merchandise or goods, is substantial and has an internal volume of one cubic meter or more, is of a permanent character and accordingly strong enough to be suitable for repeated use, is used in significant numbers in international traffic, is specially designed to facilitate the carriage of merchandise of goods by more than one mode of transport without intermediate reloading, and is designed both for ready handling, particularly when being transferred from one mode of transport to another, and to be easy to fill and to empty, but does not include vehicles, accessories or spare parts of vehicles, or packaging;
+** Récipient ** Signifie un article de matériel de transport qui est entièrement ou partiellement fermé pour constituer un compartiment destiné à contenir des marchandises ou des biens, est importante et a un volume interne d'un mètre cube ou plus, est d'un caractère permanent et solide assez pour être adapté à une utilisation répétée, est utilisé dans un nombre important dans le trafic international, est spécialement conçu pour faciliter le transport de marchandises de marchandises par plus d'un mode de transport sans rupture de charge, et est conçu à la fois pour la manutention, notamment lors être transférées d'un mode de transport à un autre, et d'être facile à remplir et à vider, mais ne comprend pas les véhicules, les accessoires ou pièces détachées des véhicules, ni les emballages;
 
-**distributor** signifie a person of a Party who is responsible for the commercial distribution, agency, concession, or representation in the territory of the Party of goods of another Party;
+** Distributeur ** Signifie une personne d'une Partie qui est responsable de la distribution commerciale, agence, concession, ou la représentation dans le territoire de la Partie des marchandises d'une autre Partie;
 
-**duty-free** signifie free of customs duty;
+** En franchise de droits ** signifié en franchise de droits de douane;
 
-**goods admitted for sports purposes** signifie sports requisites for use in sports contests, demonstrations, or training in the territory of the Party into whose territory such goods are admitted;
+** marchandises admises à des fins sportives ** articles de sport de Signifie pour une utilisation dans des compétitions sportives, des démonstrations, ou de formation sur le territoire de la Partie sur le territoire duquel ces biens sont admis;
 
-**import licensing** signifie an administrative procedure requiring the submission of an application or other documentation (other than that generally required for customs clearance purposes) to the relevant administrative body or bodies as a prior condition for importation into the territory of the importing Party;
+** Licences d'importation ** Signifie une procédure administrative exigeant la présentation d'une demande ou d'autres documents (autres que ceux généralement requis à des fins de dédouanement) pour le ou les organismes administratifs pertinents comme condition préalable à l'importation sur le territoire de la Partie importatrice ;
 
-**performance** requirement signifie a requirement that:
-1. a given level or percentage of goods or services be exported;
-2. domestic goods or services of the Party granting a waiver of customs duties or an import license be substituted for imported goods;
-3. a person benefiting from a waiver of customs duties or an import license purchase other goods or services in the territory of the Party granting the waiver of customs duties or the import license, or accord a preference to domestically produced goods;
-4. a person benefiting from a waiver of customs duties or an import license produce goods or supply services with a given level or percentage of domestic content in the territory of the Party granting the waiver of customs duties or the import license; or
-5. relates in any way the volume or value of imports to the volume or value of exports or the amount of foreign exchange inflows;
-but does not include a requirement that an imported good be:
-6. subsequently exported;
-7. used as a material in the production of another good that is subsequently exported;
-8. substituted by an identical or similar good used as a material in the production of another good that is subsequently exported; or
-9. substituted by an identical or similar good that is subsequently exported;
+** La performance ** exigence signifié une exigence selon laquelle:
+1. un niveau ou le pourcentage de produits ou de services exportés;
+2. des biens ou des services de la Partie qui accorde une remise des droits de douane ou d'une licence d'importation domestiques sont substitués à des produits importés;
+3. une personne bénéficiant d'une exemption des droits de douane ou d'un achat de licence d'importation autres biens ou services sur le territoire de la Partie qui accorde l'exemption des droits de douane ou de la licence d'importation, ou accorder une préférence aux marchandises produites dans le pays;
+4. une personne bénéficiant d'une exemption des droits de douane ou d'une licence d'importation de produire des biens ou des services d'approvisionnement avec un niveau ou le pourcentage de contenu national sur le territoire de la Partie qui accorde l'exemption des droits de douane ou la licence d'importation; ou
+5. concerne en aucune façon le volume ou la valeur des importations au volume ou à la valeur des exportations ou le montant des entrées de devises;
+mais ne comprend pas une exigence selon laquelle une marchandise importée soit:
+6. réexporté;
+7. utilisé comme matière dans la production d'un autre qui est ensuite exporté;
+8. substitué par un produit identique ou similaire utilisé comme matière dans la production d'un autre qui est ensuite exporté; ou
+9. substitué par un produit identique ou similaire qui est ensuite exporté;
 
-**printed advertising materials** signifie those goods classified in Chapter 49 of the Harmonized System, including brochures, pamphlets, leaflets, trade catalogs, yearbooks published by trade associations, tourist promotional materials, and posters, that are used to promote, publicize, or advertise a good or service, are essentially intended to advertise a good or service, and are supplied free of charge; and
+** Imprimés publicitaires ** Signifie les marchandises classées dans le chapitre 49 du système harmonisé, y compris brochures, dépliants, prospectus, catalogues commerciaux, annuaires publiés par des associations commerciales, le matériel promotionnel du tourisme, et des affiches, qui sont utilisés pour promouvoir, diffuser, ou d'annoncer un bien ou un service, sont essentiellement destinés à la publicité d'un bien ou un service, et sont fournis gratuitement; et
 
-**SCM Agreement** signifie the WTO Agreement on Subsidies and Countervailing Measures.]
+** Accord SMC ** Signifie l'Accord de l'OMC sur les subventions et les mesures compensatoires.]
 
-**[US: ANNEX A: NATIONAL TREATMENT AND IMPORT AND EXPORT RESTRICTIONS**
+** [US: ANNEXE A: TRAITEMENT NATIONAL ET D'IMPORTATION ET D'EXPORTATION RESTRICTIONS **
 
-**Section A: Mesures des États-Unis**
+** Section A: Mesures des États-Unis **
 
-Articles X.3 (National Treatment) and X.10 (Import and Export Restrictions) shall not apply to:
-1. controls on the export of logs of all species;
+Articles X.3 (Traitement national) et X.10 (Restrictions d'importation et d'exportation) ne sont pas applicables:
+1. Les contrôles sur l'exportation de billes de toutes les espèces;
 2.
-  1. measures under existing provisions of the Merchant Marine Act of 1920 [46 App. U.S.C. § 883], the Passenger Vessel Services Act [46 App. U.S.C. §§ 289, 292, and 316] and [46 U.S.C. § 12108] to the extent that such measures were mandatory legislation at the time of the accession of the United States to the General Agreement on Tariffs and Trade 1947 (GATT 1947) and have not been amended so as to decease their conformity with Part II of the GATT 1947;
-  2. the continuation or prompt renewal of a non-conforming provision of any statute referred to in clause (i); and
-  3. the amendment to a non-conforming provision of any statute referred to in clause (i) to the extent that the amendment does not decrease the conformity of the provision with Articles X.3 (National Treatment) and X.11 (Import and Export Restrictions);
-3. actions authorized under Article 22 of the WTO Understanding on Rules and Procedures Governing the Settlement of Disputes by the Dispute Settlement Body of the WTO; and
-4. any measure that the United States applies to address market disruption pursuant to procedures that have been incorporated into the WTO Agreement.]
+  1. Des mesures en vertu des dispositions actuelles de la Loi sur la marine marchande de 1920, [46 App. USC § 883], la Loi sur les services __gVirt_NP_NN_NNPS<__ navires à passagers [46 App. USC §§ 289, 292, et 316] et [46 USC § 12108] dans la mesure où ces mesures avaient force de loi au moment de l'adhésion des États-Unis à l'Accord général sur les tarifs douaniers et le commerce de 1947 (GATT de 1947) et n'a pas été modifié de manière à DECES leur conformité avec la partie II du GATT de 1947;
+  2. la poursuite ou au prompt renouvellement d'un non-conforme de toute loi visée à l'alinéa (i); et
+  3. la modification d'une disposition non conforme de toute loi visée à l'alinéa (i) dans la mesure où la modification ne réduise pas la conformité de cette disposition aux articles X.3 (Traitement national) et X.11 (importation et Restrictions à l'exportation);
+3. Les actions autorisées en vertu de l'article 22 du Mémorandum d'accord sur les règles et procédures régissant le règlement des différends par l'Organe de règlement des différends de l'OMC; et
+4. toute mesure que les États-Unis appliquent à remédier à la désorganisation du marché conformément aux procédures qui ont été incorporés dans l'Accord sur l'OMC.]
 
-**[US: ANNEX B: TARIFF ELIMINATION**
+** [US: ANNEXE B: DÉMANTÈLEMENT TARIFAIRE **
 
-1. Except as otherwise provided in a Party's Schedule to this Annex, the following staging categories apply to the elimination of customs duties by each Party pursuant to Article XX.X;]
-2. The base rate of customs [EU: duties on imports, to which the successive reductions are to be applied under paragraph […], shall be specified in the Schedules.] [US: duty and staging category for determining the interim rate of customs duty at each stage of reduction for an item are indicated for the item in each Party's Schedule to this Annex.]
-3. [US: Interim staged rates shall be rounded down, at least to the nearest tenth of a percentage point or, if the rate of duty is expressed in monetary units, at least to the nearest tenth of one USD cent in the case of the United States and the nearest tenth of one EUR cent in the case of the European Union.
-4. For purposes of this Annex and a Party's Schedule to this Annex, year one means the year of entry into force of this Agreement as provided for in Article […] (Entry into Force and Termination).
-5. For purposes of this Annex and a Party's Schedule to this Annex, beginning in year two, each annual stage of tariff reduction shall take effect on January 1 of the relevant year.]
+1. Sauf disposition contraire dans la liste d'une Partie à la présente annexe, les catégories d'échelonnement suivantes sont applicables à l'élimination des droits de douane par chacune des Parties conformément à l'article XX.X;]
+2. Le taux de douanes de base [UE: droits sur les importations, sur lequel les réductions successives sont à appliquer en vertu du paragraphe [...], doit être spécifiée dans les annexes.] [US: le devoir et la catégorie d'échelonnement pour déterminer le taux de droit de douane à chaque étape de la réduction d'un élément sont indiqués pour le produit dans la Liste de chaque partie à la présente annexe.]
+3. [US: intérimaire mis en scène les taux doivent être arrondis vers le bas, au moins au dixième d'un point de pourcentage ou, si le taux de droit est exprimé en unités monétaires, au moins au dixième d'un USD cent dans le cas des États- Unis et le dixième d'un EUR cent dans le cas de l'Union européenne.
+4. Aux fins de la présente annexe et la liste d'une Partie à la présente annexe, la première année, l'année d'entrée en vigueur du présent accord tel que prévu à l'article [...] (Entrée en vigueur et dénonciation).
+5. Aux fins de la présente annexe et la liste d'une Partie à la présente annexe, à compter de la deuxième année, chaque étape annuel de réduction tarifaire prendra effet le 1er Janvier de l'année concernée.]
